@@ -1,4 +1,142 @@
-const YearEndSong1956 = [
+const YearEndSongs1950 = [
+    {id: 1, artist: 'Gordon Jenkins & The Weavers', title: 'Goodnight Irene'},
+    {id: 2, artist: 'Nat King Cole', title: 'Mona Lisa'},
+    {id: 3, artist: 'Anton Karas', title: 'Third Man Theme'},
+    {id: 4, artist: 'Gary & Bing Crosby', title: 'Sams Song'},
+    {id: 5, artist: 'Gary & Bing Crosby', title: 'Simple Melody'},
+    {id: 6, artist: 'Teresa Brewer', title: 'Music, Music, Music'},
+    {id: 7, artist: 'Guy Lombardo', title: 'Third Man Theme'},
+    {id: 8, artist: 'Red Foley', title: 'Chattanoogie Shoe Shine Boy'},
+    {id: 9, artist: 'Sammy Kaye', title: 'Harbor Lights'},
+    {id: 10, artist: 'Sammy Kaye & Don Cornell', title: 'It Isnt Fair'},
+    {id: 11, artist: 'Eileen Barton', title: 'If I Knew You Were Coming Id have Baked a Cake'},
+    {id: 12, artist: 'Kay Starr', title: 'Bonapartes Retreat'},
+    {id: 13, artist: 'Gordon Jenkins & The Weavers', title: 'Tzena, Tzena, Tzena'},
+    {id: 14, artist: 'Tony Martin', title: 'Theres No Tomorrow'},
+    {id: 15, artist: 'Phil Harris', title: 'The Thing'},
+    {id: 16, artist: 'Ames Brothers', title: 'Sentimental Me'},
+    {id: 17, artist: 'Andrews Sisters & Gordon Jenkins', title: 'I Wanna Be Loved'},
+    {id: 18, artist: 'Patti Page', title: 'Tennessee Waltz'},
+    {id: 19, artist: 'Andrews Sisters & Gordon Jenkins', title: 'I Can Dream, Cant I'},
+    {id: 20, artist: 'Tennessee Ernie Ford & Kay Starr', title: 'Ill Never Be Free'}
+];
+
+const YearEndSongs1951 = [
+    {id: 1, artist: 'Nat King Cole', title: 'Too Young'},
+    {id: 2, artist: 'Tony Bennett', title: 'Because of You'},
+    {id: 3, artist: 'Les Ford & Mary Ford', title: 'How High the Moon'},
+    {id: 4, artist: 'Rosemary Clooney', title: 'Come on-a My House'},
+    {id: 5, artist: 'Mario Lanza', title: 'Be My Love'},
+    {id: 6, artist: 'The Weavers', title: 'On Top of Old Smoky'},
+    {id: 7, artist: 'Tony Bennett', title: 'Cold, Cold Heart'},
+    {id: 8, artist: 'Perry Como', title: 'If'},
+    {id: 9, artist: 'Mario Lanza', title: 'The Loveliest Night of the Year'},
+    {id: 10, artist: 'Patti Page', title: 'Tennessee Waltz'},
+    {id: 11, artist: 'Frankie Laine', title: 'Jezebel'},
+    {id: 12, artist: 'Tony Martin', title: 'I Get Ideas'},
+    {id: 13, artist: 'Les Paul & Mary Ford', title: 'Mockin Bird Hill'},
+    {id: 14, artist: 'Patti Page', title: 'Mockin Bird Hill'},
+    {id: 15, artist: 'Guy Mitchell & Mitch Miller', title: 'My Heart Cries for You'},
+    {id: 16, artist: 'Eddy Howard', title: '(Its No) Sin'},
+    {id: 17, artist: 'Vaughn Monroe', title: 'Sound Off'},
+    {id: 18, artist: 'Dinah Shore', title: 'Sweet Violets'},
+    {id: 19, artist: 'Les Paul & Mary Ford', title: 'The World Is Waiting for the Sunrise'},
+    {id: 20, artist: 'Guy Mitchell & Mitch Miller', title: 'My Truly, Truly Fair'}
+];
+
+const YearEndSongs1952 = [
+    {id: 1, artist: 'Leroy Anderson', title: 'Blue Tango'},
+    {id: 2, artist: 'Kay Starr', title: 'Wheel of Fortune'},
+    {id: 3, artist: 'Johnnie Ray & The Four Lads', title: 'Cry'},
+    {id: 4, artist: 'Jo Stafford', title: 'You Belong to Me'},
+    {id: 5, artist: 'Vera Lynn', title: 'Auf Wiedersehn Sweetheart'},
+    {id: 6, artist: 'Rosemary Clooney', title: 'Half as Much'},
+    {id: 7, artist: 'Eddie Fisher', title: 'Wish You Were Here'},
+    {id: 8, artist: 'Patti Page', title: 'I Went to Your Wedding'},
+    {id: 9, artist: 'Al Martino', title: 'Here in My Heart'},
+    {id: 10, artist: 'Percy Faith', title: 'Delicado'},
+    {id: 11, artist: 'Georgia Gibbs', title: 'Kiss of Fire'},
+    {id: 12, artist: 'Eddie Fisher', title: 'Anytime'},
+    {id: 13, artist: 'The Four Aces', title: 'Tell Me Why'},
+    {id: 14, artist: 'Ella Mae Morse', title: 'Blacksmith Blues'},
+    {id: 15, artist: 'Jo Stafford', title: 'Jambalaya (On the Bayou)'},
+    {id: 16, artist: 'Rosemary Clooney', title: 'Botch-a-Me (Ba-Ba-Baciami Piccina)'},
+    {id: 17, artist: 'Doris Day', title: 'A Guy Is a Guy'},
+    {id: 18, artist: 'Johnnie Ray', title: 'The Little White Cloud That Cried'},
+    {id: 19, artist: 'Frankie Laine', title: 'High Noon'},
+    {id: 20, artist: 'Eddie Fisher', title: 'Im Yours'}
+];
+
+const YearEndSongs1953 = [
+    {id: 1, artist: 'Percy Faith', title: 'The Song from Moulin Rouge'},
+    {id: 2, artist: 'Les Paul & Mary Ford', title: 'Vaya con Dios'},
+    {id: 3, artist: 'Patti Page', title: '(How Much Is) That Doggie in the Window?'},
+    {id: 4, artist: 'Eddie Fisher', title: 'Im Walking Behind You'},
+    {id: 5, artist: 'Ames Brothers', title: 'You, You, You'},
+    {id: 6, artist: 'Teresa Brewer', title: 'Till I Waltz Again with You'},
+    {id: 7, artist: 'Les Baxter', title: 'April in Portugal'},
+    {id: 8, artist: 'Perry Como', title: 'No Other Love'},
+    {id: 9, artist: 'Perry Como', title: 'Dont Let the Stars Get in Your Eyes'},
+    {id: 10, artist: 'Frankie Laine', title: 'I Believe'},
+    {id: 11, artist: 'Pee Wee Hunt', title: 'Oh'},
+    {id: 12, artist: 'Frank Chacksfield', title: 'Ebb Tide'},
+    {id: 13, artist: 'Nat King Cole', title: 'Pretend'},
+    {id: 14, artist: 'Richard Hayman', title: 'Ruby'},
+    {id: 15, artist: 'Stan Freberg', title: 'St. George and the Dragonet'},
+    {id: 16, artist: 'The Hilltoppers', title: 'P.S. I Love You'},
+    {id: 17, artist: 'The Gaylords', title: 'Tell Me Youre Mine'},
+    {id: 18, artist: 'Julius La Rosa', title: 'Eh, Cumpari'},
+    {id: 19, artist: 'Tony Bennett', title: 'Rags to Riches'},
+    {id: 20, artist: 'Silvana Mangano', title: 'Anna'}
+];
+
+const YearEndSongs1954 = [
+    {id: 1, artist: 'Kitty Kallen', title: 'Little Things Mean a Lot'},
+    {id: 2, artist: 'Perry Como', title: 'Wanted'},
+    {id: 3, artist: 'Rosemary Clooney', title: 'Hey There'},
+    {id: 4, artist: 'The Crew-Cuts', title: 'Sh-Boom'},
+    {id: 5, artist: 'Jo Stafford', title: 'Make Love to Me'},
+    {id: 6, artist: 'Eddie Fisher', title: 'Oh! My Pa-Pa'},
+    {id: 7, artist: 'The Four Knights', title: '(Oh Baby Mine) I Get So Lonely'},
+    {id: 8, artist: 'The Four Aces', title: 'Three Coins in the Fountain'},
+    {id: 9, artist: 'Doris Day', title: 'Secret Love'},
+    {id: 10, artist: 'Archie Bleyer', title: 'Hernandos Hideaway'},
+    {id: 11, artist: 'Frank Sinatra', title: 'Young at Heart'},
+    {id: 12, artist: 'Rosemary Clooney', title: 'This Ole House'},
+    {id: 13, artist: 'Eddie Fisher', title: 'I Need You Know'},
+    {id: 14, artist: 'Patti Page', title: 'Cross Over the Bridge'},
+    {id: 15, artist: 'The Gaylords', title: 'The Little Shoemaker'},
+    {id: 16, artist: 'Dean Martin', title: 'Thats Amore'},
+    {id: 17, artist: 'Frank Weir', title: 'The Happy Wanderer'},
+    {id: 18, artist: 'Nat King Cole', title: 'Answer Me, My Love'},
+    {id: 19, artist: 'Tony Bennett', title: 'Stranger in Paradise'},
+    {id: 20, artist: 'Doris Day', title: 'If I Give My Heart to You'}
+];
+
+const YearEndSongs1955 = [
+    {id: 1, artist: 'Perez Prado', title: 'Cherry Pink and Apple Blossom White'},
+    {id: 2, artist: 'Bill Haley & His Comets', title: 'Rock Around the Clock'},
+    {id: 3, artist: 'Mitch Miller', title: 'The Yellow Rose of Texas'},
+    {id: 4, artist: 'Roger Williams', title: 'Autumn Leaves'},
+    {id: 5, artist: 'Les Baxter', title: 'Unchained Melody'},
+    {id: 6, artist: 'Bill Hayes', title: 'The Ballad of Davy Crockett'},
+    {id: 7, artist: 'The Four Aces', title: 'Love Is a Many-Splendored Thing'},
+    {id: 8, artist: 'The McGuire Sisters', title: 'Sincerely'},
+    {id: 9, artist: 'Pat Boone', title: 'Aint That a Shame'},
+    {id: 10, artist: 'Georgia Gibbs', title: 'The Wallflower (Dance with Me, Henry)'},
+    {id: 11, artist: 'Johnny Maddox', title: 'The Crazy Otto Medley'},
+    {id: 12, artist: 'Billy Vaughn', title: 'Melody of Love'},
+    {id: 13, artist: 'Tennessee Ernie Ford', title: 'Sixteen Tons'},
+    {id: 14, artist: 'Frank Sinatra', title: 'Learnin the Blues'},
+    {id: 15, artist: 'The Fontane Sisters', title: 'Hearts of Stone'},
+    {id: 16, artist: 'Georgia Gibbs', title: 'Tweedle Dee'},
+    {id: 17, artist: 'The Four Lads', title: 'Moments to Remember'},
+    {id: 18, artist: 'The Chordettes', title: 'Mr. Sandman'},
+    {id: 19, artist: 'Joan Weber', title: 'Let Me Go, Lover!'},
+    {id: 20, artist: 'Nat King Cole', title: 'A Blossom Fell'}
+];
+
+const YearEndSongs1956 = [
     {id: 1, artist: 'Elvis Presley', title: 'Heartbreak Hotel'},
     {id: 2, artist: 'Elvis Presley', title: 'Dont Be Cruel'},
     {id: 3, artist: 'Nelson Riddle', title: 'Lisbon Antigua'},
@@ -8,10 +146,20 @@ const YearEndSong1956 = [
     {id: 7, artist: 'Dorris Day', title: 'Que Sera, Sera (Whatever Will Be, Will Be'},
     {id: 8, artist: 'Elvis Presley', title: 'Hound Dog'},
     {id: 9, artist: 'Dean Martin', title: 'Memories Are Made of This'},
-    {id: 10, artist: 'Kay Starr', title: '(The) Rock and Roll Waltz'}
+    {id: 10, artist: 'Kay Starr', title: '(The) Rock and Roll Waltz'},
+    {id: 11, artist: 'Morris Stoloff', title: 'Moonglow and Theme from Picnic'},
+    {id: 12, artist: 'The Platters', title: 'The Great Pretender'},
+    {id: 13, artist: 'Pat Boone', title: 'I Almost Lost My Mind'},
+    {id: 14, artist: 'Elvis Presley', title: 'I Want You, I Need You, I Love You'},
+    {id: 15, artist: 'Elvis Presley', title: 'Love Me Tender'},
+    {id: 16, artist: 'Perry Como', title: 'Hot Diggity (Dog Ziggity Boom)'},
+    {id: 17, artist: 'Eddie Heywood & Hugo Winterhalter', title: 'Eddie Heywood & Hugo Winterhalter'},
+    {id: 18, artist: 'Carl Perkins', title: 'Blue Suede Shoes'},
+    {id: 19, artist: 'Jim Lowe', title: 'Green Door'},
+    {id: 20, artist: 'The Four Lads', title: 'No, Not Much'}
 ];
 
-const YearEndSong1957 = [
+const YearEndSongs1957 = [
     {id: 1, artist: 'Elvis Presley', title: 'All Shook Up'},
     {id: 2, artist: 'Pat Boone', title: 'Love Letters in the Sand'},
     {id: 3, artist: 'The Diamonds', title: 'Little Darlin'},
@@ -21,10 +169,20 @@ const YearEndSong1957 = [
     {id: 7, artist: 'Guy Mitchell', title: 'Singing the Blues'},
     {id: 8, artist: 'Sonny James', title: 'Young Love'},
     {id: 9, artist: 'Elvis Presley', title: 'Too Much'},
-    {id: 10, artist: 'Perry Como', title: 'Round and Round'}
+    {id: 10, artist: 'Perry Como', title: 'Round and Round'},
+    {id: 11, artist: 'The Everly Brothers', title: 'Bye Bye Love'},
+    {id: 12, artist: 'Debbie Reynolds', title: 'Tammy'},
+    {id: 13, artist: 'Buddy Knox', title: 'Buddy Knox'},
+    {id: 14, artist: 'Elvis Presley', title: 'Elvis Presley'},
+    {id: 15, artist: 'Harry Belafonte', title: 'Day-O (The Banana Boat Song)'},
+    {id: 16, artist: 'Elvis Presley', title: 'Jailhouse Rock'},
+    {id: 17, artist: 'Marty Robbins', title: 'A White Sport Coat (and a Pink Carnation)'},
+    {id: 18, artist: 'The Del-Vikings', title: 'Come Go with Me'},
+    {id: 19, artist: 'The Everly Brothers', title: 'Wake Up Little Susie'},
+    {id: 20, artist: 'Sam Cooke', title: 'You Send Me'}
 ];
 
-const YearEndSong1958 = [
+const YearEndSongs1958 = [
     {id: 1, artist: 'Domenico Modungo', title: 'Volare'},
     {id: 2, artist: 'The Everly Brothers', title: 'All I Have to Do Is Dream'},
     {id: 3, artist: 'Elvis Presley', title: 'Dont'},
@@ -34,10 +192,20 @@ const YearEndSong1958 = [
     {id: 7, artist: 'Perry Como', title: 'Magic Moments'},
     {id: 8, artist: 'The Champs', title: 'Tequila'},
     {id: 9, artist: 'Tommy Edwards', title: 'Its All in the Game'},
-    {id: 10, artist: 'Dean Martin', title: 'Return to Me'}
+    {id: 10, artist: 'Dean Martin', title: 'Return to Me'},
+    {id: 11, artist: 'Conway Twitty', title: 'Its Only Make Believe'},
+    {id: 12, artist: 'Sheb Wooley', title: 'The Purple People Eater'},
+    {id: 13, artist: 'The Everly Brothers', title: 'Bird Dog / Devoted to You'},
+    {id: 14, artist: 'The Silhouettes', title: 'Get a Job'},
+    {id: 15, artist: 'The Elegants', title: 'Little Star'},
+    {id: 16, artist: 'The Platters', title: 'Twilight Time'},
+    {id: 17, artist: 'Ricky Nelson', title: 'Stood Up / Waitin in School'},
+    {id: 18, artist: 'Laurie London', title: 'es Got the Whole World in His Hands'},
+    {id: 19, artist: 'Jimmie Rodgers', title: 'Secretly'},
+    {id: 20, artist: 'Danny & the Juniors', title: 'At the Hop'}
 ];
 
-const YearEndSong1959 = [
+const YearEndSongs1959 = [
     {id: 1, artist: 'Johnny Horton', title: 'The Battle of New Orleans'},
     {id: 2, artist: 'Bobby Darin', title: 'Mack the Knife'},
     {id: 3, artist: 'Lloyd Price', title: 'Personality'},
@@ -47,10 +215,20 @@ const YearEndSong1959 = [
     {id: 7, artist: 'The Browns', title: 'The Three Bells'},
     {id: 8, artist: 'The Fleetwoods', title: 'come Softly to Me'},
     {id: 9, artist: 'Wilbert Harrison', title: 'Kansas City'},
-    {id: 10, artist: 'The Fleetwoods', title: 'Mr. Blue'}
+    {id: 10, artist: 'The Fleetwoods', title: 'Mr. Blue'},
+    {id: 11, artist: 'Santo & Johnny', title: 'Sleep Walk'},
+    {id: 12, artist: 'Paul Anka', title: 'Put Your Head on My Shoulder'},
+    {id: 13, artist: 'Lloyd Price', title: 'Stagger Lee'},
+    {id: 14, artist: 'Ritchie Valens', title: 'Donna'},
+    {id: 15, artist: 'Dodie Stevens', title: 'Pink Shoe Laces'},
+    {id: 16, artist: 'The Platters', title: 'Smoke Gets in Your Eyes'},
+    {id: 17, artist: 'The Coasters', title: 'Charlie Brown'},
+    {id: 18, artist: 'Martin Denny', title: 'Quiet Village'},
+    {id: 19, artist: 'Carl Dobkins Jr.', title: 'My Heart Is an Open Book'},
+    {id: 20, artist: 'The Everly Brothers', title: '(Till I Kissed You)'}
 ];
 
-const YearEndSong1960 = [
+const YearEndSongs1960 = [
     {id: 1, artist: 'Percy Faith', title: 'Theme form a Summer Place'},
     {id: 2, artist: 'Jim Reeves', title: 'Hell Have to Go'},
     {id: 3, artist: 'The Everly Brothers', title: 'Cathys Clown'},
@@ -60,10 +238,20 @@ const YearEndSong1960 = [
     {id: 7, artist: 'Elvis Presley', title: 'Its Now or Never'},
     {id: 8, artist: 'Jimmy Jones', title: 'Handy Man'},
     {id: 9, artist: 'Elvis Presley', title: 'Stuck on You'},
-    {id: 10, artist: 'Chubby Checker', title: 'The Twist'}
+    {id: 10, artist: 'Chubby Checker', title: 'The Twist'},
+    {id: 11, artist: 'Connie Francis', title: 'Everybodys Somebodys Fool'},
+    {id: 12, artist: 'Bobby Rydell', title: 'Wild One'},
+    {id: 13, artist: 'The Brothers Four', title: 'Greenfields'},
+    {id: 14, artist: 'Jack Scott', title: 'What in the Worlds Come Over You'},
+    {id: 15, artist: 'Marty Robbins', title: 'El Paso'},
+    {id: 16, artist: 'The Hollywood Argyles', title: 'Alley Oop'},
+    {id: 17, artist: 'Connie Francis', title: 'My Heart Has a Mind of Its Own'},
+    {id: 18, artist: 'Brenda Lee', title: 'Sweet Nothins'},
+    {id: 19, artist: 'Brian Hyland', title: 'Itsy Bitsy Teenie Weenie Yellow Polka Dot Bikini'},
+    {id: 20, artist: 'Roy Orbison', title: 'Only the Lonely'}
 ];
 
-const YearEndSong1961 = [
+const YearEndSongs1961 = [
     {id: 1, artist: 'Bobby Lewis', title: 'Tossin and Turnin'},
     {id: 2, artist: 'Patsy Cline', title: 'I Fall to Pieces'},
     {id: 3, artist: 'The Highwaymen', title: 'Michael'},
@@ -73,10 +261,20 @@ const YearEndSong1961 = [
     {id: 7, artist: 'Chubby Checker', title: 'Pony Time'},
     {id: 8, artist: 'The String-A-Longs', title: 'Wheels'},
     {id: 9, artist: 'Dee Clark', title: 'Raindrops'},
-    {id: 10, artist: 'Joe Dowell', title: 'Wooden Heart'}
+    {id: 10, artist: 'Joe Dowell', title: 'Wooden Heart'},
+    {id: 11, artist: 'Lawrence Welk', title: 'Calcutta'},
+    {id: 12, artist: 'Bobby Vee', title: 'Take Good Care of My Baby'},
+    {id: 13, artist: 'Roy Orbison', title: 'Running Scared'},
+    {id: 14, artist: 'The Shirelles', title: 'Dedicated to the One I Love'},
+    {id: 15, artist: 'The Mar-Keys', title: 'Last Night'},
+    {id: 16, artist: 'The Shirelles', title: 'Will You Love Me Tomorrow'},
+    {id: 17, artist: 'Ferrante & Teicher', title: 'Exodus'},
+    {id: 18, artist: 'Connie Francis', title: 'Where the Boys Are'},
+    {id: 19, artist: 'Ray Charles', title: 'Hit the Road Jack'},
+    {id: 20, artist: 'Sue Thompson', title: 'Sad Movies (Make Me Cry)'}
 ];
 
-const YearEndSong1962 = [
+const YearEndSongs1962 = [
     {id: 1, artist: 'Acker Bilk', title: 'Stranger on the Shore'},
     {id: 2, artist: 'Ray Charles', title: 'I Cant Stop Loving You'},
     {id: 3, artist: 'Dee Dee Sharp', title: 'Mashed Potato Time'},
@@ -86,10 +284,20 @@ const YearEndSong1962 = [
     {id: 7, artist: 'Little Eva', title: 'The Loco-Motion'},
     {id: 8, artist: 'The Sensations', title: 'Let Me In'},
     {id: 9, artist: 'Chubby Checker', title: 'The Twist'},
-    {id: 10, artist: 'The Shirelles', title: 'Soldier Boy'}
+    {id: 10, artist: 'The Shirelles', title: 'Soldier Boy'},
+    {id: 11, artist: 'Bruce Channel', title: 'Hey! Baby'},
+    {id: 12, artist: 'Dion', title: 'The Wanderer'},
+    {id: 13, artist: 'Gene Chandler', title: 'Duke of Earl'},
+    {id: 14, artist: 'Freddy Cannon', title: 'Palisades Park'},
+    {id: 15, artist: 'Neil Sedaka', title: 'Breaking Up Is Hard to Do'},
+    {id: 16, artist: 'Claude King', title: 'Wolverton Mountain'},
+    {id: 17, artist: 'Chubby Checker & Dee Dee Sharp', title: 'Slow Twistin'},
+    {id: 18, artist: 'Johnny Tillotson', title: 'It Keeps Right On a-Hurtin'},
+    {id: 19, artist: 'Mary Wells', title: 'The One Who Really Loves You'},
+    {id: 20, artist: 'Elvis Presley', title: 'Good Luck Charm'}
 ];
 
-const YearEndSong1963 = [
+const YearEndSongs1963 = [
     {id: 1, artist: 'The Beach Boys', title: 'Surfin U.S.A.'},
     {id: 2, artist: 'Skeeter Davis', title: 'The End of the World'},
     {id: 3, artist: 'The Cascades', title: 'Rhythm of the Rain'},
@@ -99,10 +307,20 @@ const YearEndSong1963 = [
     {id: 7, artist: 'Little Stevie Wonder', title: 'Fingertips'},
     {id: 8, artist: 'Andy Williams', title: 'Cant Get Used to Losing You'},
     {id: 9, artist: 'The Angels', title: 'My Boyfriends Back'},
-    {id: 10, artist: 'Kyu Sakamoto', title: 'Sukiyaki'}
+    {id: 10, artist: 'Kyu Sakamoto', title: 'Sukiyaki'},
+    {id: 11, artist: 'The Tymes', title: 'The Tymes'},
+    {id: 12, artist: 'Peter, Paul & Mary', title: 'Puff, the Magic Dragon'},
+    {id: 13, artist: 'Peter, Paul & Mary', title: 'Blowin in the Wind'},
+    {id: 14, artist: 'The Surfaris', title: 'Wipe Out'},
+    {id: 15, artist: 'Al Martino', title: 'I Love You Because'},
+    {id: 16, artist: 'The Rebels', title: 'Wild Weekend'},
+    {id: 17, artist: 'Bobby Darin', title: 'Youre The Reason Im Living'},
+    {id: 18, artist: 'The Four Seasons', title: 'Walk Like a Man'},
+    {id: 19, artist: 'Inez & Charlie Foxx', title: 'Mockingbird'},
+    {id: 20, artist: 'Little Peggy March', title: 'I Will Follow Him'}
 ];
 
-const YearEndSong1964 = [
+const YearEndSongs1964 = [
     {id: 1, artist: 'The Beatles', title: 'I Want to Hold Your Hand'},
     {id: 2, artist: 'The Beatles', title: 'She Loves You'},
     {id: 3, artist: 'Louis Armstrong', title: 'Hello, Dolly!'},
@@ -112,10 +330,20 @@ const YearEndSong1964 = [
     {id: 7, artist: 'Mary Wells', title: 'My Guy'},
     {id: 8, artist: 'Gale Garnett', title: 'Well Sing in the Sunshine'},
     {id: 9, artist: 'J. Frank Wilson & the Cavaliers', title: 'Last Kiss'},
-    {id: 10, artist: 'The Supremes', title: 'Where Did Our Love Go'}
+    {id: 10, artist: 'The Supremes', title: 'Where Did Our Love Go'},
+    {id: 11, artist: 'Barbra Streisand', title: 'People'},
+    {id: 12, artist: 'Al Hirt', title: 'Java'},
+    {id: 13, artist: 'The Beatles', title: 'A Hard Days Night'},
+    {id: 14, artist: 'The Beatles', title: 'Love Me Do'},
+    {id: 15, artist: 'Manfred Mann', title: 'Do Wah Diddy Diddy'},
+    {id: 16, artist: 'The Beatles', title: 'Please Please Me'},
+    {id: 17, artist: 'Martha and the Vandellas', title: 'Dancing in the Street'},
+    {id: 18, artist: 'Billy J. Kramer & The Dakotas', title: 'Little Children'},
+    {id: 19, artist: 'The Ray Charles Singers', title: 'Love Me with All Your Heart (Cuando Calienta El Sol)'},
+    {id: 20, artist: 'The Drifters', title: 'Under the Boardwalk'}
 ];
 
-const YearEndSong1965 = [
+const YearEndSongs1965 = [
     {id: 1, artist: 'Sam the Sham and the Pharohs', title: 'Wooly Bully'},
     {id: 2, artist: 'Four Tops', title: 'I Cant Help Myself (Sugar Pie Honey Bunch)'},
     {id: 3, artist: 'The Rolling Stones', title: '(I Cant Get No) Satisfaction'},
@@ -125,10 +353,20 @@ const YearEndSong1965 = [
     {id: 7, artist: 'The Beatles', title: 'Help!'},
     {id: 8, artist: 'Hermans Hermits', title: 'Cant You Hear My Heartbeat'},
     {id: 9, artist: 'Elvis Presley', title: 'Crying in the Chapel'},
-    {id: 10, artist: 'The Temptations', title: 'My Girl'}
+    {id: 10, artist: 'The Temptations', title: 'My Girl'},
+    {id: 11, artist: 'The Beach Boys', title: 'Help Me, Rhonda'},
+    {id: 12, artist: 'Roger Miller', title: 'King of the Road'},
+    {id: 13, artist: 'Jewel Akens', title: 'The Birds and the Bees'},
+    {id: 14, artist: 'Mel Carter', title: 'Hold Me, Thrill Me, Kiss Me'},
+    {id: 15, artist: 'Junior Walker & the All Stars', title: 'Shotgun'},
+    {id: 16, artist: 'Sonny & Cher', title: 'I Got You Babe'},
+    {id: 17, artist: 'Gary Lewis & the Playboys', title: 'This Diamond Ring'},
+    {id: 18, artist: 'Ramsey Lewis Trio', title: 'The In Crowd'},
+    {id: 19, artist: 'Hermans Hermits', title: 'Mrs. Brown, Youve Got a Lovely Daughter'},
+    {id: 20, artist: 'The Supremes', title: 'Stop! In the Name of Love'}
 ];
 
-const YearEndSong1966 = [
+const YearEndSongs1966 = [
     {id: 1, artist: 'The Mamas & The Papas', title: 'California Dreamin'},
     {id: 2, artist: '? And the Mysterians', title: '96 Tears'},
     {id: 3, artist: 'Jimmy Ruffin', title: 'What Becomes of the Brokenhearted'},
@@ -138,10 +376,20 @@ const YearEndSong1966 = [
     {id: 7, artist: 'The Association', title: 'Cherish'},
     {id: 8, artist: 'Frank Sinatra', title: 'Strangers in the Night'},
     {id: 9, artist: 'Paul Revere & The Raiders', title: 'Kicks'},
-    {id: 10, artist: 'SSgt. Barry Sadler', title: 'Ballad of the Green Berets'}
+    {id: 10, artist: 'SSgt. Barry Sadler', title: 'Ballad of the Green Berets'},
+    {id: 11, artist: 'The Young Rascals', title: 'Good Lovin'},
+    {id: 12, artist: 'The Righteous Brothers', title: '(Youre My) Soul and Inspiration'},
+    {id: 13, artist: 'The Supremes', title: 'You Cant Hurry Love'},
+    {id: 14, artist: 'Bobby Hebb', title: 'Sunny'},
+    {id: 15, artist: 'The Happenings', title: 'See You In September'},
+    {id: 16, artist: 'Sam the Sham and the Pharaohs', title: 'Lil Red Riding Hood'},
+    {id: 17, artist: 'Lou Christie', title: 'Lightnin Strikes'},
+    {id: 18, artist: 'Johnny Rivers', title: 'Poor Side of Town'},
+    {id: 19, artist: 'Lee Dorsey', title: 'Working In The Coal Mine'},
+    {id: 20, artist: 'The Mindbenders', title: 'A Groovy Kind of Love'}
 ];
 
-const YearEndSong1967 = [
+const YearEndSongs1967 = [
     {id: 1, artist: 'Lulu', title: 'To Sir With Love'},
     {id: 2, artist: 'The Box Tops', title: 'The Letter'},
     {id: 3, artist: 'Bobbie Gentry', title: 'Ode to Billie Joe'},
@@ -151,10 +399,20 @@ const YearEndSong1967 = [
     {id: 7, artist: 'Frank & Nancy Sinatra', title: 'Somethin Stupid'},
     {id: 8, artist: 'The Turtles', title: 'Happy Together'},
     {id: 9, artist: 'The Young Rascals', title: 'Groovin'},
-    {id: 10, artist: 'Frankie Valli', title: 'Cant Take My Eyes Off You'}
+    {id: 10, artist: 'Frankie Valli', title: 'Cant Take My Eyes Off You'},
+    {id: 11, artist: 'The Music Explosion', title: 'Little Bit O Soul'},
+    {id: 12, artist: 'Tommy Jones and the Shondells', title: 'I Think Were Alone Now'},
+    {id: 13, artist: 'Aretha Franklin', title: 'Respect'},
+    {id: 14, artist: 'Stevie Wonder', title: 'I Was Made to Love Her'},
+    {id: 15, artist: 'Bobby Vee', title: 'Come Back When You Grow Up'},
+    {id: 16, artist: 'The Buckinghams', title: 'Kind of a Drag'},
+    {id: 17, artist: 'Arthur Conley', title: 'Sweet Soul Music'},
+    {id: 18, artist: 'The Soul Survivors', title: 'Expressway to Your Heart'},
+    {id: 19, artist: 'Sam & Dave', title: 'Soul Man'},
+    {id: 20, artist: 'The Association', title: 'Never My Love'}
 ];
 
-const YearEndSong1968 = [
+const YearEndSongs1968 = [
     {id: 1, artist: 'The Beatles', title: 'Hey Jude'},
     {id: 2, artist: 'Paul Mauriat', title: 'Love is Blue'},
     {id: 3, artist: 'Bobby Goldsboro', title: 'Honey'},
@@ -164,10 +422,20 @@ const YearEndSong1968 = [
     {id: 7, artist: 'Herb Alpert', title: 'This Guys in Love With You'},
     {id: 8, artist: 'Hugo Montenegro', title: 'The Good, The Bad and The Ugly'},
     {id: 9, artist: 'Simon & Garfunkel', title: 'Mrs. Robinson'},
-    {id: 10, artist: 'Archie Bell & The Drells', title: 'Tighten Up'}
+    {id: 10, artist: 'Archie Bell & The Drells', title: 'Tighten Up'},
+    {id: 11, artist: 'Jeannie C. Riley', title: 'Harper Valley PTA'},
+    {id: 12, artist: 'O.C. Smith', title: 'Little Green Apples'},
+    {id: 13, artist: 'Tommy James and the Shondells', title: 'Mony Mony'},
+    {id: 14, artist: 'The Doors', title: 'Hello, I Love You'},
+    {id: 15, artist: 'Gary Puckett & The Union Gap', title: 'Young Girl'},
+    {id: 16, artist: 'The Box Tops', title: 'Cry Like a Baby'},
+    {id: 17, artist: 'The 5th Dimension', title: 'Stoned Soul Picnic'},
+    {id: 18, artist: 'Hugh Masekela', title: 'Grazing in th Grass'},
+    {id: 19, artist: 'The Grass Roots', title: 'Midnight Confessions'},
+    {id: 20, artist: 'Sly & the Family Stone', title: 'Dance to the Music'}
 ];
 
-const YearEndSong1969 = [
+const YearEndSongs1969 = [
     {id: 1, artist: 'The Archies', title: 'Sugar, Sugar'},
     {id: 2, artist: 'The 5th Dimension', title: 'Aquarius'},
     {id: 3, artist: 'The Temptations', title: 'I Cant Get Next To You'},
@@ -177,10 +445,20 @@ const YearEndSong1969 = [
     {id: 7, artist: 'Sly and the Family Stone', title: 'Hot Fun in the Summertime'},
     {id: 8, artist: 'Tom Jones', title: 'Ill Never Fall in Love Again'},
     {id: 9, artist: 'The Foundations', title: 'Build Me Up Buttercup'},
-    {id: 10, artist: 'Tommy James and the Shondells', title: 'Crimson and Clover'}
+    {id: 10, artist: 'Tommy James and the Shondells', title: 'Crimson and Clover'},
+    {id: 11, artist: 'Three Dog Night', title: 'One'},
+    {id: 12, artist: 'Tommy James and the Shondells', title: 'Crystal Blue Persuasion'},
+    {id: 13, artist: 'The Cowsills', title: 'Hair'},
+    {id: 14, artist: 'Marvin Gaye', title: 'Too Busy Thinking About My Baby'},
+    {id: 15, artist: 'Henry Mancini', title: 'Love Theme from Romeo and Juliet'},
+    {id: 16, artist: 'The Youngbloods', title: 'Get Together'},
+    {id: 17, artist: 'The Friends of Distinction', title: 'Grazing in the Grass'},
+    {id: 18, artist: 'Elvis Presley', title: 'Suspicious Minds'},
+    {id: 19, artist: 'Creedence Clearwater Revival', title: 'Proud Mary'},
+    {id: 20, artist: 'Jr. Walker & The All Stars', title: 'What Does It Take (To Win Your Love)'}
 ];
 
-const YearEndSong1970 = [
+const YearEndSongs1970 = [
     {id: 1, artist: 'Simon & Garfunkel', title: 'Bridge Over Troubled Water'},
     {id: 2, artist: 'The Carpenters', title: '(They Long to be) Close to You'},
     {id: 3, artist: 'The Guess Who', title: 'American Woman'},
@@ -190,10 +468,20 @@ const YearEndSong1970 = [
     {id: 7, artist: 'The Jackson 5', title: 'Ill Be There'},
     {id: 8, artist: 'Rare Earth', title: 'Get Ready'},
     {id: 9, artist: 'The Beatles', title: 'Let It Be'},
-    {id: 10, artist: 'Freda Payne', title: 'Band of Gold'}
+    {id: 10, artist: 'Freda Payne', title: 'Band of Gold'},
+    {id: 11, artist: 'Three Dog Night', title: 'Mama Told Me (Not to Come)'},
+    {id: 12, artist: 'Ray Stevens', title: 'Everything Is Beautiful'},
+    {id: 13, artist: 'Bread', title: 'Make It with You'},
+    {id: 14, artist: 'Vanity Fare', title: 'Hitchin a Ride'},
+    {id: 15, artist: 'The Jackson 5', title: 'ABC'},
+    {id: 16, artist: 'The Jackson 5', title: 'The Love You Save'},
+    {id: 17, artist: 'Neil Diamond', title: 'Cracklin Rosie'},
+    {id: 18, artist: 'Dawn', title: 'Candida'},
+    {id: 19, artist: 'Sly & the Family Stone', title: 'Thank You (Falettinme Be Mice Elf Agin)'},
+    {id: 20, artist: 'Eric Burdon & War', title: 'Spill the Wine'}
 ];
 
-const YearEndSong1971 = [
+const YearEndSongs1971 = [
     {id: 1, artist: 'Three Dog Night', title: 'Joy to the World'},
     {id: 2, artist: 'Rod Stewart', title: 'Maggie May'},
     {id: 3, artist: 'Carole King', title: 'Its Too Late'},
@@ -203,10 +491,20 @@ const YearEndSong1971 = [
     {id: 7, artist: 'Donny Osmond', title: 'Go Away Little Girl'},
     {id: 8, artist: 'John Denver', title: 'Take Me Home, Country Roads'},
     {id: 9, artist: 'The Temptations', title: 'Just My Imagination (Running Away From Me)'},
-    {id: 10, artist: 'Tony Orlando and Dawn', title: 'Knock Three Times'}
+    {id: 10, artist: 'Tony Orlando and Dawn', title: 'Knock Three Times'},
+    {id: 11, artist: 'Janis Joplin', title: 'Mee and Bobby McGee'},
+    {id: 12, artist: 'Al Green', title: 'Tired of Being Alone'},
+    {id: 13, artist: 'Honey Cone', title: 'Want Ads'},
+    {id: 14, artist: 'The Undisputed Truth', title: 'Smiling Faces Sometimes'},
+    {id: 15, artist: 'Cornelius Brothers & Sister Rose', title: 'Treat Her Like a Lady'},
+    {id: 16, artist: 'James Taylor', title: 'Youve Got a Friend'},
+    {id: 17, artist: 'Jean Knight', title: 'Mr. Big Stuff'},
+    {id: 18, artist: 'The Rolling Stones', title: 'Brown Sugar'},
+    {id: 19, artist: 'Lee Michaels', title: 'Do You Know What I Mean'},
+    {id: 20, artist: 'Joan Baez', title: 'The Night They DRove Old Dixie Down'}
 ];
 
-const YearEndSong1972 = [
+const YearEndSongs1972 = [
     {id: 1, artist: 'Roberta Flack', title: 'The First Time I Ever Saw Your Face'},
     {id: 2, artist: 'Gilbert O Sullivan', title: 'Alone Again (Naturally)'},
     {id: 3, artist: 'Don McLean', title: 'American Pie'},
@@ -216,10 +514,20 @@ const YearEndSong1972 = [
     {id: 7, artist: 'Bill Withers', title: 'Lean on Me'},
     {id: 8, artist: 'Mac Davis', title: 'Baby, Dont Get Hooked on Me'},
     {id: 9, artist: 'Melanie', title: 'Brand New Key'},
-    {id: 10, artist: 'Wayne Newton', title: 'Daddy Dont You Walk So Fast'}
+    {id: 10, artist: 'Wayne Newton', title: 'Daddy Dont You Walk So Fast'},
+    {id: 11, artist: 'Al Green', title: 'Lets Stay Together'},
+    {id: 12, artist: 'Looking Glass', title: 'Brandy (Youre a Fine Girl'},
+    {id: 13, artist: 'The Chi-Lites', title: 'Oh Girl'},
+    {id: 14, artist: 'Gallery', title: 'Nice to Be with You'},
+    {id: 15, artist: 'Chuck Berry', title: 'My Ding-a-Ling'},
+    {id: 16, artist: 'Luther Ingram', title: '(If Loving You Is Wrong) I Dont Want to Be Right'},
+    {id: 17, artist: 'Neil Young', title: 'Heart of Gold'},
+    {id: 18, artist: 'The Stylistics', title: 'Betcha by Golly, Wow'},
+    {id: 19, artist: 'The Staple Singers', title: 'Ill Take You There'},
+    {id: 20, artist: 'Michael Jackson', title: 'Ben'}
 ];
 
-const YearEndSong1973 = [
+const YearEndSongs1973 = [
     {id: 1, artist: 'Tony Orlando and Dawn', title: 'Tiee A Yellow Ribbon Round the Ole Oak Tree'},
     {id: 2, artist: 'Jim Croce', title: 'Bad, Bad Leroy Brown'},
     {id: 3, artist: 'Roberta Flack', title: 'Killing Me Softly with His Song'},
@@ -229,10 +537,20 @@ const YearEndSong1973 = [
     {id: 7, artist: 'Elton John', title: 'Crocodile Rock'},
     {id: 8, artist: 'Billy Preston', title: 'Will It Go Round in Circles'},
     {id: 9, artist: 'Carly Simon', title: 'Youre So Vain'},
-    {id: 10, artist: 'Diana Ross', title: 'Touch Me in the Morning'}
+    {id: 10, artist: 'Diana Ross', title: 'Touch Me in the Morning'},
+    {id: 11, artist: 'Vicki Lawrence', title: 'The Night the Lights Went Out in Georgia'},
+    {id: 12, artist: 'Clint Holmes', title: 'Playground in My Mind'},
+    {id: 13, artist: 'Stories', title: 'Brother Louie'},
+    {id: 14, artist: 'Helen Reddy', title: 'Delta Dawn'},
+    {id: 15, artist: 'Billy Paul', title: 'Me and Mrs. Jones'},
+    {id: 16, artist: 'The Edgar Winter Group', title: 'Frankenstein'},
+    {id: 17, artist: 'Dobie Gray', title: 'Drift Away'},
+    {id: 18, artist: 'Sweet', title: 'Little Willy'},
+    {id: 19, artist: 'Stevie Wonder', title: 'You Are the Sunshine of My Life'},
+    {id: 20, artist: 'Cher', title: 'Half-Breed'}
 ];
 
-const YearEndSong1974 = [
+const YearEndSongs1974 = [
     {id: 1, artist: 'Barbra Streisand', title: 'The Way We Were'},
     {id: 2, artist: 'Terry Jacks', title: 'Seasons in the Sun'},
     {id: 3, artist: 'Love Unlimited Orchestra', title: 'Loves Theme'},
@@ -242,10 +560,20 @@ const YearEndSong1974 = [
     {id: 7, artist: 'MFSB', title: 'TSOP (The Sound of Philadelphia)'},
     {id: 8, artist: 'Ray Stevens', title: 'The Streak'},
     {id: 9, artist: 'Elton John', title: 'Bennie and the Jets'},
-    {id: 10, artist: 'Mac Davis', title: 'One Hell of a Woman'}
+    {id: 10, artist: 'Mac Davis', title: 'One Hell of a Woman'},
+    {id: 11, artist: 'Aretha Franklin', title: 'Until You Come Back to Me (Thats What Im Gonna Do'},
+    {id: 12, artist: 'Kool & the Gang', title: 'Jungle Boogie'},
+    {id: 13, artist: 'Maria Muldaur', title: 'Midnight at the Oasis'},
+    {id: 14, artist: 'The Stylistics', title: 'You Make Me Feel Brand New'},
+    {id: 15, artist: 'Al Wilson', title: 'Show and Tell'},
+    {id: 16, artist: 'Jim Stafford', title: 'Spiders and Snakes'},
+    {id: 17, artist: 'David Essex', title: 'Rock On'},
+    {id: 18, artist: 'John Denver', title: 'Sunshine on My Shoulders'},
+    {id: 19, artist: 'Blue Magic', title: 'Sideshow'},
+    {id: 20, artist: 'Blue Swede', title: 'Hooked on a Feeling'}
 ];
 
-const YearEndSong1975 = [
+const YearEndSongs1975 = [
     {id: 1, artist: 'Captain & Tennille', title: 'Love Will Keep Us Together'},
     {id: 2, artist: 'Glen Campbell', title: 'Rhinestone Cowboy'},
     {id: 3, artist: 'Elton John', title: 'Philadelphia Freedom'},
@@ -255,10 +583,20 @@ const YearEndSong1975 = [
     {id: 7, artist: 'Earth, Wind & Fire', title: 'Shining Star'},
     {id: 8, artist: 'David Bowie', title: 'Fame'},
     {id: 9, artist: 'Neil Sedaka', title: 'Laughter in the Rain'},
-    {id: 10, artist: 'Eagles', title: 'One of These Nights'}
+    {id: 10, artist: 'Eagles', title: 'One of These Nights'},
+    {id: 11, artist: 'John Denver', title: 'Thank God Im a Country Boy'},
+    {id: 12, artist: 'Bee Gees', title: 'Jive Talkin'},
+    {id: 13, artist: 'Eagles', title: 'Best of My Love'},
+    {id: 14, artist: 'Minnie Riperton', title: 'Lovin You'},
+    {id: 15, artist: 'Carl Douglas', title: 'Kung Fu Fighting'},
+    {id: 16, artist: 'The Doobie Brothers', title: 'Black Water'},
+    {id: 17, artist: 'Sweet', title: 'The Ballroom Blitz'},
+    {id: 18, artist: 'B.J. Thomas', title: '(Hey Wont You Play) Another Somebody Done Somebody Wrong Song'},
+    {id: 19, artist: 'Tony Orlando and Dawn', title: 'He Dont Love You (Like I Love You)'},
+    {id: 20, artist: 'Janis Ian', title: 'At Seventeen'}
 ];
 
-const YearEndSong1976 = [
+const YearEndSongs1976 = [
     {id: 1, artist: 'Wings', title: 'Silly Love Songs'},
     {id: 2, artist: 'Elton John & Kiki Dee', title: 'Dont Go Breaking My Heart'},
     {id: 3, artist: 'Johnnie Taylor', title: 'Disco Lady'},
@@ -268,10 +606,20 @@ const YearEndSong1976 = [
     {id: 7, artist: 'The Miracles', title: 'Love Machine'},
     {id: 8, artist: 'Paul Simon', title: '50 Ways to Leave Your Lover'},
     {id: 9, artist: 'Gary Wright', title: 'Love Is Alive'},
-    {id: 10, artist: 'Walter Murphy & The Big Apple Band', title: 'A Fifth of Beethoven'}
+    {id: 10, artist: 'Walter Murphy & The Big Apple Band', title: 'A Fifth of Beethoven'},
+    {id: 11, artist: 'Hall & Oates', title: 'Sara Smile'},
+    {id: 12, artist: 'Starland Vocal Band', title: 'Afternoon Delight'},
+    {id: 13, artist: 'Barry Manilow', title: 'I Write the Songs'},
+    {id: 14, artist: 'Silver Convention', title: 'Fly, Robin, Fly'},
+    {id: 15, artist: 'Diana Ross', title: 'Love Hangover'},
+    {id: 16, artist: 'Seals and Crofts', title: 'Get Closer'},
+    {id: 17, artist: 'Andrea True Connection', title: 'More, More, More'},
+    {id: 18, artist: 'Queen', title: 'Bohemian Rhapsody'},
+    {id: 19, artist: 'Dorothy Moore', title: 'Misty Blue'},
+    {id: 20, artist: 'The Sylvers', title: 'Boogie Fever'}
 ];
 
-const YearEndSong1977 = [
+const YearEndSongs1977 = [
     {id: 1, artist: 'Rod Stewart', title: 'Tonights the Night (Gonna Be Alright)'},
     {id: 2, artist: 'Andy Gibb', title: 'I Just Want to Be Your Everything'},
     {id: 3, artist: 'The Emotions', title: 'Best of My Love'},
@@ -281,10 +629,20 @@ const YearEndSong1977 = [
     {id: 7, artist: 'Thelma Houston', title: 'Dont Leave Me This Way'},
     {id: 8, artist: 'Rita Coolidge', title: '(Your Love Has Lifeted Me) Higher and Higher'},
     {id: 9, artist: 'Alan O Day', title: 'Undercover Angel'},
-    {id: 10, artist: 'Mary MacGregor', title: 'Torn Between Two Lovers'}
+    {id: 10, artist: 'Mary MacGregor', title: 'Torn Between Two Lovers'},
+    {id: 11, artist: 'KC and the Sunshine Band', title: 'Im Your Boogie Man'},
+    {id: 12, artist: 'ABBA', title: 'Dancing Queen'},
+    {id: 13, artist: 'Leo Sayer', title: 'You Make Me Feel Like Dancing'},
+    {id: 14, artist: 'Jimmy Buffett', title: 'Margaritaville'},
+    {id: 15, artist: 'Electric Light Orchestra', title: 'Telephone Line'},
+    {id: 16, artist: 'Pablo Cruise', title: 'Whatcha Gonna Do?'},
+    {id: 17, artist: 'Peter McCann', title: 'Do You Wanna Make Love'},
+    {id: 18, artist: 'Stevie Wonder', title: 'Sir Duke'},
+    {id: 19, artist: 'Eagles', title: 'Hotel California'},
+    {id: 20, artist: 'Marvin Gaye', title: 'Got to Give It Up'}
 ];
 
-const YearEndSong1978 = [
+const YearEndSongs1978 = [
     {id: 1, artist: 'Andy Gibb', title: 'Shadow Dancing'},
     {id: 2, artist: 'Bee Gees', title: 'Night Fever'},
     {id: 3, artist: 'Debby Boone', title: 'You Light Up My Life'},
@@ -294,10 +652,20 @@ const YearEndSong1978 = [
     {id: 7, artist: 'Player', title: 'Baby Come Back'},
     {id: 8, artist: 'Andy Gibb', title: '(Love Is) Thicker Than Water'},
     {id: 9, artist: 'A Taste of Honey', title: 'Boogie Oogie Oogie'},
-    {id: 10, artist: 'Commodores', title: 'Three Times a Lady'}
+    {id: 10, artist: 'Commodores', title: 'Three Times a Lady'},
+    {id: 11, artist: 'Frankie Valli', title: 'Grease'},
+    {id: 12, artist: 'Paul Davis', title: 'I Go Crazy'},
+    {id: 13, artist: 'John Travolta & Olivia Newton-John', title: 'Youre the One That I Want'},
+    {id: 14, artist: 'Samantha Sang', title: 'Emotion'},
+    {id: 15, artist: 'Eric Clapton', title: 'Lay Down Sally'},
+    {id: 16, artist: 'The Rolling Stones', title: 'Miss You'},
+    {id: 17, artist: 'Billy Joel', title: 'Just the Way You Are'},
+    {id: 18, artist: 'Wings', title: 'With a Little Luck'},
+    {id: 19, artist: 'Yvonne Elliman', title: 'If I Cant Have You'},
+    {id: 20, artist: 'Chic', title: 'Dance, Dance, Dance (Yowsah, Yowsah, Yowsah)'}
 ];
 
-const YearEndSong1979 = [
+const YearEndSongs1979 = [
     {id: 1, artist: 'The Knack', title: 'My Sharona'},
     {id: 2, artist: 'Donna Summer', title: 'Bad Girls'},
     {id: 3, artist: 'Chic', title: 'Le Freak'},
@@ -307,10 +675,20 @@ const YearEndSong1979 = [
     {id: 7, artist: 'Donna Summer', title: 'Hot Stuff'},
     {id: 8, artist: 'Village People', title: 'Y.M.C.A.'},
     {id: 9, artist: 'Anita Ward', title: 'Ring My Bell'},
-    {id: 10, artist: 'Robert John', title: 'Sad Eyes'}
+    {id: 10, artist: 'Robert John', title: 'Sad Eyes'},
+    {id: 11, artist: 'Bee Gees', title: 'Too Much Heaven'},
+    {id: 12, artist: 'Donna Summer', title: 'MacArthur Park'},
+    {id: 13, artist: 'Dr. Hook', title: 'When Youre in Love with a Beautiful Woman'},
+    {id: 14, artist: 'David Naughton', title: 'Makin It'},
+    {id: 15, artist: 'The Pointer Sisters', title: 'Fire'},
+    {id: 16, artist: 'Bee Gees', title: 'Tragedy'},
+    {id: 17, artist: 'Olivia Newton-John', title: 'A Little More Love'},
+    {id: 18, artist: 'Blondie', title: 'Heart of Glass'},
+    {id: 19, artist: 'The Doobie Brothers', title: 'What a Fool Believes'},
+    {id: 20, artist: 'Chic', title: 'Good Times'}
 ];
 
-const YearEndSong1980 = [
+const YearEndSongs1980 = [
     {id: 1, artist: 'Blondie', title: 'Call Me'},
     {id: 2, artist: 'Pink Floyd', title: 'Another Brick in the Wall, Part II'},
     {id: 3, artist: 'Olivia Newton John', title: 'Magic'},
@@ -320,10 +698,20 @@ const YearEndSong1980 = [
     {id: 7, artist: 'Paul McCartney', title: 'Coming Up'},
     {id: 8, artist: 'Lipps Inc', title: 'Funkytown'},
     {id: 9, artist: 'Billy Joel', title: 'Its Still Rock and Roll to Me'},
-    {id: 10, artist: 'Bette Midler', title: 'The Rose'}
+    {id: 10, artist: 'Bette Midler', title: 'The Rose'},
+    {id: 11, artist: 'Rupert Holmes', title: 'Escape (The Pina Colada Song)'},
+    {id: 12, artist: 'Gary Numan', title: 'Cars'},
+    {id: 13, artist: 'Smokey Robinson', title: 'Crusin'},
+    {id: 14, artist: 'The Spinners', title: 'Working My Way Back to You/Forgive Me, Girl'},
+    {id: 15, artist: 'Air Supply', title: 'Lost in Love'},
+    {id: 16, artist: 'Elton John', title: 'Little Jeannie'},
+    {id: 17, artist: 'Christopher Cross', title: 'Ride Like the Wind'},
+    {id: 18, artist: 'Diana Ross', title: 'Upside Down'},
+    {id: 19, artist: 'KC and the Sunshine Band', title: 'Please Dont Go'},
+    {id: 20, artist: 'Styx', title: 'Babe'}
 ];
 
-const YearEndSong1981 = [
+const YearEndSongs1981 = [
     {id: 1, artist: 'Kim Carnes', title: 'Bette Davis Eyes'},
     {id: 2, artist: 'Diana Ross & Lionel Richie', title: 'Endless Love'},
     {id: 3, artist: 'Kenny Rogers', title: 'Lady'},
@@ -333,10 +721,20 @@ const YearEndSong1981 = [
     {id: 7, artist: 'Hall & Oates', title: 'Kiss on My List'},
     {id: 8, artist: 'Eddie Rabbitt', title: 'I Love a Rainy Night'},
     {id: 9, artist: 'Dolly Parton', title: '9 to 5'},
-    {id: 10, artist: 'REO Speedwagon', title: 'Keep on Loving You'}
+    {id: 10, artist: 'REO Speedwagon', title: 'Keep on Loving You'},
+    {id: 11, artist: 'Joey Scarbury', title: 'Theme from the Greatest American Hero (Belive It or Not)'},
+    {id: 12, artist: 'Sheena Easton', title: 'Morning Train (Nine to Five)'},
+    {id: 13, artist: 'Smokey Robinson', title: 'Being with You'},
+    {id: 14, artist: 'Juice Newton', title: 'Queen of Hearts'},
+    {id: 15, artist: 'Blondie', title: 'Rapture'},
+    {id: 16, artist: 'Raydio', title: 'A Woman Needs Love (Just Like You Do)'},
+    {id: 17, artist: 'Blondie', title: 'The Tide Is High'},
+    {id: 18, artist: 'Grover Washington Jr. & Bill Withers', title: 'Just the Two of Us'},
+    {id: 19, artist: 'The Pointer Sisters', title: 'Slow Hand'},
+    {id: 20, artist: 'Climax Blues Band', title: 'I Love You'}
 ];
 
-const YearEndSong1982 = [
+const YearEndSongs1982 = [
     {id: 1, artist: 'Olivia Newton-John', title: 'Physical'},
     {id: 2, artist: 'Survivor', title: 'Eye of the Tiger'},
     {id: 3, artist: 'Joan Jett & The Blackhearts', title: 'I Love Rock n Roll'},
@@ -346,10 +744,21 @@ const YearEndSong1982 = [
     {id: 7, artist: 'John Cougar', title: 'Jack & Diane'},
     {id: 8, artist: 'John Cougar', title: 'Hurts So Good'},
     {id: 9, artist: 'Steve Miller Band', title: 'Abracadabra'},
-    {id: 10, artist: 'Chicago', title: 'Hard to Say Im Sorry'}
+    {id: 10, artist: 'Chicago', title: 'Hard to Say Im Sorry'},
+    {id: 11, artist: 'Soft Cell', title: 'Tainted Love'},
+    {id: 12, artist: 'Vangelis', title: 'Chariots of Fire'},
+    {id: 13, artist: 'Quarterflash', title: 'Harden my Heart'},
+    {id: 14, artist: 'Toto', title: 'Rosanna'},
+    {id: 15, artist: 'Hall & Oates', title: 'I Cant Got for That (No Can Do)'},
+    {id: 16, artist: 'Tommy Tutone', title: '867-5309/Jenny'},
+    {id: 17, artist: 'Bertie Higgins', title: 'Key Largo'},
+    {id: 18, artist: 'Melissa Machester', title: 'You Should Hear How She Talks About You'},
+    {id: 19, artist: 'Foreigner', title: 'Waiting for a Girl Like You'},
+    {id: 20, artist: 'Rick Springfield', title: 'Dont Talk to Strangers'}
+
 ];
 
-const YearEndSong1983 = [
+const YearEndSongs1983 = [
     {id: 1, artist: 'The Police', title: 'Every Breath You Take'},
     {id: 2, artist: 'Michael Jackson', title: 'Billie Jean'},
     {id: 3, artist: 'Irene Cara', title: 'Flashdance... What a Feeling'},
@@ -359,23 +768,43 @@ const YearEndSong1983 = [
     {id: 7, artist: 'Hall & Oates', title: 'Maneater'},
     {id: 8, artist: 'Patti Austin and James Ingram', title: 'Baby, Come to Me'},
     {id: 9, artist: 'Michael Sembello', title: 'Maniac'},
-    {id: 10, artist: 'Eurythmics', title: 'Sweet Dreams (Are Made of This)'}
+    {id: 10, artist: 'Eurythmics', title: 'Sweet Dreams (Are Made of This)'},
+    {id: 11, artist: 'Culture Club', title: 'Do You Really Want to Hurt Me'},
+    {id: 12, artist: 'Eddie Rabbitt and Crystal Gayle', title: 'You and I'},
+    {id: 13, artist: 'Dexys Midnight Runners', title: 'Come On Eileen'},
+    {id: 14, artist: 'Bob Seger & The Silver Bullet Band', title: 'Shame on the Moon'},
+    {id: 15, artist: 'Donna Summer', title: 'She Works Hard for the Money'},
+    {id: 16, artist: 'Sergio Mendes', title: 'Never Gonna Let You Go'},
+    {id: 17, artist: 'Duran Duran', title: 'Hungry Like the Wolf'},
+    {id: 18, artist: 'David Bowie', title: 'Lets Dance'},
+    {id: 19, artist: 'Golden Earring', title: 'Twilight Zone'},
+    {id: 20, artist: 'Frida', title: 'I Know Theres Something Going On'}
 ];
 
-const YearEndSong1984 = [
+const YearEndSongs1984 = [
     {id: 1, artist: 'Prince', title: 'When Doves Cry'},
-    {id: 2, artist: 'Tina Turner', title: 'Like a Virgin'},
+    {id: 2, artist: 'Tina Turner', title: 'Whats Love Got to Do With it'},
     {id: 3, artist: 'Paul McCartney and Michael Jackson', title: 'Say Say Say'},
     {id: 4, artist: 'Kenny Loggins', title: 'Footloose'},
-    {id: 5, artist: 'Phil Collins', title: 'Against All Odds (Take a Look at Me Now'},
+    {id: 5, artist: 'Phil Collins', title: 'Against All Odds (Take a Look at Me Now)'},
     {id: 6, artist: 'Van Halen', title: 'Jump'},
     {id: 7, artist: 'Lionel Richie', title: 'Hello'},
     {id: 8, artist: 'Yes', title: 'Owner of a Lonely Heart'},
     {id: 9, artist: 'Ray Parker Jr.', title: 'Ghostbusters'},
-    {id: 10, artist: 'Culture Club', title: 'Karma Chameleon'}
+    {id: 10, artist: 'Culture Club', title: 'Karma Chameleon'},
+    {id: 11, artist: 'John Waite', title: 'Missing You'},
+    {id: 12, artist: 'Lionel Richie', title: 'All Night Long (All Night)'},
+    {id: 13, artist: 'Deniece Williams', title: 'Lets Hear It for the Boy'},
+    {id: 14, artist: 'Bruce Springsteen', title: 'Dancing in the Dark'},
+    {id: 15, artist: 'Cyndi Lauper', title: 'Girls Just Want To Have Fun'},
+    {id: 16, artist: 'Duran Duran', title: 'The Reflex'},
+    {id: 17, artist: 'Cyndi Lauper', title: 'Time After Time'},
+    {id: 18, artist: 'The Pointer Sisters', title: 'Jump (For My Love)'},
+    {id: 19, artist: 'The Romantics', title: 'Talking in Your Sleep'},
+    {id: 20, artist: 'Laura Branigan', title: 'Self Control'}
 ];
 
-const YearEndSong1985 = [
+const YearEndSongs1985 = [
     {id: 1, artist: 'George Michael', title: 'Careless Whisper'},
     {id: 2, artist: 'Madonna', title: 'Like a Virgin'},
     {id: 3, artist: 'Wham!', title: 'Wake Me Up Before You Go-Go'},
@@ -385,10 +814,20 @@ const YearEndSong1985 = [
     {id: 7, artist: 'Tears for Fears', title: 'Everybody Wants to Rule the World'},
     {id: 8, artist: 'Dire Straits', title: 'Money for Nothing'},
     {id: 9, artist: 'Madonna', title: 'Crazy for You'},
-    {id: 10, artist: 'a-ha', title: 'Take On Me'}
+    {id: 10, artist: 'a-ha', title: 'Take On Me'},
+    {id: 11, artist: 'Paul Young', title: 'Everytime You Go Away'},
+    {id: 12, artist: 'Phillip Bailey and Phil Collins', title: 'Easy Lover'},
+    {id: 13, artist: 'REO Speedwagon', title: 'Cant Fight This Feeling'},
+    {id: 14, artist: 'Starship', title: 'We Built This City'},
+    {id: 15, artist: 'Huey Lewis and the News', title: 'The Power of Love'},
+    {id: 16, artist: 'Simple Minds', title: 'Dont You (Forget About Me)'},
+    {id: 17, artist: 'Kool & the Gang', title: 'Cherish'},
+    {id: 18, artist: 'John Parr', title: 'St. Elmos Fire (Man in Motion)'},
+    {id: 19, artist: 'Glenn Frey', title: 'The Heat Is On'},
+    {id: 20, artist: 'USA for Africa', title: 'We Are the World'}
 ];
 
-const YearEndSong1986 = [
+const YearEndSongs1986 = [
     {id: 1, artist: 'Dionne and Friends', title: 'Thats What Friends Are For'},
     {id: 2, artist: 'Lionel Richie', title: 'Say You, Say Me'},
     {id: 3, artist: 'Klymaxx', title: 'I Miss You'},
@@ -398,10 +837,20 @@ const YearEndSong1986 = [
     {id: 7, artist: 'Eddie Murphy', title: 'Party All the Time'},
     {id: 8, artist: 'Survivor', title: 'Burning Heart'},
     {id: 9, artist: 'Mr. Mister', title: 'Kyrie'},
-    {id: 10, artist: 'Robert Palmer', title: 'Addicted to Love'}
+    {id: 10, artist: 'Robert Palmer', title: 'Addicted to Love'},
+    {id: 11, artist: 'Whitney Houston', title: 'Greatest Love of All'},
+    {id: 12, artist: 'Atlantic Starr', title: 'Secret Lovers'},
+    {id: 13, artist: 'Gloria Loring and Carl Anderson', title: 'Friends and Lovers'},
+    {id: 14, artist: 'Peter Cetera', title: 'Glory of Love'},
+    {id: 15, artist: 'Pet Shop Boys', title: 'West End Girls'},
+    {id: 16, artist: 'Billy Ocean', title: 'Therell Be Sad Songs (To Make You Cry)'},
+    {id: 17, artist: 'Simple Minds', title: 'Alive and Kicking'},
+    {id: 18, artist: 'Heart', title: 'Never'},
+    {id: 19, artist: 'Prince and The Revolution', title: 'Kiss'},
+    {id: 20, artist: 'Steve Winwood', title: 'Higher Love'}
 ];
 
-const YearEndSong1987 = [
+const YearEndSongs1987 = [
     {id: 1, artist: 'The Bangles', title: 'Walk like an Egyptian'},
     {id: 2, artist: 'Heart', title: 'Alone'},
     {id: 3, artist: 'Gregory Abbott', title: 'Shake You Down'},
@@ -411,10 +860,20 @@ const YearEndSong1987 = [
     {id: 7, artist: 'Whitesnake', title: 'Here I Go Again'},
     {id: 8, artist: 'Bruce Hornsby and the Range', title: 'The Way It Is'},
     {id: 9, artist: 'Bob Seger', title: 'Shakedown'},
-    {id: 10, artist: 'Bon Jovi', title: 'Livin on a Prayer'}
+    {id: 10, artist: 'Bon Jovi', title: 'Livin on a Prayer'},
+    {id: 11, artist: 'Los Lobos', title: 'La Bamba'},
+    {id: 12, artist: 'Wang Chung', title: 'Everybody Have Fun Tonight'},
+    {id: 13, artist: 'Crowded House', title: 'Dont Dream Its Over'},
+    {id: 14, artist: 'Atlantic Starr', title: 'Always'},
+    {id: 15, artist: 'U2', title: 'With or Without You'},
+    {id: 16, artist: 'Jody Watley', title: 'Looking for a New Love'},
+    {id: 17, artist: 'Lisa Lisa and Cult Jam', title: 'Head to Toe'},
+    {id: 18, artist: 'Tiffany', title: 'I Thnk Were Alone Now'},
+    {id: 19, artist: 'Billy Idol', title: 'Mony Mony'},
+    {id: 20, artist: 'Billy Vera and the Beaters', title: 'At This Moment'}
 ];
 
-const YearEndSong1988 = [
+const YearEndSongs1988 = [
     {id: 1, artist: 'George Michael', title: 'Faith'},
     {id: 2, artist: 'INXS', title: 'Need You Tonight'},
     {id: 3, artist: 'George Harrison', title: 'Got My Mind Set On You'},
@@ -424,10 +883,20 @@ const YearEndSong1988 = [
     {id: 7, artist: 'Belinda Carlisle', title: 'Heaven Is a Place on Earth'},
     {id: 8, artist: 'Tiffany', title: 'Couldve Been'},
     {id: 9, artist: 'Breathe', title: 'Hands to Heaven'},
-    {id: 10, artist: 'Steve Winwood', title: 'Roll with It'}
+    {id: 10, artist: 'Steve Winwood', title: 'Roll with It'},
+    {id: 11, artist: 'George Michael', title: 'One More Try'},
+    {id: 12, artist: 'Terence Trent Darby', title: 'Wishing Well'},
+    {id: 13, artist: 'Gloria Estefan and Miami Sound Machine', title: 'Anything for You'},
+    {id: 14, artist: 'Cheap Trick', title: 'The Flame'},
+    {id: 15, artist: 'Billy Ocean', title: 'Get Outta my Dreams, Get into My Car'},
+    {id: 16, artist: 'Expose', title: 'Seasons Change'},
+    {id: 17, artist: 'Whitesnake', title: 'Is This Love'},
+    {id: 18, artist: 'The Escape Club', title: 'Wild, Wild West'},
+    {id: 19, artist: 'Def Leppard', title: 'Pour Some Sugar on Me'},
+    {id: 20, artist: 'Taylor Dayne', title: 'Ill Always Love You'}
 ];
 
-const YearEndSong1989 = [
+const YearEndSongs1989 = [
     {id: 1, artist: 'Chicago', title: 'Look Away'},
     {id: 2, artist: 'Bobby Brown', title: 'My Prerogative'},
     {id: 3, artist: 'Poison', title: 'Every Rose Has Its Thorn'},
@@ -437,10 +906,20 @@ const YearEndSong1989 = [
     {id: 7, artist: 'Bette Midler', title: 'Wind Beneath My Wings'},
     {id: 8, artist: 'Mili Vanilli', title: 'Girl You Know Its True'},
     {id: 9, artist: 'Will to Power', title: 'Baby, I Love Your Way'},
-    {id: 10, artist: 'Anita Baker', title: 'Giving You the Best That I Got'}
+    {id: 10, artist: 'Anita Baker', title: 'Giving You the Best That I Got'},
+    {id: 11, artist: 'Richard Marx', title: 'Right Here Waiting'},
+    {id: 12, artist: 'Boy Meets Girl', title: 'Waiting For a Star to Fall'},
+    {id: 13, artist: 'Debbie Gibson', title: 'Lost in Your Eyes'},
+    {id: 14, artist: 'Gloria Estefan', title: 'Dont Wanna Lose You'},
+    {id: 15, artist: 'Warrant', title: 'Heaven'},
+    {id: 16, artist: 'Milli Vanilli', title: 'Girl Im Gonna Miss You'},
+    {id: 17, artist: 'Roxette', title: 'The Look'},
+    {id: 18, artist: 'Fine Young Cannibals', title: 'She Drives Me Crazy'},
+    {id: 19, artist: 'Bobby Brown', title: 'On Our Own'},
+    {id: 20, artist: 'Phil Collins', title: 'Two Hearts'}
 ];
 
-const YearEndSong1990 = [
+const YearEndSongs1990 = [
     {id: 1, artist: 'Wilson Phillips', title: 'Hold On'},
     {id: 2, artist: 'Roxette', title: 'It Must Have Been Love'},
     {id: 3, artist: 'Sinead O Connor', title: 'Nothing Compares 2 U'},
@@ -450,10 +929,20 @@ const YearEndSong1990 = [
     {id: 7, artist: 'Phil Collins', title: 'Another Day in Paradise'},
     {id: 8, artist: 'En Vouge', title: 'Hold On'},
     {id: 9, artist: 'Billy Idol', title: 'Cradle of Love'},
-    {id: 10, artist: 'Jon Bon Jovi', title: 'Blaze of Glory'}
+    {id: 10, artist: 'Jon Bon Jovi', title: 'Blaze of Glory'},
+    {id: 11, artist: 'Bell Biv DeVoe', title: 'Do Me!'},
+    {id: 12, artist: 'Michael Bolton', title: 'How Am I Supposed to Live Without You'},
+    {id: 13, artist: 'Technotronic', title: 'Pump Up the Jam'},
+    {id: 14, artist: 'Paula Abdul and The Wild Pair', title: 'Opposites Attract'},
+    {id: 15, artist: 'Janet Jackson', title: 'Escapade'},
+    {id: 16, artist: 'Heart', title: 'All I Wanna Do Is Make Love to You'},
+    {id: 17, artist: 'Maxi Priest', title: 'Close to You'},
+    {id: 18, artist: 'Alannah Myles', title: 'Black Velvet'},
+    {id: 19, artist: 'Wilson Phillips', title: 'Release Me'},
+    {id: 20, artist: 'Linda Ronstadt and Aaron Neville', title: 'Dont Know Much'}
 ];
 
-const YearEndSong1991 = [
+const YearEndSongs1991 = [
     {id: 1, artist: 'Bryan Adams', title: '(Everything I Do) I Do It for You'},
     {id: 2, artist: 'Color Me Badd', title: 'I Wanna Sex You Up'},
     {id: 3, artist: 'C+C Music Factory', title: 'Gonna Make You Sweat (Everybody Dance Now)'},
@@ -463,10 +952,20 @@ const YearEndSong1991 = [
     {id: 7, artist: 'Extreme', title: 'More than Words'},
     {id: 8, artist: 'Hi-Five', title: 'I Like the Way (The Kissing Game)'},
     {id: 9, artist: 'Surface', title: 'The First Time'},
-    {id: 10, artist: 'Amy Grant', title: 'Baby Baby'}
+    {id: 10, artist: 'Amy Grant', title: 'Baby Baby'},
+    {id: 11, artist: 'Boyz II Men', title: 'Motownphilly'},
+    {id: 12, artist: 'Stevie B', title: 'Because I Love You (The Postman Song)'},
+    {id: 13, artist: 'Mariah Carey', title: 'Someday'},
+    {id: 14, artist: 'Damn Yankees', title: 'High Enough'},
+    {id: 15, artist: 'Bette Midler', title: 'From a Distance'},
+    {id: 16, artist: 'Whitney Houston', title: 'All the Man That I Need'},
+    {id: 17, artist: 'Jesus Jones', title: 'Right Here, Right Now'},
+    {id: 18, artist: 'Color Me Badd', title: 'I Adore Mi Amor'},
+    {id: 19, artist: 'Janet Jackson', title: 'Love Will Never Do (Without You)'},
+    {id: 20, artist: 'Marky Mark and the Funky Bunch', title: 'Good Vibrations'}
 ];
 
-const YearEndSong1992 = [
+const YearEndSongs1992 = [
     {id: 1, artist: 'Boyz II Men', title: 'End of the Road'},
     {id: 2, artist: 'Sir Mix-a-Lot', title: 'Baby Got Back'},
     {id: 3, artist: 'Kris Kross', title: 'Jump'},
@@ -476,10 +975,20 @@ const YearEndSong1992 = [
     {id: 7, artist: 'En Vogue', title: 'My Lovin (Youre Never Gonna Get It)'},
     {id: 8, artist: 'Red Hot Chili Peppers', title: 'Under the Bridge'},
     {id: 9, artist: 'Color Me Badd', title: 'All 4 Love'},
-    {id: 10, artist: 'Jon Secada', title: 'Just Another Day'}
+    {id: 10, artist: 'Jon Secada', title: 'Just Another Day'},
+    {id: 11, artist: 'Shanice', title: 'I Love Your Smile'},
+    {id: 12, artist: 'Mr. Big', title: 'To Be with You'},
+    {id: 13, artist: 'Right Said Fred', title: 'Im Too Sexy'},
+    {id: 14, artist: 'Michael Jackson', title: 'Black or White'},
+    {id: 15, artist: 'Billy Ray Cyrus', title: 'Achy Breaky Heart'},
+    {id: 16, artist: 'Mariah Carey', title: 'Ill Be There'},
+    {id: 17, artist: 'Guns N Roses', title: 'November Rain'},
+    {id: 18, artist: 'Tom Cochrane', title: 'Life Is a Highway'},
+    {id: 19, artist: 'Michael Jackson', title: 'Remember the Time'},
+    {id: 20, artist: 'CeCe Peniston', title: 'Finally'}
 ];
 
-const YearEndSong1993 = [
+const YearEndSongs1993 = [
     {id: 1, artist: 'Whitney Houston', title: 'I Will Always Love You'},
     {id: 2, artist: 'Tag Team', title: 'Whoomp! (There It Is)'},
     {id: 3, artist: 'UB40', title: 'Cant Help Falling In Love'},
@@ -489,10 +998,20 @@ const YearEndSong1993 = [
     {id: 7, artist: 'Shai', title: 'If I Ever Fall in Love'},
     {id: 8, artist: 'Mariah Carey', title: 'Dreamlover'},
     {id: 9, artist: 'Wreckx-n-Effect', title: 'Rump Shaker'},
-    {id: 10, artist: 'Snow', title: 'Informer'}
+    {id: 10, artist: 'Snow', title: 'Informer'},
+    {id: 11, artist: 'Dr. Dre', title: 'Nuthin but a G Thang'},
+    {id: 12, artist: 'Boyz II Men', title: 'In the Still of the Nite'},
+    {id: 13, artist: 'Jade', title: 'Dont Walk Away'},
+    {id: 14, artist: 'H-Town', title: 'Knockin da Boots'},
+    {id: 15, artist: 'Jodeci', title: 'Lately'},
+    {id: 16, artist: 'Duice', title: 'Dazzey Duks'},
+    {id: 17, artist: 'Robin S.', title: 'Show Me Love'},
+    {id: 18, artist: 'Peabo Bryson and Regina Belle', title: 'A Whole New World'},
+    {id: 19, artist: 'Janet Jackson', title: 'If'},
+    {id: 20, artist: 'SWV', title: 'Im So Into You'}
 ];
 
-const YearEndSong1994 = [
+const YearEndSongs1994 = [
     {id: 1, artist: 'Ace of Base', title: 'The Sign'},
     {id: 2, artist: 'All-4-One', title: 'I Swear'},
     {id: 3, artist: 'Boyz II Men', title: 'Ill Make Love to You'},
@@ -502,10 +1021,20 @@ const YearEndSong1994 = [
     {id: 7, artist: 'Toni Braxton', title: 'Breathe Again'},
     {id: 8, artist: 'Bryan Adams, Rod Stewart and Sting', title: 'All for Love'},
     {id: 9, artist: 'Ace of Base', title: 'All That She Wants'},
-    {id: 10, artist: 'Ace of Base', title: 'Dont Turn Around'}
+    {id: 10, artist: 'Ace of Base', title: 'Dont Turn Around'},
+    {id: 11, artist: 'R. Kelly', title: 'Bump n Grind'},
+    {id: 12, artist: 'Janet Jackson', title: 'Again'},
+    {id: 13, artist: 'Madonna', title: 'Ill Remember'},
+    {id: 14, artist: 'Salt-n-Pepa and En Vogue', title: 'Whatta Man'},
+    {id: 15, artist: 'John Mellencamp', title: 'Wild Night'},
+    {id: 16, artist: 'Mariah Carey', title: 'Without You/Never Forget You'},
+    {id: 17, artist: 'Toni Braxton', title: 'You Mean the World to Me'},
+    {id: 18, artist: 'Elton John', title: 'Can You Feel the Love Tonight'},
+    {id: 19, artist: 'Prince', title: 'The Most Beautiful Girl in the World'},
+    {id: 20, artist: 'Coolio', title: 'Fantastic Voyage'}
 ];
 
-const YearEndSong1995 = [
+const YearEndSongs1995 = [
     {id: 1, artist: 'Coolio', title: 'Gangstas Paradise'},
     {id: 2, artist: 'TLC', title: 'Waterfalls'},
     {id: 3, artist: 'TLC', title: 'Creep'},
@@ -515,10 +1044,20 @@ const YearEndSong1995 = [
     {id: 7, artist: 'Mariah Carey', title: 'Fantasy'},
     {id: 8, artist: 'Madonna', title: 'Take a Bow'},
     {id: 9, artist: 'Monica', title: 'Dont Take It Personal (Just One of Dem Days)'},
-    {id: 10, artist: 'Montell Jordan', title: 'This Is How We Do It'}
+    {id: 10, artist: 'Montell Jordan', title: 'This Is How We Do It'},
+    {id: 11, artist: 'Dionne Farris', title: 'I Know'},
+    {id: 12, artist: 'Boyz II Men', title: 'Water Runs Dry'},
+    {id: 13, artist: 'Adina Howard', title: 'Freak Like Me'},
+    {id: 14, artist: 'Blues Traveler', title: 'Run-Around'},
+    {id: 15, artist: 'All-4-One', title: 'I Can Love You Like That'},
+    {id: 16, artist: 'Bryan Adams', title: 'Have You Ever Really Loved a Woman?'},
+    {id: 17, artist: 'Bon Jovi', title: 'Always'},
+    {id: 18, artist: 'Shaggy', title: 'Boombastic/In the Summertime'},
+    {id: 19, artist: 'Nicki French', title: 'Total Eclipse of the Heart'},
+    {id: 20, artist: 'Desree', title: 'You Gotta Be'}
 ];
 
-const YearEndSong1996 = [
+const YearEndSongs1996 = [
     {id: 1, artist: 'Los Del Rio', title: 'Macarena'},
     {id: 2, artist: 'Mariah Carey and Boyz II Men', title: 'One Sweet Day'},
     {id: 3, artist: 'Celine Dion', title: 'Because You Loved Me'},
@@ -528,10 +1067,20 @@ const YearEndSong1996 = [
     {id: 7, artist: 'Bone Thugs-n-Harmony', title: 'Tha Crossroads'},
     {id: 8, artist: 'Donna Lewis', title: 'I Love You Always Forever'},
     {id: 9, artist: 'Toni Braxton', title: 'Let It Flow'},
-    {id: 10, artist: 'Keith Sweat', title: 'Twisted'}
+    {id: 10, artist: 'Keith Sweat', title: 'Twisted'},
+    {id: 11, artist: 'Quad City DJs', title: 'Cmon N Ride It (The Train)'},
+    {id: 12, artist: 'Everything but the Girl', title: 'Missing'},
+    {id: 13, artist: 'Alanis Morissette', title: 'Ironic'},
+    {id: 14, artist: 'Whitney Houston', title: 'Exhale (Shoop Shoop)'},
+    {id: 15, artist: 'Gin Blossoms', title: 'Follow You Down/Til I Heart It from You'},
+    {id: 16, artist: 'Brandy', title: 'Sittin Up in My Room'},
+    {id: 17, artist: '2Pac', title: 'How Do U Want It/California Love'},
+    {id: 18, artist: 'Celine Dion', title: 'Its All Coming Back to Me Now'},
+    {id: 19, artist: 'Eric Clapton', title: 'Change the World'},
+    {id: 20, artist: 'LL Cool J', title: 'Hey Lover'}
 ];
 
-const YearEndSong1997 = [
+const YearEndSongs1997 = [
     {id: 1, artist: 'Elton John', title: 'Candle in the Wind 1997'},
     {id: 2, artist: 'Jewel', title: 'You Were Meant for Me'},
     {id: 3, artist: 'Puff Daddy', title: 'Ill Be Missing You'},
@@ -541,10 +1090,20 @@ const YearEndSong1997 = [
     {id: 7, artist: 'En Vogue', title: 'Dont Let Go (Love)'},
     {id: 8, artist: 'Mark Morrison', title: 'Return of the Mack'},
     {id: 9, artist: 'LeAnn Rimes', title: 'How Do I Live'},
-    {id: 10, artist: 'Spice Girls', title: 'Wannabe'}
+    {id: 10, artist: 'Spice Girls', title: 'Wannabe'},
+    {id: 11, artist: 'Backstreet Boys', title: 'Quit Playing Games (With My Heart)'},
+    {id: 12, artist: 'Hanson', title: 'MMMBop'},
+    {id: 13, artist: 'Monica', title: 'For You I Will'},
+    {id: 14, artist: 'Usher', title: 'You Make Me Wanna...'},
+    {id: 15, artist: 'Meredith Brooks', title: 'Bitch'},
+    {id: 16, artist: 'Keith Sweat', title: 'Nobody'},
+    {id: 17, artist: 'Third Eye Blind', title: 'Semi-Charmed Life'},
+    {id: 18, artist: 'Duncan Sheik', title: 'Barely Breathing'},
+    {id: 19, artist: 'Az Yet', title: 'Hard to Say Im Sorry'},
+    {id: 20, artist: 'The Notorious B.I.G.', title: 'Mo Money Mo Problems'}
 ];
 
-const YearEndSong1998 = [
+const YearEndSongs1998 = [
     {id: 1, artist: 'Next', title: 'Too Close'},
     {id: 2, artist: 'Brandy and Monica', title: 'The Body Is Mine'},
     {id: 3, artist: 'Shania Twain', title: 'Youre Still the One'},
@@ -554,10 +1113,20 @@ const YearEndSong1998 = [
     {id: 7, artist: 'K-Ci & JoJo', title: 'All my Life'},
     {id: 8, artist: 'Elton John', title: 'Candle in the Wind 1997'},
     {id: 9, artist: 'Usher', title: 'Nice & Slow'},
-    {id: 10, artist: 'Paula Cole', title: 'I Dont Want to Wait'}
+    {id: 10, artist: 'Paula Cole', title: 'I Dont Want to Wait'},
+    {id: 11, artist: 'Third Eye Blind', title: 'Hows It Going to Be'},
+    {id: 12, artist: 'Destinys Child', title: 'No, No, No'},
+    {id: 13, artist: 'Celine Dion', title: 'My Heart Will Go On'},
+    {id: 14, artist: 'Will Smith', title: 'Gettin Jiggy wit It'},
+    {id: 15, artist: 'Usher', title: 'You Make Me Wanna...'},
+    {id: 16, artist: 'Usher', title: 'My Way'},
+    {id: 17, artist: 'Mariah Carey', title: 'My All'},
+    {id: 18, artist: 'Monica', title: 'The First Night'},
+    {id: 19, artist: 'Puff Daddy', title: 'Been Around the World'},
+    {id: 20, artist: 'Sarah McLachlan', title: 'Adia'}
 ];
 
-const YearEndSong1999 = [
+const YearEndSongs1999 = [
     {id: 1, artist: 'Cher', title: 'Believe'},
     {id: 2, artist: 'TLC', title: 'No Scrubs'},
     {id: 3, artist: 'Monica', title: 'Angel of Mine'},
@@ -567,10 +1136,20 @@ const YearEndSong1999 = [
     {id: 7, artist: 'Christina Aguilera', title: 'Genie in a Bottle'},
     {id: 8, artist: 'Sugar Ray', title: 'Every Morning'},
     {id: 9, artist: 'Deborah Cox', title: 'Nobodys Supposed to Be Here'},
-    {id: 10, artist: 'Ricky Martin', title: 'Livin la Vida Loca'}
+    {id: 10, artist: 'Ricky Martin', title: 'Livin la Vida Loca'},
+    {id: 11, artist: '702', title: 'Where My Girls At?'},
+    {id: 12, artist: 'Jennifer Lopez', title: 'If You Had My Love'},
+    {id: 13, artist: 'Goo Goo Dolls', title: 'Slide'},
+    {id: 14, artist: 'Brandy', title: 'Have You Ever?'},
+    {id: 15, artist: 'Backstreet Boys', title: 'I Want It That Way'},
+    {id: 16, artist: 'R. Kelly and Celine Dion', title: 'Im Your Angel'},
+    {id: 17, artist: 'Smash Mouth', title: 'All Star'},
+    {id: 18, artist: 'Sarah McLachlan', title: 'Angel'},
+    {id: 19, artist: 'Santana', title: 'Smooth'},
+    {id: 20, artist: 'TLC', title: 'Unpretty'}
 ];
 
-const YearEndSong2000 = [
+const YearEndSongs2000 = [
     {id: 1, artist: 'Faith Hill', title: 'Breathe'},
     {id: 2, artist: 'Santana', title: 'Smooth'},
     {id: 3, artist: 'Santana', title: 'Maria Maria'},
@@ -580,10 +1159,20 @@ const YearEndSong2000 = [
     {id: 7, artist: 'Savage Garden', title: 'I Knew I Loved You'},
     {id: 8, artist: 'Lonestar', title: 'Amazed'},
     {id: 9, artist: 'Matchbox Twenty', title: 'Bent'},
-    {id: 10, artist: 'Toni Braxton', title: 'He Wasnt Man Enough'}
+    {id: 10, artist: 'Toni Braxton', title: 'He Wasnt Man Enough'},
+    {id: 11, artist: 'Creed', title: 'Higher'},
+    {id: 12, artist: 'Aaliyah', title: 'Try Again'},
+    {id: 13, artist: 'Destinys Child', title: 'Jumpin Jumpin'},
+    {id: 14, artist: 'Sisqo', title: 'Thong Song'},
+    {id: 15, artist: '3 Doors Down', title: 'Kryptonite'},
+    {id: 16, artist: 'Pink', title: 'There You Go'},
+    {id: 17, artist: 'Madonna', title: 'Music'},
+    {id: 18, artist: 'Janet Jackson', title: 'Doesnt Really Matter'},
+    {id: 19, artist: 'Christina Aguilera', title: 'What a Girl Wants'},
+    {id: 20, artist: 'Brian McKnight', title: 'Back at One'}
 ];
 
-const YearEndSong2001 = [
+const YearEndSongs2001 = [
     {id: 1, artist: 'Lifehouse', title: 'Hanging by a Moment'},
     {id: 2, artist: 'Alicia Keys', title: 'Fallin'},
     {id: 3, artist: 'Janet Jackson', title: 'All for You'},
@@ -593,10 +1182,20 @@ const YearEndSong2001 = [
     {id: 7, artist: 'Eve', title: 'Let Me Blow Your Mind'},
     {id: 8, artist: 'Dido', title: 'Thank You'},
     {id: 9, artist: 'Lenny Kravitz', title: 'Again'},
-    {id: 10, artist: 'Destinys Child', title: 'Independent Women'}
+    {id: 10, artist: 'Destinys Child', title: 'Independent Women'},
+    {id: 11, artist: 'Blu Cantrell', title: 'Hit Em Up Style (Oops!)'},
+    {id: 12, artist: 'Shaggy', title: 'It Wasnt Me'},
+    {id: 13, artist: 'Joe', title: 'Stutter'},
+    {id: 14, artist: 'Staind', title: 'Its Been Awhile'},
+    {id: 15, artist: 'Usher', title: 'U Remind Me'},
+    {id: 16, artist: 'Jagged Edge', title: 'Where the Party At'},
+    {id: 17, artist: 'Shaggy', title: 'Angel'},
+    {id: 18, artist: 'Nelly', title: 'Ride with Me'},
+    {id: 19, artist: 'Uncle Kracker', title: 'Follow Me'},
+    {id: 20, artist: '112', title: 'Peaches & Cream'}
 ];
 
-const YearEndSong2002 = [
+const YearEndSongs2002 = [
     {id: 1, artist: 'Nickelback', title: 'How You Remind Me'},
     {id: 2, artist: 'Ashanti', title: 'Foolish'},
     {id: 3, artist: 'Nelly', title: 'Hot in Herre'},
@@ -606,10 +1205,20 @@ const YearEndSong2002 = [
     {id: 7, artist: 'Linkin Park', title: 'In The End'},
     {id: 8, artist: 'Fat Joe', title: 'Whats Luv?'},
     {id: 9, artist: 'Usher', title: 'U Got It Bad'},
-    {id: 10, artist: 'Puddle of Mudd', title: 'Blurry'}
+    {id: 10, artist: 'Puddle of Mudd', title: 'Blurry'},
+    {id: 11, artist: 'Avril Lavigne', title: 'Complicated'},
+    {id: 12, artist: 'Ja Rule', title: 'Always on Time'},
+    {id: 13, artist: 'Jennifer Lopez', title: 'Aint It Funny (Murder Remix)'},
+    {id: 14, artist: 'Jimmy Eat World', title: 'The Middle'},
+    {id: 15, artist: 'P. Diddy', title: 'I Need a Girl (Part One)'},
+    {id: 16, artist: 'Usher', title: 'U Dont Have to Call'},
+    {id: 17, artist: 'Mary J. Blige', title: 'Family Affair'},
+    {id: 18, artist: 'P. Diddy', title: 'I Need a Girl (Part Two)'},
+    {id: 19, artist: 'Eve', title: 'Gangsta Lovin'},
+    {id: 20, artist: 'Creed', title: 'My Sacrifice'}
 ];
 
-const YearEndSong2003 = [
+const YearEndSongs2003 = [
     {id: 1, artist: '50 Cent', title: 'In Da Club'},
     {id: 2, artist: 'R. Kelly', title: 'Ignition (Remix)'},
     {id: 3, artist: 'Sean Paul', title: 'Get Busy'},
@@ -619,10 +1228,20 @@ const YearEndSong2003 = [
     {id: 7, artist: 'Chingy', title: 'Right Thurr'},
     {id: 8, artist: 'Aaliyah', title: 'Miss You'},
     {id: 9, artist: 'Kid Rock', title: 'Picture'},
-    {id: 10, artist: 'Evanescence', title: 'Bring Me to Life'}
+    {id: 10, artist: 'Evanescence', title: 'Bring Me to Life'},
+    {id: 11, artist: 'Lil Jon & The East Side Boyz', title: 'Get Low'},
+    {id: 12, artist: 'Beyonce', title: 'Baby Boy'},
+    {id: 13, artist: 'Nelly, P. Diddy and Murphy Lee', title: 'Shake Ya Tailfeather'},
+    {id: 14, artist: '50 Cent', title: '21 Questions'},
+    {id: 15, artist: 'Jennifer Lopez', title: 'All I Have'},
+    {id: 16, artist: 'Christina Aguilera', title: 'Beautiful'},
+    {id: 17, artist: 'Busta Rhymes', title: 'I Know What You Want'},
+    {id: 18, artist: 'Avril Lavigne', title: 'Im with You'},
+    {id: 19, artist: 'Uncle Kracker', title: 'Drift Away'},
+    {id: 20, artist: 'Lil Kim', title: 'Magic Stick'}
 ];
 
-const YearEndSong2004 = [
+const YearEndSongs2004 = [
     {id: 1, artist: 'Usher', title: 'Yeah!'},
     {id: 2, artist: 'Usher', title: 'Burn'},
     {id: 3, artist: 'Alicia Keys', title: 'If I Aint Got You'},
@@ -632,10 +1251,20 @@ const YearEndSong2004 = [
     {id: 7, artist: 'Mario Winans', title: 'I Dont Wanna Know'},
     {id: 8, artist: 'OutKast', title: 'Hey Ya!'},
     {id: 9, artist: 'Ciara', title: 'Goodies'},
-    {id: 10, artist: 'Terror Squad', title: 'Lean Back'}
+    {id: 10, artist: 'Terror Squad', title: 'Lean Back'},
+    {id: 11, artist: 'J-Kwon', title: 'Tipsy'},
+    {id: 12, artist: 'Usher', title: 'Confessions Part II'},
+    {id: 13, artist: 'Juvenile', title: 'Slow Motion'},
+    {id: 14, artist: 'Petey Pablo', title: 'Freek-a-Leek'},
+    {id: 15, artist: '3 Doors Down', title: 'Here Without You'},
+    {id: 16, artist: 'Twista', title: 'Slow Jamz'},
+    {id: 17, artist: 'Nickelback', title: 'Someday'},
+    {id: 18, artist: 'Beyonce', title: 'Naughty Girl'},
+    {id: 19, artist: 'Evanescence', title: 'My Immortal'},
+    {id: 20, artist: 'Lil Flip', title: 'Sunshine'}
 ];
 
-const YearEndSong2005 = [
+const YearEndSongs2005 = [
     {id: 1, artist: 'Mariah Carey', title: 'We Belong Together'},
     {id: 2, artist: 'Gwen Stefani', title: 'Hollaback Girl'},
     {id: 3, artist: 'Mario', title: 'Let Me Love You'},
@@ -645,10 +1274,20 @@ const YearEndSong2005 = [
     {id: 7, artist: 'Green Day', title: 'Boulevard of Broken Dreams'},
     {id: 8, artist: '50 Cent', title: 'Candy Shop'},
     {id: 9, artist: 'The Pussycat Dolls', title: 'Dont Cha'},
-    {id: 10, artist: 'Kelly Clarkson', title: 'Behind These Hazel Eyes'}
+    {id: 10, artist: 'Kelly Clarkson', title: 'Behind These Hazel Eyes'},
+    {id: 11, artist: '50 Cent', title: 'Disco Inferno'},
+    {id: 12, artist: 'Lifehouse', title: 'You and Me'},
+    {id: 13, artist: 'The Black Eyed Peas', title: 'Dont Phunk with My Heart'},
+    {id: 14, artist: 'Missy Elliott', title: 'Lose Control'},
+    {id: 15, artist: 'Mariah Carey', title: 'Shake It Off'},
+    {id: 16, artist: 'The Killers', title: 'Mr. Brightside'},
+    {id: 17, artist: '50 Cent', title: 'Just a Lil Bit'},
+    {id: 18, artist: 'Rihanna', title: 'Pon de Replay'},
+    {id: 19, artist: 'The Game', title: 'How We Do'},
+    {id: 20, artist: 'Weezer', title: 'Beverly Hills'}
 ];
 
-const YearEndSong2006 = [
+const YearEndSongs2006 = [
     {id: 1, artist: 'Daniel Powter', title: 'Bad Day'},
     {id: 2, artist: 'Sean Paul', title: 'Temperature'},
     {id: 3, artist: 'Nelly Furtado', title: 'Promiscuous'},
@@ -658,10 +1297,20 @@ const YearEndSong2006 = [
     {id: 7, artist: 'Gnarls Barkley', title: 'Crazy'},
     {id: 8, artist: 'Chamillionare', title: 'Ridin'},
     {id: 9, artist: 'Justin Timberlake', title: 'SexyBack'},
-    {id: 10, artist: 'Beyonce', title: 'Check On It'}
+    {id: 10, artist: 'Beyonce', title: 'Check On It'},
+    {id: 11, artist: 'Mary J. Blige', title: 'Be Without You'},
+    {id: 12, artist: 'Nelly, Paul Wall and Ali & Gipp', title: 'Grillz'},
+    {id: 13, artist: 'The Fray', title: 'Over My Head (Cable Car)'},
+    {id: 14, artist: 'Cassie', title: 'Me & U'},
+    {id: 15, artist: 'Pussycat Dolls', title: 'Buttons'},
+    {id: 16, artist: 'Chris Brown', title: 'Run It!'},
+    {id: 17, artist: 'Ne-Yo', title: 'So Sick'},
+    {id: 18, artist: 'Yung Joc', title: 'Its Goin Down'},
+    {id: 19, artist: 'Rihanna', title: 'SOS'},
+    {id: 20, artist: 'Panic! at the Disco', title: 'I Write Sins Not Tragedies'}
 ];
 
-const YearEndSong2007 = [
+const YearEndSongs2007 = [
     {id: 1, artist: 'Beyonce', title: 'Irreplaceable'},
     {id: 2, artist: 'Rihanna', title: 'Umbrella'},
     {id: 3, artist: 'Gwen Stefani', title: 'The Sweet Escape'},
@@ -671,10 +1320,20 @@ const YearEndSong2007 = [
     {id: 7, artist: 'Plain White Ts', title: 'Hey There Delilah'},
     {id: 8, artist: 'Akon', title: 'I Wanna Love You'},
     {id: 9, artist: 'Nelly Furtado', title: 'Say It Right'},
-    {id: 10, artist: 'Fergie', title: 'Glamorous'}
+    {id: 10, artist: 'Fergie', title: 'Glamorous'},
+    {id: 11, artist: 'Akon', title: 'Dont Matter'},
+    {id: 12, artist: 'Avril Lavigne', title: 'Girlfriend'},
+    {id: 13, artist: 'Maroon 5', title: 'Makes Me Wonder'},
+    {id: 14, artist: 'Shop Boyz', title: 'Party Like a Rockstar'},
+    {id: 15, artist: 'Akon', title: 'Smack That'},
+    {id: 16, artist: 'Mims', title: 'This Is Why Im Hot'},
+    {id: 17, artist: 'Daughtry', title: 'Its Not Over'},
+    {id: 18, artist: 'Timbaland', title: 'The Way I Are'},
+    {id: 19, artist: 'Fergie', title: 'Fregalicious'},
+    {id: 20, artist: 'Soulja Boy Tell Em', title: 'Crank That (Soulja Boy)'}
 ];
 
-const YearEndSong2008 = [
+const YearEndSongs2008 = [
     {id: 1, artist: 'Flo Rida', title: 'Low'},
     {id: 2, artist: 'Leona Lewis', title: 'Bleeding Love'},
     {id: 3, artist: 'Alicia Keys', title: 'No One'},
@@ -684,10 +1343,20 @@ const YearEndSong2008 = [
     {id: 7, artist: 'Sara Bareillas', title: 'Love Song'},
     {id: 8, artist: 'Usher', title: 'Love in This Club'},
     {id: 9, artist: 'Chris Brown', title: 'With You'},
-    {id: 10, artist: 'Chris Brown', title: 'Forever'}
+    {id: 10, artist: 'Chris Brown', title: 'Forever'},
+    {id: 11, artist: 'Ray J', title: 'Sexy Can I'},
+    {id: 12, artist: 'Rihanna', title: 'Take a Bow'},
+    {id: 13, artist: 'Coldplay', title: 'Viva la Vida'},
+    {id: 14, artist: 'Katy Perry', title: 'I Kissed a Girl'},
+    {id: 15, artist: 'T.I.', title: 'Whatever You Like'},
+    {id: 16, artist: 'Rihanna', title: 'Disturbia'},
+    {id: 17, artist: 'Rihanna', title: 'Dont Stop the Music'},
+    {id: 18, artist: 'Natasha Bedingfield', title: 'Pocketful of Sunshine'},
+    {id: 19, artist: 'Chris Brown', title: 'Kiss Kiss'},
+    {id: 20, artist: 'Ne-Yo', title: 'Closer'}
 ];
 
-const YearEndSong2009 = [
+const YearEndSongs2009 = [
     {id: 1, artist: 'The Black Eyed Peas', title: 'Boom Boom Pow'},
     {id: 2, artist: 'Lady Gaga', title: 'Poker Face'},
     {id: 3, artist: 'Lady Gaga', title: 'Just Dance'},
@@ -697,10 +1366,20 @@ const YearEndSong2009 = [
     {id: 7, artist: 'Jason Mraz', title: 'Im Yours'},
     {id: 8, artist: 'Beyonce', title: 'Single Ladies (Put a Ring on It)'},
     {id: 9, artist: 'Kanye West', title: 'Heartless'},
-    {id: 10, artist: 'The All-American Rejects', title: 'Gives You Hell'}
+    {id: 10, artist: 'The All-American Rejects', title: 'Gives You Hell'},
+    {id: 11, artist: 'Taylor Swift', title: 'You Belong with Me'},
+    {id: 12, artist: 'T.I.', title: 'Dead and Gone'},
+    {id: 13, artist: 'The Fray', title: 'You Found Me'},
+    {id: 14, artist: 'Kings of Leon', title: 'Use Somebody'},
+    {id: 15, artist: 'Keri Hilson', title: 'Knock You Down'},
+    {id: 16, artist: 'Jamie Foxx', title: 'Blame It'},
+    {id: 17, artist: 'Pitbull', title: 'I Know You Want Me (Calle Ocho)'},
+    {id: 18, artist: 'T.I.', title: 'Live Your Life'},
+    {id: 19, artist: 'Soulja Boy Tell Em', title: 'Kiss Me thru the Phone'},
+    {id: 20, artist: 'Jay Sean', title: 'Down'}
 ];
 
-const YearEndSong2010 = [
+const YearEndSongs2010 = [
     {id: 1, artist: 'Kesha', title: 'Tik Tok'},
     {id: 2, artist: 'Lady Antebellum', title: 'Need You Know'},
     {id: 3, artist: 'Train', title: 'Hry, Soul Sister'},
@@ -710,10 +1389,20 @@ const YearEndSong2010 = [
     {id: 7, artist: 'Eminem', title: 'Love the Way You Lie'},
     {id: 8, artist: 'Lady Gaga', title: 'Bad Romance'},
     {id: 9, artist: 'Taio Cruz', title: 'Dynamite'},
-    {id: 10, artist: 'Taio Cruz', title: 'Break Your Heart'}
+    {id: 10, artist: 'Taio Cruz', title: 'Break Your Heart'},
+    {id: 11, artist: 'B.o.B', title: 'Nothin on You'},
+    {id: 12, artist: 'Enrique Iglesias', title: 'I Like It'},
+    {id: 13, artist: 'Young Money', title: 'BedRock'},
+    {id: 14, artist: 'Jason Derulo', title: 'In My Head'},
+    {id: 15, artist: 'Rihanna', title: 'Rude Boy'},
+    {id: 16, artist: 'Lady Gaga', title: 'Telephone'},
+    {id: 17, artist: 'Katy Perry', title: 'Teenage Dream'},
+    {id: 18, artist: 'Bruno Mars', title: 'Just the Way You Are'},
+    {id: 19, artist: 'Mike Posner', title: 'Cooler Than Me'},
+    {id: 20, artist: 'The Black Eyed Peas', title: 'Imma Be'}
 ];
 
-const YearEndSong2011 = [
+const YearEndSongs2011 = [
     {id: 1, artist: 'Adele', title: 'Rolling in the Deep'},
     {id: 2, artist: 'LMFAO', title: 'Party Rock Anthem'},
     {id: 3, artist: 'Katy Perry', title: 'Firework'},
@@ -723,10 +1412,20 @@ const YearEndSong2011 = [
     {id: 7, artist: 'CeeLo Green', title: 'Fuck You'},
     {id: 8, artist: 'Nicki Minaj', title: 'Super Bass'},
     {id: 9, artist: 'Maroon 5', title: 'Moves Like Jagger'},
-    {id: 10, artist: 'The Black Eyed Peas', title: 'Just Cant Get Enough'}
+    {id: 10, artist: 'The Black Eyed Peas', title: 'Just Cant Get Enough'},
+    {id: 11, artist: 'Jennifer Lopez', title: 'On the Floor'},
+    {id: 12, artist: 'Rihanna', title: 'S&M'},
+    {id: 13, artist: 'Foster the People', title: 'Pumped Up Kicks'},
+    {id: 14, artist: 'Katy Perry', title: 'Last Friday Night (T.G.I.F.)'},
+    {id: 15, artist: 'Bruno Mars', title: 'Just the Way You Are'},
+    {id: 16, artist: 'Enrique Iglesias', title: 'Tonight (Im Lovin You)'},
+    {id: 17, artist: 'Pink', title: 'Raise Your Glass'},
+    {id: 18, artist: 'Lady Gaga', title: 'Born This Way'},
+    {id: 19, artist: 'Pink', title: 'F**kin Perfect'},
+    {id: 20, artist: 'Rihanna', title: 'Whats My Name?'}
 ];
 
-const YearEndSong2012 = [
+const YearEndSongs2012 = [
     {id: 1, artist: 'Gotye', title: 'Somebody That I Used to Know'},
     {id: 2, artist: 'Carly Rae Jepsen', title: 'Call Me Maybe'},
     {id: 3, artist: 'Fun', title: 'We Are Young'},
@@ -736,10 +1435,20 @@ const YearEndSong2012 = [
     {id: 7, artist: 'Kelly Clarkson', title: 'Stronger (What Doesnt Kill You'},
     {id: 8, artist: 'Rihanna', title: 'We Found Love'},
     {id: 9, artist: 'Nicki Minaj', title: 'Starships'},
-    {id: 10, artist: 'One Direction', title: 'What Makes You Beautiful'}
+    {id: 10, artist: 'One Direction', title: 'What Makes You Beautiful'},
+    {id: 11, artist: 'Flo Rida', title: 'Wild Ones'},
+    {id: 12, artist: 'Adele', title: 'Set Fire to the Rain'},
+    {id: 13, artist: 'LMFAO', title: 'Sexy and I Know It'},
+    {id: 14, artist: 'Fun', title: 'Some Nights'},
+    {id: 15, artist: 'Katy Perry', title: 'Wide Awake'},
+    {id: 16, artist: 'Flo Rida', title: 'Good Feeling'},
+    {id: 17, artist: 'Flo Rida', title: 'Whistle'},
+    {id: 18, artist: 'Maroon 5', title: 'One More Night'},
+    {id: 19, artist: 'Train', title: 'Drive By'},
+    {id: 20, artist: 'Drake', title: 'The Motto'}
 ];
 
-const YearEndSong2013 = [
+const YearEndSongs2013 = [
     {id: 1, artist: 'Macklemore & Ryan Lewis', title: 'Thrift Shop'},
     {id: 2, artist: 'Robin Thicke', title: 'Blurred Lines'},
     {id: 3, artist: 'Imagine Dragons', title: 'Radioactive'},
@@ -749,10 +1458,20 @@ const YearEndSong2013 = [
     {id: 7, artist: 'P!nk', title: 'Just Give Me A Reason'},
     {id: 8, artist: 'Bruno Mars', title: 'When I Was Your Man'},
     {id: 9, artist: 'Florida George Line', title: 'Cruise'},
-    {id: 10, artist: 'Katy Perry', title: 'Roar'}
+    {id: 10, artist: 'Katy Perry', title: 'Roar'},
+    {id: 11, artist: 'Bruno Mars', title: 'Locked Out of Heaven'},
+    {id: 12, artist: 'The Lumineers', title: 'Ho Hey'},
+    {id: 13, artist: 'Rihanna', title: 'Stay'},
+    {id: 14, artist: 'Daft Punk', title: 'Get Lucky'},
+    {id: 15, artist: 'Lorde', title: 'Royals'},
+    {id: 16, artist: 'Taylor Swift', title: 'I Knew You Were Trouble'},
+    {id: 17, artist: 'Miley Cyrus', title: 'We Cant Stop'},
+    {id: 18, artist: 'Miley Cyrus', title: 'Wrecking Ball'},
+    {id: 19, artist: 'Avicii', title: 'Wake Me Up'},
+    {id: 20, artist: 'Justin Timberlake', title: 'Suit & Tie'}
 ];
 
-const YearEndSong2014 = [
+const YearEndSongs2014 = [
     {id: 1, artist: 'Pharrell Williams', title: 'Happy'},
     {id: 2, artist: 'Katy Perry', title: 'Dark Horse'},
     {id: 3, artist: 'John Legend', title: 'All of Me'},
@@ -762,10 +1481,20 @@ const YearEndSong2014 = [
     {id: 7, artist: 'MAGIC!', title: 'Rude'},
     {id: 8, artist: 'Meghan Trainor', title: 'All About That Bass'},
     {id: 9, artist: 'Ariana Grande', title: 'Problem'},
-    {id: 10, artist: 'Sam Smith', title: 'Stay With Me'}
+    {id: 10, artist: 'Sam Smith', title: 'Stay With Me'},
+    {id: 11, artist: 'Pitbull', title: 'Timber'},
+    {id: 12, artist: 'Bastille', title: 'Pompeii'},
+    {id: 13, artist: 'Taylor Swift', title: 'Shake It Off'},
+    {id: 14, artist: 'Nico & Vinz', title: 'Am I Wrong'},
+    {id: 15, artist: 'DJ Snake and Lil Jon', title: 'Turn Down for What'},
+    {id: 16, artist: 'Eminem', title: 'The Monster'},
+    {id: 17, artist: 'A Great Big World', title: 'Say Something'},
+    {id: 18, artist: 'Lorde', title: 'Team'},
+    {id: 19, artist: 'Passenger', title: 'Let Her Go'},
+    {id: 20, artist: 'Lorde', title: 'Royals'}
 ];
 
-const YearEndSong2015 = [
+const YearEndSongs2015 = [
     {id: 1, artist: 'Mark Ronson', title: 'Uptown Funk'},
     {id: 2, artist: 'Ed Sheeran', title: 'Thinking Out Loud'},
     {id: 3, artist: 'Wiz Khalifa', title: 'See You Again'},
@@ -775,10 +1504,20 @@ const YearEndSong2015 = [
     {id: 7, artist: 'Taylor Swift', title: 'Blank Space'},
     {id: 8, artist: 'Silento', title: 'Watch Me'},
     {id: 9, artist: 'The Weeknd', title: 'Earned It (Fifty Shades of Grey)'},
-    {id: 10, artist: 'The Weeknd', title: 'The Hills'}
+    {id: 10, artist: 'The Weeknd', title: 'The Hills'},
+    {id: 11, artist: 'OMI', title: 'Cheerleader'},
+    {id: 12, artist: 'The Weeknd', title: 'Cant Feel My Face'},
+    {id: 13, artist: 'Ellie Goulding', title: 'Love Me Like You Do'},
+    {id: 14, artist: 'Hozier', title: 'Take Me to Church'},
+    {id: 15, artist: 'Taylor Swift', title: 'Bad Blood'},
+    {id: 16, artist: 'Major Lazer and DJ Snake', title: 'Lean On'},
+    {id: 17, artist: 'Jason Derulo', title: 'Want to Want Me'},
+    {id: 18, artist: 'Taylor Swift', title: 'Shake It Off'},
+    {id: 19, artist: 'Skrillex and Diplo', title: 'Where Are U Now'},
+    {id: 20, artist: 'Rachel Platten', title: 'Fight Song'}
 ];
 
-const YearEndSong2016 = [
+const YearEndSongs2016 = [
     {id: 1, artist: 'Justin Bieber', title: 'Love Yourself'},
     {id: 2, artist: 'Justin Bieber', title: 'Sorry'},
     {id: 3, artist: 'Drake', title: 'One Dance'},
@@ -788,10 +1527,20 @@ const YearEndSong2016 = [
     {id: 7, artist: 'Adele', title: 'Hello'},
     {id: 8, artist: 'The Chainsmokers', title: 'Dont Let Me Down'},
     {id: 9, artist: 'Justin Timberlake', title: 'Cant Stop The Feeling!'},
-    {id: 10, artist: 'The Chainsmokers', title: 'Closer'}
+    {id: 10, artist: 'The Chainsmokers', title: 'Closer'},
+    {id: 11, artist: 'Sia', title: 'Cheap Thrills'},
+    {id: 12, artist: 'Lukas Graham', title: '7 Years'},
+    {id: 13, artist: 'Rihanna', title: 'Needed Me'},
+    {id: 14, artist: 'Flo Rida', title: 'My House'},
+    {id: 15, artist: 'Mike Posner', title: 'I Took a Pill in Ibiza'},
+    {id: 16, artist: 'Fifth Harmony', title: 'Work from Home'},
+    {id: 17, artist: 'Calvin Harris', title: 'This Is What You Came For'},
+    {id: 18, artist: 'DNCE', title: 'Cake by the Ocean'},
+    {id: 19, artist: 'G-Eazy and Bebe Rexha', title: 'Me, Myself & I'},
+    {id: 20, artist: 'Twenty One Pilots', title: 'Ride'}
 ];
 
-const YearEndSong2017 = [
+const YearEndSongs2017 = [
     {id: 1, artist: 'Ed Sheeran', title: 'Shape Of You'},
     {id: 2, artist: 'Luis Fonsi and Daddy Yankee', title: 'Despacito (Remix)'},
     {id: 3, artist: 'Bruno Mars', title: 'Thats What I Like'},
@@ -801,10 +1550,20 @@ const YearEndSong2017 = [
     {id: 7, artist: 'The Chainsmokers', title: 'Closer'},
     {id: 8, artist: 'Sam Hunt', title: 'Body Like a Back Road'},
     {id: 9, artist: 'Imagine Dragons', title: 'Believer'},
-    {id: 10, artist: 'Post Malone', title: 'Congratulations'}
+    {id: 10, artist: 'Post Malone', title: 'Congratulations'},
+    {id: 11, artist: 'James Arthur', title: 'Say You Wont Let Go'},
+    {id: 12, artist: 'DJ Khaled', title: 'Im the One'},
+    {id: 13, artist: 'Lil Uzi Vert', title: 'XO Tour Llif3'},
+    {id: 14, artist: 'Future', title: 'Mask Off'},
+    {id: 15, artist: 'French Montana', title: 'Unforgettable'},
+    {id: 16, artist: 'Bruno Mars', title: '24K Magic'},
+    {id: 17, artist: 'Zedd and Alessia Cara', title: 'Stay'},
+    {id: 18, artist: 'DJ Khaled', title: 'Wild Thoughts'},
+    {id: 19, artist: 'Rae Sremmurd', title: 'Black Beatles'},
+    {id: 20, artist: 'The Weeknd', title: 'Starboy'}
 ];
 
-const YearEndSong2018 = [
+const YearEndSongs2018 = [
     {id: 1, artist: 'Drake', title: 'Gods Plan'},
     {id: 2, artist: 'Ed Sheeran', title: 'Perfect'},
     {id: 3, artist: 'Bebe Rexha', title: 'Meant to Be'},
@@ -814,10 +1573,20 @@ const YearEndSong2018 = [
     {id: 7, artist: 'Cardi B', title: 'I Like It'},
     {id: 8, artist: 'Zedd, Maren Morris & Grey', title: 'The Middle'},
     {id: 9, artist: 'Drake', title: 'In My Feelings'},
-    {id: 10, artist: 'Maroon 5', title: 'Girls Like You'}
+    {id: 10, artist: 'Maroon 5', title: 'Girls Like You'},
+    {id: 11, artist: 'Drake', title: 'Nice for What'},
+    {id: 12, artist: 'Juice Wrld', title: 'Lucid Dreams'},
+    {id: 13, artist: 'Post Malone', title: 'Better Now'},
+    {id: 14, artist: 'Bruno Mars', title: 'Finesse'},
+    {id: 15, artist: 'Ella Mai', title: 'Bood Up'},
+    {id: 16, artist: 'Dua Lipa', title: 'New Rules'},
+    {id: 17, artist: 'XXXTentacion', title: 'Sad!'},
+    {id: 18, artist: 'Camila Cabello', title: 'Never Be the Same'},
+    {id: 19, artist: 'Khalid and Normani', title: 'Love Lies'},
+    {id: 20, artist: 'Ariana Grande', title: 'No Tears Left to Cry'}
 ];
 
-const YearEndSong2019 = [
+const YearEndSongs2019 = [
     {id: 1, artist: 'Lil Nas X', title: 'Old Town Road'},
     {id: 2, artist: 'Post Malone and Swae Lee', title: 'Sunflower'},
     {id: 3, artist: 'Halsey', title: 'Without Me'},
@@ -827,5 +1596,29 @@ const YearEndSong2019 = [
     {id: 7, artist: 'Ariana Grande', title: '7 Rings'},
     {id: 8, artist: 'Khalid', title: 'Talk'},
     {id: 9, artist: 'Travis Scott', title: 'Sicko Mode'},
-    {id: 10, artist: 'Jonas Brothers', title: 'Sucker'}
+    {id: 10, artist: 'Jonas Brothers', title: 'Sucker'},
+    {id: 11, artist: 'Panic! at the Disco', title: 'High Hopes'},
+    {id: 12, artist: 'Ariana Grande', title: 'Thank U, Next'},
+    {id: 13, artist: 'Lizzo', title: 'Truth Hurts'},
+    {id: 14, artist: 'Sam Smith and Normani', title: 'Dancing with a Stranger'},
+    {id: 15, artist: 'Shawn Mendes and Camila Cabello', title: 'Senorita'},
+    {id: 16, artist: 'Ed Sheeran and Justin Bieber', title: 'I Dont Care'},
+    {id: 17, artist: 'Benny Blanco, Halsey and Khalid', title: 'Eastside'},
+    {id: 18, artist: 'Meek Mill', title: 'Going Bad'},
+    {id: 19, artist: 'Lady Gaga and Bradley Cooper', title: 'Shallow'},
+    {id: 20, artist: 'Khalid', title: 'Better'}
 ];
+
+const YearEndSongsDefault = "Something has gone wrong rendering this list";
+
+const YearEndSongsArray = [YearEndSongs1950, YearEndSongs1951, YearEndSongs1952, YearEndSongs1953, YearEndSongs1954, YearEndSongs1955, YearEndSongs1956, YearEndSongs1957, YearEndSongs1958,
+    YearEndSongs1959, YearEndSongs1960, YearEndSongs1961,YearEndSongs1962, YearEndSongs1963, YearEndSongs1964, YearEndSongs1965, YearEndSongs1966, YearEndSongs1967,
+     YearEndSongs1968, YearEndSongs1969, YearEndSongs1970,YearEndSongs1971, YearEndSongs1972, YearEndSongs1973, YearEndSongs1974, YearEndSongs1975, YearEndSongs1976, 
+     YearEndSongs1977, YearEndSongs1978, YearEndSongs1979, YearEndSongs1980, YearEndSongs1981, YearEndSongs1982, YearEndSongs1983, YearEndSongs1984, YearEndSongs1985,
+      YearEndSongs1986, YearEndSongs1987, YearEndSongs1988,  YearEndSongs1989, YearEndSongs1990, YearEndSongs1991, YearEndSongs1992, YearEndSongs1993, YearEndSongs1994,
+       YearEndSongs1995, YearEndSongs1996, YearEndSongs1997, YearEndSongs1998, YearEndSongs1999, YearEndSongs2000, YearEndSongs2001, YearEndSongs2002, 
+       YearEndSongs2003, YearEndSongs2004, YearEndSongs2005, YearEndSongs2006, YearEndSongs2007, YearEndSongs2008, YearEndSongs2009, YearEndSongs2010, YearEndSongs2011,
+        YearEndSongs2012, YearEndSongs2013,YearEndSongs2014, YearEndSongs2015, YearEndSongs2016, YearEndSongs2017, YearEndSongs2018, YearEndSongs2019];
+
+export default YearEndSongsDefault;
+export {YearEndSongsArray};

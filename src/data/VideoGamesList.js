@@ -340,3 +340,14 @@ const VideoGames2019 = [
     {title: 'Star Wars Jedi: Fallen Order'},
     {title: 'Pokemon Sword and Shield'}
 ];
+
+const VideoGamesDefault = "Something went wrong rendering this list.";
+const VideoGamesArray = [VideoGames1971, VideoGames1972, VideoGames1973, VideoGames1974, VideoGames1975, VideoGames1976, VideoGames1977, VideoGames1978, VideoGames1979, VideoGames1980, VideoGames1981, VideoGames1982, 
+    VideoGames1983, VideoGames1984, VideoGames1985, VideoGames1986, VideoGames1987, VideoGames1988, VideoGames1989, VideoGames1990, VideoGames1991, VideoGames1992, VideoGames1993,
+    VideoGames1994, VideoGames1995, VideoGames1996, VideoGames1997, VideoGames1998, VideoGames1999, VideoGames2000, VideoGames2001, VideoGames2002, VideoGames2003, VideoGames2004,
+    VideoGames2005, VideoGames2006, VideoGames2007, VideoGames2008, VideoGames2009, VideoGames2010, VideoGames2011, VideoGames2012, VideoGames2013, VideoGames2014, VideoGames2015,
+    VideoGames2016, VideoGames2017, VideoGames2018, VideoGames2019];
+
+export default VideoGamesDefault;
+
+export {VideoGamesArray};
