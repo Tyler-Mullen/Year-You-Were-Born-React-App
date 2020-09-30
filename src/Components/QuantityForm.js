@@ -21,8 +21,6 @@ export class QuantityForm extends React.Component {
       render(){
         const { values, handleChange } = this.props;
 
-        console.log(values.selectedGenre);
-
         switch(values.selectedGenre){
             case "movies":
                 return(
@@ -118,7 +116,6 @@ export class QuantityForm extends React.Component {
                         onChange={handleChange('quantity')} defaultValue={values.quantity}>
                         <MenuItem value="1">Championship Winners</MenuItem>
                         <MenuItem value="2">Champions and Finalists</MenuItem>
-                        <MenuItem value="3">Champions, Finalists and Semi-Finalists</MenuItem>
         
                         </Select>
     

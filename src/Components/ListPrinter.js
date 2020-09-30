@@ -11,8 +11,9 @@ import {TopSportsArray} from '../Data/SportsList';
 import {TopThingsArray} from '../Data/TopList';  
 import {TopTvShowsArray} from '../Data/TvShowsList';
 import {VideoGamesArray} from '../Data/VideoGamesList';
+import { Collapse } from '@material-ui/core';
 
-function findPrintedList(year, genre){
+function findInitialList(year, genre){
     switch(genre){
         case "movies":
             for(var i = 0; i < TopMoviesArray.length; i++){
@@ -64,6 +65,75 @@ function findPrintedList(year, genre){
     }
 }
 
+function findPrintedList(initialList, quantity, genre){
+  const setUpList = [];
+    switch(genre){
+      case "movies":
+            for(var i = 0; i < quantity; i++){
+              setUpList.push(initialList[i]);
+            }
+
+            return setUpList;
+            break;
+
+        case "songs":
+             for(var i = 0; i < quantity; i++){
+               setUpList.push(initialList[i]);
+             }
+
+            return setUpList;
+            break;
+
+        case "sports":
+            if(quantity == 2){
+
+              for(var i = 0; i < initialList.length; i++){
+                setUpList.push(initialList[i]);
+              }
+
+              return setUpList;
+            }
+
+            else{
+          
+              for(var i = 0; i < initialList.length; i++){
+                if(i % 2 === 0){
+                  setUpList.push(initialList[i]);
+                }
+              }
+
+              return setUpList;
+            }
+
+            break;
+
+        case "various":
+             return initialList;
+            
+            break;
+
+        case "shows":
+            for(var i = 0; i < quantity; i++){
+              setUpList.push(initialList[i]);
+            }
+
+            return setUpList;
+            break;
+
+        case "videogames":
+          if(quantity == 2){
+            return initialList;
+          }
+
+          else{
+            setUpList.push(initialList[0]);
+            return setUpList;
+          }
+            
+            break;
+  }
+}
+
 export class ListPrinter extends Component{
 
     back = e => {
@@ -74,7 +144,8 @@ export class ListPrinter extends Component{
 
     render(){
         const { values, handleChange } = this.props;
-        const printedList = findPrintedList(values.year,values.selectedGenre);
+        const initialList = findInitialList(values.year,values.selectedGenre);
+        const printedList = findPrintedList(initialList, values.quantity, values.selectedGenre); 
         
         switch(values.selectedGenre){
             case "movies":
@@ -104,7 +175,7 @@ export class ListPrinter extends Component{
               </>
             </MuiThemeProvider>
                 );
-                break;
+
 
             case "songs":
                 const songList = printedList.map((song) => 
@@ -134,7 +205,6 @@ export class ListPrinter extends Component{
             </MuiThemeProvider>
                 );
 
-                break;
 
             case "sports":
                 const sportsList = printedList.map((sport) => 
@@ -164,7 +234,7 @@ export class ListPrinter extends Component{
             </MuiThemeProvider>
                 );
 
-                break;
+
 
             case "various":
                 const variousList = printedList.map((thing) => 
@@ -194,7 +264,7 @@ export class ListPrinter extends Component{
             </MuiThemeProvider>
                 );
 
-                break;
+
 
             case "shows":
                 const showsList = printedList.map((show) => 
@@ -224,7 +294,6 @@ export class ListPrinter extends Component{
             </MuiThemeProvider>
                 );
 
-                break;
 
             case "videogames":
                 const videoGamesList =  printedList.map((game) => 
@@ -254,7 +323,7 @@ export class ListPrinter extends Component{
             </MuiThemeProvider>
                 );
 
-                break;
+
 
             default:
             return(

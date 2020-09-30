@@ -32,9 +32,9 @@ export class StepTracker extends Component {
 
     render() {
         const { step } = this.state;
-        const { year, selectedGenre } = this.state;
+        const { year, selectedGenre, quantity } = this.state;
     
-        const values = { year, selectedGenre };
+        const values = { year, selectedGenre, quantity };
 
         switch (step) {
             case 1:
