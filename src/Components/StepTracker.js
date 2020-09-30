@@ -2,12 +2,14 @@ import React, { Component } from 'react';
 import SubjectForm from './SubjectForm';
 import YearForm from './YearForm';
 import ListPrinter from './ListPrinter';
+import QuantityForm from './QuantityForm';
 
 export class StepTracker extends Component {
     state = {
         step: 1,
         year: 1950,
-        selectedGenre: ''
+        selectedGenre: '',
+        quantity: ''
     }
 
     nextStep = () => {
@@ -55,6 +57,16 @@ export class StepTracker extends Component {
                 );
 
             case 3:
+                return(
+                  <QuantityForm
+                  nextStep={this.nextStep}
+                  prevStep={this.prevStep}
+                  handleChange={this.handleChange}
+                  values={values}
+                  />
+                );
+
+            case 4:
                 return(
                   <ListPrinter
                   prevStep={this.prevStep}
