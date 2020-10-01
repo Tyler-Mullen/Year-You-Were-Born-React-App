@@ -18,7 +18,12 @@ const TopMovies1975 = [
     {id: 17, title: 'The Adventures of Sherlock Holmes Smarter Brother'},
     {id: 18, title: 'The Great Waldo Pepper'},
     {id: 19, title: 'Alice Doesnt Live Here Anymore'},
-    {id: 20, title: 'W.W. and the Dixie Dancekings'}
+    {id: 20, title: 'W.W. and the Dixie Dancekings'},
+    {id: 21, title: 'Breakout'},
+    {id: 22, title: 'The Eiger Sanction'},
+    {id: 23, title: 'French Connection II'},
+    {id: 24, title: 'Race with the Devil'},
+    {id: 25, title: 'Bite the Bullet'}
 ];
 
 const TopMovies1976 = [
@@ -41,7 +46,12 @@ const TopMovies1976 = [
     {id: 17, title: 'Carrie'},
     {id: 18, title: 'Logans Run'},
     {id: 19, title: 'Network'},
-    {id: 20, title: 'Across the Great Divide'}
+    {id: 20, title: 'Across the Great Divide'},
+    {id: 21, title: 'The Pom Pom Girls'},
+    {id: 22, title: 'Mother, Jugs & Speed'},
+    {id: 23, title: 'The Missouri Breaks'},
+    {id: 24, title: 'Family Plot'},
+    {id: 25, title: 'Gator'}
 ];
 
 const TopMovies1977 = [
@@ -64,7 +74,12 @@ const TopMovies1977 = [
     {id: 17, title: 'Heroes'},
     {id: 18, title: 'High Anxiety'},
     {id: 19, title: 'Airport 77'},
-    {id: 20, title: 'Herbie Goes to Monte Carlo'}
+    {id: 20, title: 'Herbie Goes to Monte Carlo'},
+    {id: 21, title: 'Slap Shot'},
+    {id: 22, title: 'Freaky Friday'},
+    {id: 23, title: 'Exorcist II: The Heretic'},
+    {id: 24, title: 'The Other Side of Midnight'},
+    {id: 25, title: 'For the Love of Benji'}
 ];
 
 const TopMovies1978 = [
@@ -87,30 +102,40 @@ const TopMovies1978 = [
     {id: 17, title: 'House Calls'},
     {id: 18, title: 'The Cheap Detective'},
     {id: 19, title: 'The Lord of the Rings'},
-    {id: 20, title: 'Invasion of the Body Snatchers'}
+    {id: 20, title: 'Invasion of the Body Snatchers'},
+    {id: 21, title: 'Damien: Omen II'},
+    {id: 22, title: 'An Unmarried Woman'},
+    {id: 23, title: 'Beyond and Back'},
+    {id: 24, title: 'Magic'},
+    {id: 25, title: 'Same Time, Next Year'}
 ];
 
 const TopMovies1979 = [
     {id: 1, title: 'Kramer vs. Kramer'},
     {id: 2, title: 'The Amityville Horror'},
     {id: 3, title: 'Rocky 2'},
-    {id: 4, title: 'Apocalypse Now'},
-    {id: 5, title: 'Star Trek: The Motion Picture'},
-    {id: 6, title: 'Alien'},
-    {id: 7, title: 'The Muppet Movie'},
+    {id: 4, title: 'Star Trek: The Motion Picture'},
+    {id: 5, title: 'Alien'},
+    {id: 6, title: 'Aocalypse Now'},
+    {id: 7, title: '10'},
     {id: 8, title: 'The Jerk'},
     {id: 9, title: 'Moonraker'},
-    {id: 10, title: '10'},
-    {id: 11, title: 'The Deer Hunter'},
-    {id: 12, title: 'Love at First Bite'},
-    {id: 13, title: 'Escape from Alcatraz'},
-    {id: 14, title: 'Meatballs'},
-    {id: 15, title: 'The Electric Horseman'},
-    {id: 16, title: 'Manhatten'},
-    {id: 17, title: 'Starting Over'},
-    {id: 18, title: 'The In-Laws'},
-    {id: 19, title: 'All That Jazz'},
-    {id: 20, title: 'The Black Stallion'}
+    {id: 10, title: 'The Muppet Movie'},
+    {id: 11, title: 'The Electric Horseman'},
+    {id: 12, title: 'The China Syndrome'},
+    {id: 13, title: 'Meatballs'},
+    {id: 14, title: 'Escape from Alcatraz'},
+    {id: 15, title: 'The Main Event'},
+    {id: 16, title: 'Manhattan'},
+    {id: 17, title: 'All That Jazz'},
+    {id: 18, title: 'The Black Stallion'},
+    {id: 19, title: 'The Black Hole'},
+    {id: 20, title: 'Starting Over'},
+    {id: 21, title: 'And Justice for All'},
+    {id: 22, title: '1941'},
+    {id: 23, title: 'The Champ'},
+    {id: 24, title: 'Being There'},
+    {id: 25, title: 'The Rose'}
 ];
 
 const TopMovies1980 = [
@@ -122,41 +147,51 @@ const TopMovies1980 = [
     {id: 6, title: 'Private Benjamin'},
     {id: 7, title: 'Coal Miners Daughter'},
     {id: 8, title: 'Smokey and the Bandit II'},
-    {id: 9, title: 'The Blues Brothers'},
-    {id: 10, title: 'Ordinary People'},
-    {id: 11, title: 'Popeye'},
-    {id: 12, title: 'The Blue Lagoon'},
+    {id: 9, title: 'The Blue Lagoon'},
+    {id: 10, title: 'The Blues Brothers'},
+    {id: 11, title: 'Orinary People'},
+    {id: 12, title: 'Popeye'},
     {id: 13, title: 'Urban Cowboy'},
     {id: 14, title: 'The Shining'},
-    {id: 15, title: 'Cheech & Chongs Next Movie'},
-    {id: 16, title: 'Caddyshack'},
-    {id: 17, title: 'Friday the 13th'},
-    {id: 18, title: 'Brubaker'},
-    {id: 19, title: 'Little Darlings'},
-    {id: 20, title: 'Dressed to Kill'}
+    {id: 15, title: 'Seems Like Old Times'},
+    {id: 16, title: 'Cheech and Chongs Next Movie'},
+    {id: 17, title: 'Caddyshack'},
+    {id: 18, title: 'Friday the 13th'},
+    {id: 19, title: 'Brubaker'},
+    {id: 20, title: 'Little Darlings'},
+    {id: 21, title: 'Dressed to Kill'},
+    {id: 22, title: 'The Jazz Singer'},
+    {id: 23, title: 'Flash Gordon'},
+    {id: 24, title: 'The Elephant Man'},
+    {id: 25, title: 'Bronco Billy'}
 ];
 
 const TopMovies1981 = [
     {id: 1, title: 'Raiders of the Lost Ark'},
     {id: 2, title: 'On Golden Pond'},
     {id: 3, title: 'Superman II'},
-    {id: 4, title: 'Stripes'},
-    {id: 5, title: 'Arthur'},
-    {id: 6, title: 'Chariots of Fire'},
-    {id: 7, title: 'The Cannonball Run'},
+    {id: 4, title: 'Arthur'},
+    {id: 5, title: 'Stripes'},
+    {id: 6, title: 'The Cannonball Run'},
+    {id: 7, title: 'Chariots of Fire'},
     {id: 8, title: 'For Your Eyes Only'},
-    {id: 9, title: 'Reds'},
-    {id: 10, title: 'The Fox and the Hound'},
-    {id: 11, title: 'The Four Seasons'},
-    {id: 12, title: 'Time Bandits'},
-    {id: 13, title: 'Cheech & Chongs Nice Dreams'},
-    {id: 14, title: 'Tarzan, The Ape Man'},
-    {id: 15, title: 'Taps'},
-    {id: 16, title: 'Excalibur'},
-    {id: 17, title: 'Absence of Malice'},
-    {id: 18, title: 'Endless Love'},
-    {id: 19, title: 'Sharkys Machine'},
-    {id: 20, title: 'An American Werewolf in London'}
+    {id: 9, title: 'The Four Seasons'},
+    {id: 10, title: 'Time Bandits'},
+    {id: 11, title: 'Clash of the Titans'},
+    {id: 12, title: 'Absence of Malice'},
+    {id: 13, title: 'Reds'},
+    {id: 14, title: 'The Fox and the Hound'},
+    {id: 15, title: 'Tarzan the Ape Man'},
+    {id: 16, title: 'Taps'},
+    {id: 17, title: 'Sharkys Machine'},
+    {id: 18, title: 'Excalibur'},
+    {id: 19, title: 'History of the World: Part I'},
+    {id: 20, title: 'Bustin Loose'},
+    {id: 21, title: 'The Great Muppet Caper'},
+    {id: 22, title: 'Endless Love'},
+    {id: 23, title: 'An American Werewolf in London'},
+    {id: 24, title: 'Neighbors'},
+    {id: 25, title: 'Fort Apache the Bronx'}
 ];
 
 const TopMovies1982 = [
@@ -178,8 +213,13 @@ const TopMovies1982 = [
     {id: 16, title: 'The Dark Crystal'},
     {id: 17, title: 'Conan the Barbarian'},
     {id: 18, title: 'The Sword and the Sorcerer'},
-    {id: 19, title: 'Friday the 13th Part 3'},
-    {id: 20, title: 'Best Friends'}
+    {id: 19, title: 'Best Friends'},
+    {id: 20, title: 'Richard Pryor: Live on the Sunset Strip'},
+    {id: 21, title: 'Friday the 13th Part III'},
+    {id: 22, title: 'TRON'},
+    {id: 23, title: 'Young Doctors in Love'},
+    {id: 24, title: 'Sophies Choice'},
+    {id: 25, title: 'The World According to Garp'}
 ];
 
 const TopMovies1983 = [
@@ -190,19 +230,24 @@ const TopMovies1983 = [
     {id: 5, title: 'WarGames'},
     {id: 6, title: 'Octopussy'},
     {id: 7, title: 'Sudden Impact'},
-    {id: 8, title: 'Mr. Mom'},
-    {id: 9, title: 'Staying Alive'},
+    {id: 8, title: 'Stayinh Alive'},
+    {id: 9, title: 'Mr. Mom'},
     {id: 10, title: 'Risky Business'},
     {id: 11, title: 'National Lampoons Vacation'},
     {id: 12, title: 'Superman III'},
     {id: 13, title: 'The Big Chill'},
     {id: 14, title: 'Never Say Never Again'},
-    {id: 15, title: 'Scarface'},
-    {id: 16, title: 'Blue Thunder'},
-    {id: 17, title: 'Jaws 3-D'},
+    {id: 15, title: 'Jaws 3-D'},
+    {id: 16, title: 'Scarface'},
+    {id: 17, title: 'Blue Thunder'},
     {id: 18, title: 'Yentl'},
     {id: 19, title: 'Silkwood'},
-    {id: 20, title: 'Porkys II: The Next Day'}
+    {id: 20, title: 'Psycho II'},
+    {id: 21, title: 'Porkys II: The Next Day'},
+    {id: 22, title: 'Uncommon Valor'},
+    {id: 23, title: 'Never Cry Wolf'},
+    {id: 24, title: 'Twilight Zone: The Movie'},
+    {id: 25, title: 'Easy Money'}
 ];
 
 const TopMovies1984 = [
@@ -213,19 +258,24 @@ const TopMovies1984 = [
     {id: 5, title: 'The Karate Kid'},
     {id: 6, title: 'Police Academy'},
     {id: 7, title: 'Footloose'},
-    {id: 8, title: 'Star Trek III: The Search for Spock'},
-    {id: 9, title: 'Romancing the Stone'},
-    {id: 10, title: 'Purple Rain'},
-    {id: 11, title: 'Splash'},
-    {id: 12, title: 'Grand Canyon: The Hidden Secrets'},
-    {id: 13, title: 'Amadeus'},
-    {id: 14, title: 'Tightrope'},
-    {id: 15, title: 'The Natural'},
-    {id: 16, title: 'Greystoke: The Legend of Tarzan, Lord of the Apes'},
+    {id: 8, title: 'Romancing the Stone'},
+    {id: 9, title: 'Star Trek III: The Search for Spock'},
+    {id: 10, title: 'Splash'},
+    {id: 11, title: 'Purple Rain'},
+    {id: 12, title: 'Amadeus'},
+    {id: 13, title: 'Tightrope'},
+    {id: 14, title: 'the Natural'},
+    {id: 15, title: 'Greystoke'},
+    {id: 16, title: 'Revenge of the Nerds'},
     {id: 17, title: '2010'},
-    {id: 18, title: 'Revenge of the Nerds'},
-    {id: 19, title: 'Red Dawn'},
-    {id: 20, title: 'Bachelor Party'}
+    {id: 18, title: 'Breakin'},
+    {id: 19, title: 'Bachelor Party'},
+    {id: 20, title: 'Red Dawn'},
+    {id: 21, title: 'The Terminator'},
+    {id: 22, title: 'City Heat'},
+    {id: 23, title: 'All of Me'},
+    {id: 24, title: 'Places in the Heart'},
+    {id: 25, title: 'The Killing Fields'}
 ];
 
 const TopMovies1985 = [
@@ -235,20 +285,25 @@ const TopMovies1985 = [
     {id: 4, title: 'The Color Purple'},
     {id: 5, title: 'Out of Africa'},
     {id: 6, title: 'Cocoon'},
-    {id: 7, title: 'The Dream is Alive'},
-    {id: 8, title: 'The Jewel of the Nile'},
-    {id: 9, title: 'Witness'},
-    {id: 10, title: 'The Goonies'},
-    {id: 11, title: 'Spies Like Us'},
-    {id: 12, title: 'Police Academy 2: Their First Assignment'},
+    {id: 7, title: 'The Jewel of the Nile'},
+    {id: 8, title: 'Witness'},
+    {id: 9, title: 'The Goonies'},
+    {id: 10, title: 'Spies Like Us'},
+    {id: 11, title: 'Police Academy 2: Their First Assignment'},
+    {id: 12, title: 'Fletch'},
     {id: 13, title: 'A View to a Kill'},
     {id: 14, title: 'National Lampoons European Vacation'},
-    {id: 15, title: 'Fletch'},
+    {id: 15, title: 'Mask'},
     {id: 16, title: 'The Breakfast Club'},
-    {id: 17, title: 'Mask'},
-    {id: 18, title: 'White Nights'},
-    {id: 19, title: 'Pale Rider'},
-    {id: 20, title: 'Pee Wees Big Adventure'}
+    {id: 17, title: 'White Nights'},
+    {id: 18, title: 'Pale Rider'},
+    {id: 19, title: 'Pee Wees Big Adventure'},
+    {id: 20, title: 'Brewsters Millions'},
+    {id: 21, title: 'Jagged Edge'},
+    {id: 22, title: 'St. Elmos Fire'},
+    {id: 23, title: 'Mad Max Beyond Thunderdome'},
+    {id: 24, title: 'Commando'},
+    {id: 25, title: 'Teen Wolf'}
 ];
 
 const TopMovies1986 = [
@@ -271,30 +326,40 @@ const TopMovies1986 = [
     {id: 17, title: 'Police Academy 3: Back in Training'},
     {id: 18, title: 'Heartbreak Ridge'},
     {id: 19, title: 'Peggy Sue Got Married'},
-    {id: 20, title: 'Poltergeist II: The Other Side'}
+    {id: 20, title: 'Poltergeist II: The Other Side'},
+    {id: 21, title: 'Short Circuit'},
+    {id: 22, title: 'Pretty in Pink'},
+    {id: 23, title: 'The Fly'},
+    {id: 24, title: 'Three Amigos!'},
+    {id: 25, title: 'Little Shop of Horrors'}
 ];
 
 const TopMovies1987 = [
-    {id: 1, title: '3 Men and a Baby'},
+    {id: 1, title: 'Three Men and a Baby'},
     {id: 2, title: 'Fatal Attraction'},
     {id: 3, title: 'Beverly Hills Cop II'},
-    {id: 4, title: 'Good Morning Vietnam'},
+    {id: 4, title: 'Good Morning, Vietnam'},
     {id: 5, title: 'Moonstruck'},
     {id: 6, title: 'The Untouchables'},
     {id: 7, title: 'The Secret of My Success'},
     {id: 8, title: 'Stakeout'},
     {id: 9, title: 'Lethal Weapon'},
     {id: 10, title: 'Dirty Dancing'},
-    {id: 11, title: 'The Witches of Eastwick'},
+    {id: 11, title: 'Dirty Dancing'},
     {id: 12, title: 'Predator'},
-    {id: 13, title: 'Dragnet'},
-    {id: 14, title: 'La Bamba'},
-    {id: 15, title: 'RoboCop'},
-    {id: 16, title: 'Throw Momma From the Train'},
+    {id: 13, title: 'Throw Momma From the Train'},
+    {id: 14, title: 'Dragnet'},
+    {id: 15, title: 'La Bamba'},
+    {id: 16, title: 'RoboCop'},
     {id: 17, title: 'Outrageous Fortune'},
     {id: 18, title: 'Broadcast News'},
     {id: 19, title: 'The Living Daylights'},
-    {id: 20, title: 'Eddie Murphy Raw'}
+    {id: 20, title: 'Eddie Murphy: Raw'},
+    {id: 21, title: 'Planes, Trains and Automobiles'},
+    {id: 22, title: 'Full Metal Jacket'},
+    {id: 23, title: 'A Nightmare on Elm Street 3: Dream Warriors'},
+    {id: 24, title: 'The Last Emperor'},
+    {id: 25, title: 'Wall Street'}
 ];
 
 const TopMovies1988 = [
@@ -305,8 +370,8 @@ const TopMovies1988 = [
     {id: 5, title: 'Twins'},
     {id: 6, title: 'Crocodile Dundee 2'},
     {id: 7, title: 'Die Hard'},
-    {id: 8, title: 'Cocktail'},
-    {id: 9, title: 'The Naked Gun: From the Files of Police Squad!'},
+    {id: 8, title: 'The Naked Gun: From the Files of Police Squad!'},
+    {id: 9, title: 'Cocktail'},
     {id: 10, title: 'Beetlejuice'},
     {id: 11, title: 'Working Girl'},
     {id: 12, title: 'A Fish Called Wanda'},
@@ -314,10 +379,15 @@ const TopMovies1988 = [
     {id: 14, title: 'Willow'},
     {id: 15, title: 'Beaches'},
     {id: 16, title: 'Rambo III'},
-    {id: 17, title: 'Bull Durham'},
-    {id: 18, title: 'Oliver & Company'},
+    {id: 17, title: 'Oliver & Company'},
+    {id: 18, title: 'Bull Durham'},
     {id: 19, title: 'A Nightmare on Elm Street 4: The Dream Master'},
-    {id: 20, title: 'The Land Before Time'}
+    {id: 20, title: 'The Land Before Time'},
+    {id: 21, title: 'Colors'},
+    {id: 22, title: 'Young Guns'},
+    {id: 23, title: 'Biloxi Blues'},
+    {id: 24, title: 'Dirty Rotten Scoundrels'},
+    {id: 25, title: 'The Great Outdoors'}
 ];
 
 const TopMovies1989 = [
@@ -328,19 +398,24 @@ const TopMovies1989 = [
     {id: 5, title: 'Honey, I Shrunk the Kids'},
     {id: 6, title: 'Back to the Future Part II'},
     {id: 7, title: 'Ghostbusters II'},
-    {id: 8, title: 'The Little Mermaid'},
-    {id: 9, title: 'Driving Miss Daisy'},
-    {id: 10, title: 'Parenthood'},
-    {id: 11, title: 'Dead Poets Society'},
-    {id: 12, title: 'When Harry Met Sally...'},
-    {id: 13, title: 'Steel Magnolias'},
-    {id: 14, title: 'The War of the Roses'},
+    {id: 8, title: 'Driving Miss Daisy'},
+    {id: 9, title: 'Parenthood'},
+    {id: 10, title: 'Dead Poets Society'},
+    {id: 11, title: 'When Harry Met Sally...'},
+    {id: 12, title: 'The War of the Roses'},
+    {id: 13, title: 'The Little Mermaid'},
+    {id: 14, title: 'Steel Magnolias'},
     {id: 15, title: 'National Lampoons Christmas Vacation'},
     {id: 16, title: 'Turner & Hooch'},
     {id: 17, title: 'Born on the Fourth of July'},
     {id: 18, title: 'Uncle Buck'},
     {id: 19, title: 'Field of Dreams'},
-    {id: 20, title: 'Tango & Cash'}
+    {id: 20, title: 'Tango & Cash'},
+    {id: 21, title: 'Harlem Nights'},
+    {id: 22, title: 'Sea of Love'},
+    {id: 23, title: 'Pet Sematary'},
+    {id: 24, title: 'The Abyss'},
+    {id: 25, title: 'Star Trek V: The Final Frontier'}
 ];
 
 const TopMovies1990 = [
@@ -358,18 +433,23 @@ const TopMovies1990 = [
     {id: 12, title: 'Presumed Innocent'},
     {id: 13, title: 'Days of Thunder'},
     {id: 14, title: 'Another 48 Hrs.'},
-    {id: 15, title: '3 Men and a Little Lady'},
+    {id: 15, title: 'Three Men and a Little Lady'},
     {id: 16, title: 'Bird on a Wire'},
     {id: 17, title: 'The Godfather: Part III'},
     {id: 18, title: 'Flatliners'},
     {id: 19, title: 'Misery'},
-    {id: 20, title: 'Edward Scissorhands'}
+    {id: 20, title: 'Edward Scissorhands'},
+    {id: 21, title: 'Problem Child'},
+    {id: 22, title: 'Arachnophobia'},
+    {id: 23, title: 'Awakenings'},
+    {id: 24, title: 'Look Whos Talking Too'},
+    {id: 25, title: 'Hard to Kill'}
 ];
 
 const TopMovies1991 = [
-    {id: 1, title: 'Beauty and the Beast'},
-    {id: 2, title: 'Terminator 2: Judgment Day'},
-    {id: 3, title: 'Robin Hood: Prince of Thieves'},
+    {id: 1, title: 'Terminator 2: Judgment Day'},
+    {id: 2, title: 'Robin Hood: Prince of Thieves'},
+    {id: 3, title: 'Beauty and the Beast'},
     {id: 4, title: 'The Silence of the Lambs'},
     {id: 5, title: 'City Slickers'},
     {id: 6, title: 'Hook'},
@@ -385,8 +465,13 @@ const TopMovies1991 = [
     {id: 16, title: 'The Prince of Tides'},
     {id: 17, title: 'JFK'},
     {id: 18, title: 'Hot Shots!'},
-    {id: 19, title: 'Antartica'},
-    {id: 20, title: 'What About Bob?'}
+    {id: 19, title: 'What About Bob?'},
+    {id: 20, title: 'The Last Boy Scout'},
+    {id: 21, title: 'My Girl'},
+    {id: 22, title: 'Boyz n the Hood'},
+    {id: 23, title: 'Doc Hollywood'},
+    {id: 24, title: 'Bugsy'},
+    {id: 25, title: 'New Jack City'}
 ];
 
 const TopMovies1992 = [
@@ -409,7 +494,12 @@ const TopMovies1992 = [
     {id: 17, title: 'The Last of the Mohicans'},
     {id: 18, title: 'Boomerang'},
     {id: 19, title: 'Scent of a Woman'},
-    {id: 20, title: 'The Crying Game'}
+    {id: 20, title: 'The Crying Game'},
+    {id: 21, title: 'Far and Away'},
+    {id: 22, title: 'Honey, I Blew Up the Kid'},
+    {id: 23, title: 'HouseSitter'},
+    {id: 24, title: 'Death Becomes Her'},
+    {id: 25, title: 'Unlawful Entry'}
 ];
 
 const TopMovies1993 = [
@@ -425,19 +515,24 @@ const TopMovies1993 = [
     {id: 10, title: 'Cliffhanger'},
     {id: 11, title: 'Free Willy'},
     {id: 12, title: 'Philadelphia'},
-    {id: 13, title: 'The Nightmare Before Christmas'},
-    {id: 14, title: 'Groundhog Day'},
-    {id: 15, title: 'Grumpy Old Men'},
-    {id: 16, title: 'Cool Runnings'},
-    {id: 17, title: 'Dave'},
-    {id: 18, title: 'Rising'},
-    {id: 19, title: 'Demolition Man'},
-    {id: 20, title: 'Sister Act 2: Back in the Habit'}
+    {id: 13, title: 'Groundhog Day'},
+    {id: 14, title: 'Grumpy Old Men'},
+    {id: 15, title: 'Cool Runnings'},
+    {id: 16, title: 'Dave'},
+    {id: 17, title: 'Rising Sun'},
+    {id: 18, title: 'Demolition Man'},
+    {id: 19, title: 'Sister Act 2: Back in the Habit'},
+    {id: 20, title: 'Tombstone'},
+    {id: 21, title: 'The Three Musketeers'},
+    {id: 22, title: 'Rookie of the Year'},
+    {id: 23, title: 'Beethovens 2nd'},
+    {id: 24, title: 'Dennis the Menace'},
+    {id: 25, title: 'Sommersby'}
 ];
 
 const TopMovies1994 = [
-    {id: 1, title: 'The Lion King'},
-    {id: 2, title: 'Forrest Gump'},
+    {id: 1, title: 'Forrest Gump'},
+    {id: 2, title: 'The Lion King'},
     {id: 3, title: 'True Lies'},
     {id: 4, title: 'The Santa Clause'},
     {id: 5, title: 'The Flintstones'},
@@ -455,7 +550,12 @@ const TopMovies1994 = [
     {id: 17, title: 'Stargate'},
     {id: 18, title: 'Legends of the Fall'},
     {id: 19, title: 'Wolf'},
-    {id: 20, title: 'The Specialist'}
+    {id: 20, title: 'The Specialist'},
+    {id: 21, title: 'Four Weddings and a Funeral'},
+    {id: 22, title: 'The Little Rascals'},
+    {id: 23, title: 'Naked Gun 33 1/3: The Final Insult'},
+    {id: 24, title: 'The Crow'},
+    {id: 25, title: 'Natural Born Killers'}
 ];
 
 const TopMovies1995 = [
@@ -478,7 +578,12 @@ const TopMovies1995 = [
     {id: 17, title: 'Father of the Bride Part II'},
     {id: 18, title: 'Braveheart'},
     {id: 19, title: 'Get Shorty'},
-    {id: 20, title: 'Grumpier Old Men'}
+    {id: 20, title: 'Grumpier Old Men'},
+    {id: 21, title: 'The Bridges of Madison County'},
+    {id: 22, title: 'Mortal Kombat'},
+    {id: 23, title: 'Nine Months'},
+    {id: 24, title: 'Outbreak'},
+    {id: 25, title: 'Heat'}
 ];
 
 const TopMovies1996 = [
@@ -501,7 +606,12 @@ const TopMovies1996 = [
     {id: 17, title: 'Star Trek: First Contact'},
     {id: 18, title: 'Space Jam'},
     {id: 19, title: 'The English Patient'},
-    {id: 20, title: 'Broken Arrow'}
+    {id: 20, title: 'Broken Arrow'},
+    {id: 21, title: 'Beavis and Butt-Head Do America'},
+    {id: 22, title: 'Jingle All the Way'},
+    {id: 23, title: 'The Cable Guy'},
+    {id: 24, title: 'Courage Under Fire'},
+    {id: 25, title: 'Jack'}
 ];
 
 const TopMovies1997 = [
@@ -524,7 +634,12 @@ const TopMovies1997 = [
     {id: 17, title: 'Flubber'},
     {id: 18, title: 'Conspiracy Theory'},
     {id: 19, title: 'I Know What You Did Last Summer'},
-    {id: 20, title: 'Dantes Peak'}
+    {id: 20, title: 'Dantes Peak'},
+    {id: 21, title: 'Anaconda'},
+    {id: 22, title: 'L.A. Confidential'},
+    {id: 23, title: 'In & Out'},
+    {id: 24, title: 'The Fifth Element'},
+    {id: 25, title: 'Mousehunt'}
 ];
 
 const TopMovies1998 = [
@@ -547,7 +662,12 @@ const TopMovies1998 = [
     {id: 17, title: 'The Rugrats Movie'},
     {id: 18, title: 'Shakespeare in Love'},
     {id: 19, title: 'The Mask of Zorro'},
-    {id: 20, title: 'Stepmom'}
+    {id: 20, title: 'Stepmom'},
+    {id: 21, title: 'Antz'},
+    {id: 22, title: 'Everest'},
+    {id: 23, title: 'The X files'},
+    {id: 24, title: 'The Wedding Singer'},
+    {id: 25, title: 'City of Angels'}
 ];
 
 const TopMovies1999 = [
@@ -570,7 +690,12 @@ const TopMovies1999 = [
     {id: 17, title: 'Wild Wild West'},
     {id: 18, title: 'Analyze This'},
     {id: 19, title: 'The Generals Daughter'},
-    {id: 20, title: 'American Pie'}
+    {id: 20, title: 'American Pie'},
+    {id: 21, title: 'Sleepy Hollow'},
+    {id: 22, title: 'Inspector Gadget'},
+    {id: 23, title: 'The Haunting'},
+    {id: 24, title: 'Entrapment'},
+    {id: 25, title: 'Pokemon: The First Movie - Mewtwo Strikes Back'}
 ];
 
 const TopMovies2000 = [
@@ -593,14 +718,19 @@ const TopMovies2000 = [
     {id: 17, title: 'Big Mommas House'},
     {id: 18, title: 'Remember the Titans'},
     {id: 19, title: 'The Patriot'},
-    {id: 20, title: 'Miss Congeniality'}
+    {id: 20, title: 'Chicken Run'},
+    {id: 21, title: 'Miss Congeniality'},
+    {id: 22, title: 'Gone in 60 Seconds'},
+    {id: 23, title: 'Unbreakable'},
+    {id: 24, title: 'Me, Myself & Irene'},
+    {id: 25, title: 'Space Cowboys'}
 ];
 
 const TopMovies2001 = [
     {id: 1, title: 'Harry Potter and the Sorcerers Stone'},
     {id: 2, title: 'The Lord of the Rings: The Fellowship of the Ring'},
-    {id: 3, title: 'Monsters, Inc.'},
-    {id: 4, title: 'Shrek'},
+    {id: 3, title: 'Shrek'},
+    {id: 4, title: 'Monsters, Inc'},
     {id: 5, title: 'Rush Hour 2'},
     {id: 6, title: 'The Mummy Returns'},
     {id: 7, title: 'Pearl Harbor'},
@@ -610,13 +740,18 @@ const TopMovies2001 = [
     {id: 11, title: 'A Beautiful Mind'},
     {id: 12, title: 'Hannibal'},
     {id: 13, title: 'American Pie 2'},
-    {id: 14, title: 'The FAst and the Furious'},
+    {id: 14, title: 'The Fast and the Furious'},
     {id: 15, title: 'Lara Croft: Tomb Raider'},
     {id: 16, title: 'Dr. Dolittle 2'},
     {id: 17, title: 'Spy Kids'},
     {id: 18, title: 'Black Hawk Down'},
     {id: 19, title: 'The Princess Diaries'},
-    {id: 20, title: 'Vanilla Sky'}
+    {id: 20, title: 'Vanilla Sky'},
+    {id: 21, title: 'The Others'},
+    {id: 22, title: 'Legally Blonde'},
+    {id: 23, title: 'Americas Sweethearts'},
+    {id: 24, title: 'Cats & Dogs'},
+    {id: 25, title: 'Save the Last Dance'}
 ];
 
 const TopMovies2002 = [
@@ -639,16 +774,21 @@ const TopMovies2002 = [
     {id: 17, title: 'Minority Report'},
     {id: 18, title: 'The Ring'},
     {id: 19, title: 'Sweet Home Alabama'},
-    {id: 20, title: 'Mr. Deeds'}
+    {id: 20, title: 'Mr. Deeds'},
+    {id: 21, title: 'The Bourne Identity'},
+    {id: 22, title: 'The Sum of All Fears'},
+    {id: 23, title: '8 Mile'},
+    {id: 24, title: 'Road to Perdition'},
+    {id: 25, title: 'Panic Room'}
 ];
 
 const TopMovies2003 = [
-    {id: 1, title: 'Finding Nemo'},
-    {id: 2, title: 'The Lord of the Rings: The Return of the King'},
+    {id: 1, title: 'The Lord of the Rings: The Return of the King'},
+    {id: 2, title: 'Finding Nemo'},
     {id: 3, title: 'Pirates of the Caribbean: The Curse of the Black Pearl'},
     {id: 4, title: 'The Matrix Reloaded'},
     {id: 5, title: 'Bruce Almighty'},
-    {id: 6, title: 'X-Men 2'},
+    {id: 6, title: 'X2: X-Men United'},
     {id: 7, title: 'Elf'},
     {id: 8, title: 'Terminator 3: Rise of the Machines'},
     {id: 9, title: 'The Matrix Revolutions'},
@@ -662,7 +802,12 @@ const TopMovies2003 = [
     {id: 17, title: 'Seabiscuit'},
     {id: 18, title: 'S.W.A.T.'},
     {id: 19, title: 'Spy Kids 3-D: Game Over'},
-    {id: 20, title: 'The Last Samurai'}
+    {id: 20, title: 'The Last Samurai'},
+    {id: 21, title: 'Freaky Friday'},
+    {id: 22, title: 'Scary Movie 3'},
+    {id: 23, title: 'The Italian Job'},
+    {id: 24, title: 'How to Lose a Guy in 10 Days'},
+    {id: 25, title: 'American Wedding'}
 ];
 
 const TopMovies2004 = [
@@ -672,10 +817,10 @@ const TopMovies2004 = [
     {id: 4, title: 'Meet the Fockers'},
     {id: 5, title: 'The Incredibles'},
     {id: 6, title: 'Harry Potter and the Prisoner of Azkaban'},
-    {id: 7, title: 'The Polar Express'},
-    {id: 8, title: 'The Day After Tomorrow'},
-    {id: 9, title: 'The Bourne Supremacy'},
-    {id: 10, title: 'National Treasure'},
+    {id: 7, title: 'The Day After Tomorrow'},
+    {id: 8, title: 'The Bourne Supremacy'},
+    {id: 9, title: 'National Treasure'},
+    {id: 10, title: 'The Polar Express'},
     {id: 11, title: 'Shark Tale'},
     {id: 12, title: 'I, Robot'},
     {id: 13, title: 'Troy'},
@@ -683,9 +828,14 @@ const TopMovies2004 = [
     {id: 15, title: '50 First Dates'},
     {id: 16, title: 'Van Helsing'},
     {id: 17, title: 'Fahrenheit 9/11'},
-    {id: 18, title: 'Lemony Snickets A Series of Unfortunate Events'},
+    {id: 18, title: 'A Series of Unfortunate Events'},
     {id: 19, title: 'Dodgeball: A True Underdog Story'},
-    {id: 20, title: 'The Village'}
+    {id: 20, title: 'The Village'},
+    {id: 21, title: 'The Grudge'},
+    {id: 22, title: 'The Aviator'},
+    {id: 23, title: 'Collateral'},
+    {id: 24, title: 'Million Dollar Baby'},
+    {id: 25, title: 'The Princess Diaries 2: Royal Engagement'}
 ];
 
 const TopMovies2005 = [
@@ -708,7 +858,12 @@ const TopMovies2005 = [
     {id: 17, title: 'The Pacifier'},
     {id: 18, title: 'Fun With Dick and Jane'},
     {id: 19, title: 'The 40 Year-old Virgin'},
-    {id: 20, title: 'Flightplan'}
+    {id: 20, title: 'Flightplan'},
+    {id: 21, title: 'Saw II'},
+    {id: 22, title: 'Brokeback Mountain'},
+    {id: 23, title: 'Monster-in-Law'},
+    {id: 24, title: 'Are We There Yet?'},
+    {id: 25, title: 'Cheaper by the Dozen 2'}
 ];
 
 const TopMovies2006 = [
@@ -731,7 +886,12 @@ const TopMovies2006 = [
     {id: 17, title: 'The Devil Wears Prada'},
     {id: 18, title: 'The Break-Up'},
     {id: 19, title: 'Dreamgirls'},
-    {id: 20, title: 'Scary Movie 4'}
+    {id: 20, title: 'Scary Movie 4'},
+    {id: 21, title: 'Failure to Launch'},
+    {id: 22, title: 'Inside Man'},
+    {id: 23, title: 'Open Season'},
+    {id: 24, title: 'The Santa Clause 3: The Escape Clause'},
+    {id: 25, title: 'Charlottes Web'}
 ];
 
 const TopMovies2007 = [
@@ -754,7 +914,12 @@ const TopMovies2007 = [
     {id: 17, title: 'Live Free or Die Hard'},
     {id: 18, title: 'Fantastic Four: Rise of the Silver Surfer'},
     {id: 19, title: 'American Gangster'},
-    {id: 20, title: 'Enchanted'}
+    {id: 20, title: 'Enchanted'},
+    {id: 21, title: 'Bee Movie'},
+    {id: 22, title: 'Superbad'},
+    {id: 23, title: 'I Now Pronounce You Chuck & Larry'},
+    {id: 24, title: 'Hairspray'},
+    {id: 25, title: 'Blades of Glory'}
 ];
 
 const TopMovies2008 = [
@@ -777,7 +942,12 @@ const TopMovies2008 = [
     {id: 17, title: 'The Incredible Hulk'},
     {id: 18, title: 'Wanted'},
     {id: 19, title: 'Get Smart'},
-    {id: 20, title: 'The Curious Case of Benjamin Button'}
+    {id: 20, title: 'The Curious Case of Benjamin Button'},
+    {id: 21, title: 'Four Christmases'},
+    {id: 22, title: 'Bolt'},
+    {id: 23, title: 'Tropic Thunder'},
+    {id: 24, title: 'Bedtime Stories'},
+    {id: 25, title: 'The Mummy: Tomb of the Dragon Emperor'}
 ];
 
 const TopMovies2009 = [
@@ -800,7 +970,12 @@ const TopMovies2009 = [
     {id: 17, title: 'Fast & Furious'},
     {id: 18, title: 'G.I. Joe: The Rise of Cobra'},
     {id: 19, title: 'Paul Blart: Mall Cop'},
-    {id: 20, title: 'Taken'}
+    {id: 20, title: 'Taken'},
+    {id: 21, title: 'A Christmas Carol'},
+    {id: 22, title: 'Angels & Demons'},
+    {id: 23, title: 'Terminator Salvation'},
+    {id: 24, title: 'Cloudy with a Chance of Meatballs'},
+    {id: 25, title: 'Inglourious Basterds'}
 ];
 
 const TopMovies2010 = [
@@ -823,7 +998,12 @@ const TopMovies2010 = [
     {id: 17, title: 'Megamind'},
     {id: 18, title: 'The Kings Speech'},
     {id: 19, title: 'The Last Airbender'},
-    {id: 20, title: 'Shutter Island'}
+    {id: 20, title: 'Shutter Island'},
+    {id: 21, title: 'The Other Guys'},
+    {id: 22, title: 'Salt'},
+    {id: 23, title: 'Jackass 3D'},
+    {id: 24, title: 'Valentines Day'},
+    {id: 25, title: 'Black Swan'}
 ];
 
 const TopMovies2011 = [
@@ -846,7 +1026,12 @@ const TopMovies2011 = [
     {id: 17, title: 'X-Men: First Class'},
     {id: 18, title: 'Rio'},
     {id: 19, title: 'The Smurfs'},
-    {id: 20, title: 'Alvin and the Chipmunks: Chipwrecked'}
+    {id: 20, title: 'Alvin and the Chipmunks: Chipwrecked'},
+    {id: 21, title: 'Super 8'},
+    {id: 22, title: 'Rango'},
+    {id: 23, title: 'Horrible Bosses'},
+    {id: 24, title: 'Green Lantern'},
+    {id: 25, title: 'Hop'}
 ];
 
 const TopMovies2012 = [
@@ -860,7 +1045,7 @@ const TopMovies2012 = [
     {id: 8, title: 'Brave'},
     {id: 9, title: 'Ted'},
     {id: 10, title: 'Madagascar 3: Europes Most Wanted'},
-    {id: 11, title: 'Doctor Seuss The Lorax'},
+    {id: 11, title: 'The Lorax'},
     {id: 12, title: 'Wreck-It Ralph'},
     {id: 13, title: 'Lincoln'},
     {id: 14, title: 'Men in Black 3'},
@@ -869,7 +1054,12 @@ const TopMovies2012 = [
     {id: 17, title: 'Snow White and the Huntsman'},
     {id: 18, title: 'Les Miserables'},
     {id: 19, title: 'Hotel Transylvania'},
-    {id: 20, title: 'Taken 2'}
+    {id: 20, title: 'Taken 2'},
+    {id: 21, title: '21 Jump Street'},
+    {id: 22, title: 'Argo'},
+    {id: 23, title: 'Silver Linings Playbook'},
+    {id: 24, title: 'Prometheus'},
+    {id: 25, title: 'Safe House'}
 ];
 
 const TopMovies2013 = [
@@ -892,7 +1082,12 @@ const TopMovies2013 = [
     {id: 17, title: 'American Hustle'},
     {id: 18, title: 'The Great Gatsby'},
     {id: 19, title: 'The Conjuring'},
-    {id: 20, title: 'Identity Thief'}
+    {id: 20, title: 'Identity Thief'},
+    {id: 21, title: 'Grown Ups 2'},
+    {id: 22, title: 'The Wolverine'},
+    {id: 23, title: 'Anchorman 2: The Legend Continues'},
+    {id: 24, title: 'Lone Survivor'},
+    {id: 25, title: 'G.I. Joe: Retaliation'}
 ];
 
 const TopMovies2014 = [
@@ -915,7 +1110,12 @@ const TopMovies2014 = [
     {id: 17, title: 'How to Train Your Dragon 2'},
     {id: 18, title: 'Gone Girl'},
     {id: 19, title: 'Divergent'},
-    {id: 20, title: 'Neighbors'}
+    {id: 20, title: 'Neighbors'},
+    {id: 21, title: 'Ride Along'},
+    {id: 22, title: 'Rio 2'},
+    {id: 23, title: 'Into the Woods'},
+    {id: 24, title: 'Lucy'},
+    {id: 25, title: 'The Fault in Our Stars'}
 ];
 
 const TopMovies2015 = [
@@ -938,7 +1138,12 @@ const TopMovies2015 = [
     {id: 17, title: 'Fifty Shades of Grey'},
     {id: 18, title: 'The SpongeBob Movie: Sponge Out of Water'},
     {id: 19, title: 'Straight Outta Compton'},
-    {id: 20, title: 'San Andreas'}
+    {id: 20, title: 'San Andreas'},
+    {id: 21, title: 'Mad Max: Fury Road'},
+    {id: 22, title: 'Daddys Home'},
+    {id: 23, title: 'The Divergent Series: Insurgent'},
+    {id: 24, title: 'The Peanuts Movie'},
+    {id: 25, title: 'Kingsman: The Secret Service'}
 ];
 
 const TopMovies2016 = [
@@ -961,7 +1166,12 @@ const TopMovies2016 = [
     {id: 17, title: 'X-Men: Apocalypse'},
     {id: 18, title: 'Trolls'},
     {id: 19, title: 'La La Land'},
-    {id: 20, title: 'Kung Fu Panda 3'}
+    {id: 20, title: 'Kung Fu Panda 3'},
+    {id: 21, title: 'Ghostbusters'},
+    {id: 22, title: 'Central Intelligence'},
+    {id: 23, title: 'The Legend of Tarzan'},
+    {id: 24, title: 'Sully'},
+    {id: 25, title: 'Bab Mos'}
 ];
 
 const TopMovies2017 = [
@@ -984,7 +1194,12 @@ const TopMovies2017 = [
     {id: 17, title: 'The Boss Baby'},
     {id: 18, title: 'The Greatest Showman'},
     {id: 19, title: 'Pirates of the Caribbean: Dead Men Tell No Tales'},
-    {id: 20, title: 'Kong: Skull Island'}
+    {id: 20, title: 'Kong: Skull Island'},
+    {id: 21, title: 'Cars 3'},
+    {id: 22, title: 'War for the Planet of the Apes'},
+    {id: 23, title: 'Split'},
+    {id: 24, title: 'Wonder'},
+    {id: 25, title: 'Transformers: The Last Knight'}
 ];
 
 const TopMovies2018 = [
@@ -1007,7 +1222,12 @@ const TopMovies2018 = [
     {id: 17, title: 'Crazy Rich Asians'},
     {id: 18, title: 'Mary Poppins Returns'},
     {id: 19, title: 'Hotel Transylvania 3: Summer Vacation'},
-    {id: 20, title: 'Fantastic Beasts: The Crimes of Grindelwald'}
+    {id: 20, title: 'Fantastic Beasts: The Crimes of Grindelwald'},
+    {id: 21, title: 'Halloween'},
+    {id: 22, title: 'The Meg'},
+    {id: 23, title: 'Oceans 8'},
+    {id: 24, title: 'Ready Player One'},
+    {id: 25, title: 'Bumblebee'}
 ];
 
 const TopMovies2019 = [
@@ -1030,7 +1250,12 @@ const TopMovies2019 = [
     {id: 17, title: '1917'},
     {id: 18, title: 'The Secret Life of Pets 2'},
     {id: 19, title: 'Pokemon: Detective Pikachu'},
-    {id: 20, title: 'Once Upon a Time...In Hollywood'}
+    {id: 20, title: 'Once Upon a Time...In Hollywood'},
+    {id: 21, title: 'Shazam!'},
+    {id: 22, title: 'Ford v Ferrari'},
+    {id: 23, title: 'Dumbo'},
+    {id: 24, title: 'Maleficent: Mistress of Evil'},
+    {id: 25, title: 'Glass'}
 ];
 
 const TopMoviesDefault = "Something has gone wrong rendering this list";

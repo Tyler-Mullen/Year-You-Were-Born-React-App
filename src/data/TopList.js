@@ -295,7 +295,7 @@ const TopThings1986 = [
 ];
 
 const TopThings1987 = [
-    {category: 'Highest Grossing Movie', title: '3 Men and a Baby'},
+    {category: 'Highest Grossing Movie', title: 'Three Men and a Baby'},
     {category: 'Highest Rated TV Show', title: 'The Cosby Show'},
     {category: 'Most Popular Song', title: 'The Bangles - Walk Like an Egyptian'},
     {category: 'Most Popular Video Game', title: 'Final Fantasy'},
@@ -327,7 +327,7 @@ const TopThings1990 = [
 ];
 
 const TopThings1991 = [
-    {category: 'Highest Grossing Movie', title: 'Beauty and the Beast'},
+    {category: 'Highest Grossing Movie', title: 'Terminator 2: Judgment Day'},
     {category: 'Highest Rated TV Show', title: 'Cheers'},
     {category: 'Most Popular Song', title: 'Bryan Adams - (Everything I Do) I Do It for You'},
     {category: 'Most Popular Video Game', title: 'Sonic the Hedgehog'},
@@ -351,7 +351,7 @@ const TopThings1993 = [
 ];
 
 const TopThings1994 = [
-    {category: 'Highest Grossing Movie', title: 'The Lion King'},
+    {category: 'Highest Grossing Movie', title: 'Forrest Gump'},
     {category: 'Highest Rated TV Show', title: '60 Minutes'},
     {category: 'Most Popular Song', title: 'Ace of Base - The Sign'},
     {category: 'Most Popular Video Game', title: 'Donkey Kong Country'},
@@ -423,7 +423,7 @@ const TopThings2002 = [
 ];
 
 const TopThings2003 = [
-    {category: 'Highest Grossing Movie', title: 'Finding Nemo'},
+    {category: 'Highest Grossing Movie', title: 'The Lord of  the Rings: Return of the King'},
     {category: 'Highest Rated TV Show', title: 'CSI: Crime Scene Investigation'},
     {category: 'Most Popular Song', title: '50 Cent - In Da Club'},
     {category: 'Most Popular Video Game', title: 'Star Wars: Knights of the Old Republic'},
