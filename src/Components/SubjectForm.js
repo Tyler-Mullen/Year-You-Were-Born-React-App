@@ -39,12 +39,12 @@ export class SubjectForm extends React.Component {
               <FormControl component="fieldset">
               <FormLabel component="legend">What would you like to view.</FormLabel>
               <RadioGroup aria-label="genre" name="genre1" onChange={handleChange('selectedGenre')}>
-              <FormControlLabel value="movies" control={<Radio />} label="Top Twenty Movies" />
-              <FormControlLabel value="songs" control={<Radio />} label="Billboard Top Twenty Year End Songs" />
+              <FormControlLabel value="movies" control={<Radio />} label="Movies" />
+              <FormControlLabel value="songs" control={<Radio />} label="Songs" />
               <FormControlLabel value="sports" control={<Radio />} label="Sports Champions" />
               <FormControlLabel value="various" control={<Radio />} label="Various #1 Things" />
-              <FormControlLabel value="shows" control={<Radio />} label="Top Twenty TV Shows" />
-              <FormControlLabel value="videogames" control={<Radio />} label="Most Popular Video Games" />
+              <FormControlLabel value="shows" control={<Radio />} label="TV Shows" />
+              <FormControlLabel value="videogames" control={<Radio />} label="Video Games" />
               </RadioGroup>
               </FormControl>
   
@@ -79,12 +79,12 @@ export class SubjectForm extends React.Component {
               <FormControl component="fieldset">
               <FormLabel component="legend">What would you like to view.</FormLabel>
               <RadioGroup aria-label="genre" name="genre1" onChange={handleChange('selectedGenre')}>
-              <FormControlLabel value="movies" disabled control={<Radio />} label="Top Twenty Movies" />
-              <FormControlLabel value="songs" control={<Radio />} label="Billboard Top Twenty Year End Songs" />
+              <FormControlLabel value="movies" disabled control={<Radio />} label="Movies" />
+              <FormControlLabel value="songs" control={<Radio />} label="Songs" />
               <FormControlLabel value="sports" control={<Radio />} label="Sports Champions" />
               <FormControlLabel value="various" control={<Radio />} label="Various #1 Things" />
-              <FormControlLabel value="shows" control={<Radio />} label="Top Twenty TV Shows" />
-              <FormControlLabel value="videogames" control={<Radio />} label="Most Popular Video Games" />
+              <FormControlLabel value="shows" control={<Radio />} label="TV Shows" />
+              <FormControlLabel value="videogames" control={<Radio />} label="Video Games" />
               </RadioGroup>
               </FormControl>
   
@@ -119,12 +119,12 @@ export class SubjectForm extends React.Component {
               <FormControl component="fieldset">
               <FormLabel component="legend">What would you like to view.</FormLabel>
               <RadioGroup aria-label="genre" name="genre1" onChange={handleChange('selectedGenre')}>
-              <FormControlLabel value="movies" disabled control={<Radio />} label="Top Twenty Movies" />
-              <FormControlLabel value="songs" control={<Radio />} label="Billboard Top Twenty Year End Songs" />
+              <FormControlLabel value="movies" disabled control={<Radio />} label="Movies" />
+              <FormControlLabel value="songs" control={<Radio />} label="Songs" />
               <FormControlLabel value="sports" control={<Radio />} label="Sports Champions" />
               <FormControlLabel value="various" control={<Radio />} label="Various #1 Things" />
-              <FormControlLabel value="shows" control={<Radio />} label="Top Twenty TV Shows" />
-              <FormControlLabel value="videogames" disabled control={<Radio />} label="Most Popular Video Games" />
+              <FormControlLabel value="shows" control={<Radio />} label="TV Shows" />
+              <FormControlLabel value="videogames" disabled control={<Radio />} label="Video Games" />
               </RadioGroup>
               </FormControl>
   
@@ -159,12 +159,12 @@ export class SubjectForm extends React.Component {
               <FormControl component="fieldset">
               <FormLabel component="legend">What would you like to view.</FormLabel>
               <RadioGroup aria-label="genre" name="genre1" onChange={handleChange('selectedGenre')}>
-              <FormControlLabel value="movies" disabled control={<Radio />} label="Top Twenty Movies" />
-              <FormControlLabel value="songs" control={<Radio />} label="Billboard Top Twenty Year End Songs" />
+              <FormControlLabel value="movies" disabled control={<Radio />} label="Movies" />
+              <FormControlLabel value="songs" control={<Radio />} label="Songs" />
               <FormControlLabel value="sports" control={<Radio />} label="Sports Champions" />
               <FormControlLabel value="various" disabled control={<Radio />} label="Various #1 Things" />
-              <FormControlLabel value="shows" control={<Radio />} label="Top Twenty TV Shows" />
-              <FormControlLabel value="videogames" disabled control={<Radio />} label="Most Popular Video Games" />
+              <FormControlLabel value="shows" control={<Radio />} label="TV Shows" />
+              <FormControlLabel value="videogames" disabled control={<Radio />} label="Video Games" />
               </RadioGroup>
               </FormControl>
   

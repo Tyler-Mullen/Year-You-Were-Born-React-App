@@ -41,6 +41,7 @@ export class QuantityForm extends React.Component {
                         <MenuItem value="10">The Top 10</MenuItem>
                         <MenuItem value="15">The Top 15</MenuItem>
                         <MenuItem value="20">The Top 20</MenuItem>
+                        <MenuItem value="25">The Top 25</MenuItem>
         
                         </Select>
     
@@ -80,6 +81,7 @@ export class QuantityForm extends React.Component {
                         <MenuItem value="10">The Top 10</MenuItem>
                         <MenuItem value="15">The Top 15</MenuItem>
                         <MenuItem value="20">The Top 20</MenuItem>
+                        <MenuItem value="25">The Top 25</MenuItem>
         
                         </Select>
     
@@ -116,6 +118,7 @@ export class QuantityForm extends React.Component {
                         onChange={handleChange('quantity')} defaultValue={values.quantity}>
                         <MenuItem value="1">Championship Winners</MenuItem>
                         <MenuItem value="2">Champions and Finalists</MenuItem>
+                        <MenuItem value="3">Champions, Finalists and Semi-Finalists</MenuItem>
         
                         </Select>
     
@@ -147,10 +150,10 @@ export class QuantityForm extends React.Component {
                       >
                         <AppBar />
         
-                        <InputLabel id="label">Please select a year.</InputLabel>
+                        <InputLabel id="label">What would you like to view.</InputLabel>
                         <Select labelId="label" id="select" 
                         onChange={handleChange('quantity')} defaultValue={values.quantity}>
-                        <MenuItem value="1">Just go ahead</MenuItem>
+                        <MenuItem value="1">Display Five Categories</MenuItem>
         
                         </Select>
     
@@ -190,6 +193,7 @@ export class QuantityForm extends React.Component {
                         <MenuItem value="10">The Top 10</MenuItem>
                         <MenuItem value="15">The Top 15</MenuItem>
                         <MenuItem value="20">The Top 20</MenuItem>
+                        <MenuItem value="25">The Top 25</MenuItem>
         
                         </Select>
     

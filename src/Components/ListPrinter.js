@@ -85,7 +85,7 @@ function findPrintedList(initialList, quantity, genre){
             break;
 
         case "sports":
-            if(quantity == 2){
+            if(quantity == 3){
 
               for(var i = 0; i < initialList.length; i++){
                 setUpList.push(initialList[i]);
@@ -94,10 +94,21 @@ function findPrintedList(initialList, quantity, genre){
               return setUpList;
             }
 
+            else if(quantity == 2){
+
+              for(var i = 0; i < initialList.length; i++){
+                if(i % 4 === 0  || i % 4 === 1){
+                  setUpList.push(initialList[i]);
+                }
+              }
+
+              return setUpList;
+            }
+
             else{
           
               for(var i = 0; i < initialList.length; i++){
-                if(i % 2 === 0){
+                if(i % 4 === 0){
                   setUpList.push(initialList[i]);
                 }
               }
