@@ -19,6 +19,11 @@ const TopTvShows1951 = [
     {id: 18, title: 'Arthur Godfrey and His Friends'},
     {id: 19, title: 'Armstrong Circle Theatre'},
     {id: 20, title: 'Lights Out'},
+    {id: 21, title: 'Big Town'},
+    {id: 22, title: 'The Alan Young Show'},
+    {id: 23, title: 'Stop the Music'},
+    {id: 24, title: 'Studio One'},
+    {id: 25, title: 'The Big Story'},
 ];
 
 const TopTvShows1952 = [
@@ -42,6 +47,11 @@ const TopTvShows1952 = [
     {id: 18, title: 'The Lone Ranger'},
     {id: 19, title: 'Gillette Cavalcade of Sports'},
     {id: 20, title: 'All Star Revue'},
+    {id: 21, title: 'Dragnet'},
+    {id: 22, title: 'The Alan Young Show'},
+    {id: 23, title: 'Kraft Television Theatre'},
+    {id: 24, title: 'Armstrong Circle Theatre'},
+    {id: 25, title: 'Strike It Rich'},
 ];
 
 const TopTvShows1953 = [
@@ -65,6 +75,11 @@ const TopTvShows1953 = [
     {id: 18, title: 'Mama'},
     {id: 19, title: 'Your Show of Shows'},
     {id: 20, title: 'Whats My Line?'},
+    {id: 21, title: 'Strike It Rich'},
+    {id: 22, title: 'Our Miss Brooks'},
+    {id: 23, title: 'The Big Story'},
+    {id: 24, title: 'Gillette Cavalcade of Sports'},
+    {id: 25, title: 'Amos n Andy'},
 ];
 
 const TopTvShows1954 = [
@@ -88,6 +103,11 @@ const TopTvShows1954 = [
     {id: 18, title: 'Gillette Cavalcade of Sports'},
     {id: 19, title: 'Philco TV Playhouse'},
     {id: 20, title: 'The George Burns and Gracie Allen Show'},
+    {id: 21, title: 'Kraft Television Theatre'},
+    {id: 22, title: 'Goodyear TV Playhouse'},
+    {id: 23, title: 'Pabst Blue Ribbon Bouts'},
+    {id: 24, title: 'Private Secretary'},
+    {id: 25, title: 'I Married Joan'},
 ];
 
 const TopTvShows1955 = [
@@ -111,6 +131,11 @@ const TopTvShows1955 = [
     {id: 18, title: 'Arthur Godfreys Talent Scouts'},
     {id: 19, title: 'Private Secretary'},
     {id: 20, title: 'Fireside Theatre'},
+    {id: 21, title: 'The Life of Riley'},
+    {id: 22, title: 'Arthur Godfrey and His Friends'},
+    {id: 23, title: 'The Adventures of Rin Tin Tin'},
+    {id: 24, title: 'Topper'},
+    {id: 25, title: 'Pabst Blue Ribbon Bouts'},
 ];
 
 const TopTvShows1956 = [
@@ -134,6 +159,11 @@ const TopTvShows1956 = [
     {id: 18, title: 'The Perry Como Show'},
     {id: 19, title: 'The Honeymooners'},
     {id: 20, title: 'The Adventures of Robin Hood'},
+    {id: 21, title: 'The Life of Riley'},
+    {id: 22, title: 'Climax!'},
+    {id: 23, title: 'Your Hit Parade'},
+    {id: 24, title: 'Fireside Theatre'},
+    {id: 25, title: 'Lux Video Theatre'},
 ];
 
 const TopTvShows1957 = [
@@ -157,6 +187,11 @@ const TopTvShows1957 = [
     {id: 18, title: 'The Life and Legend of Wyatt Earp'},
     {id: 19, title: 'The Ford Show'},
     {id: 20, title: 'The Adventures of Robin Hood'},
+    {id: 21, title: 'People Are Funny'},
+    {id: 22, title: 'The $64,000 Challenge'},
+    {id: 23, title: 'The Phil Silvers Show'},
+    {id: 24, title: 'Lassie'},
+    {id: 25, title: 'Private Secretary'},
 ];
 
 const TopTvShows1958 = [
@@ -180,6 +215,11 @@ const TopTvShows1958 = [
     {id: 18, title: 'The Lineup'},
     {id: 19, title: 'This Is Your Life'},
     {id: 20, title: 'The $64,000 Question'},
+    {id: 21, title: 'Zane Grey Theater'},
+    {id: 22, title: 'Lassie'},
+    {id: 23, title: 'Wagon Train'},
+    {id: 24, title: 'Sugarfoot'},
+    {id: 25, title: 'Father Knows Best'},
 ];
 
 const TopTvShows1959 = [
@@ -203,6 +243,11 @@ const TopTvShows1959 = [
     {id: 18, title: 'Cheyenne'},
     {id: 19, title: 'Perry Mason'},
     {id: 20, title: 'The Ford Show'},
+    {id: 21, title: 'Sugarfoot'},
+    {id: 22, title: 'The Ann Sothern Show'},
+    {id: 23, title: 'The Perry Como Show'},
+    {id: 24, title: 'Alfred Hitchcock Presents'},
+    {id: 25, title: 'Name That Tune'},
 ];
 
 const TopTvShows1960 = [
@@ -226,6 +271,11 @@ const TopTvShows1960 = [
     {id: 18, title: 'Rawhide'},
     {id: 19, title: 'Maverick'},
     {id: 20, title: 'The Life and Legend of Wyatt Earp'},
+    {id: 21, title: 'Mr. Lucky'},
+    {id: 22, title: 'Zane Grey Theater'},
+    {id: 23, title: 'General Electric Theater'},
+    {id: 24, title: 'The Ann Sothern Show'},
+    {id: 25, title: 'Alfred Hitchcock Presents'},
 ];
 
 const TopTvShows1961 = [
@@ -249,6 +299,11 @@ const TopTvShows1961 = [
     {id: 18, title: 'The Flintstones'},
     {id: 19, title: 'The Red Skelton Show'},
     {id: 20, title: 'General Electric Theater'},
+    {id: 21, title: 'Checkmate'},
+    {id: 22, title: 'Whats My Line?'},
+    {id: 23, title: 'The Many Loves of Dobie Gillis'},
+    {id: 24, title: 'The Ford Show'},
+    {id: 25, title: 'The Garry Moore Show'},
 ];
 
 const TopTvShows1962 = [
@@ -272,6 +327,11 @@ const TopTvShows1962 = [
     {id: 18, title: 'Ben Casey'},
     {id: 19, title: 'The Ed Sullivan Show'},
     {id: 20, title: 'Car 54, Where Are You?'},
+    {id: 21, title: 'The Flintstones'},
+    {id: 22, title: 'The Many Loves of Dobie Gillis'},
+    {id: 23, title: 'Walt Disneys Wonderful World of Color'},
+    {id: 24, title: 'The Joey Bishop Show'},
+    {id: 25, title: 'The Perry Como Show'},
 ];
 
 const TopTvShows1963 = [
@@ -295,6 +355,11 @@ const TopTvShows1963 = [
     {id: 18, title: 'The Defenders'},
     {id: 19, title: 'The Garry Moore Show'},
     {id: 20, title: 'To Tell the Truth'},
+    {id: 21, title: 'Lassie'},
+    {id: 22, title: 'Rawhide'},
+    {id: 23, title: 'Perry Mason'},
+    {id: 24, title: 'Walt Disneys Wonderful World of Color'},
+    {id: 25, title: 'Wagon Train'},
 ];
 
 const TopTvShows1964 = [
@@ -318,6 +383,11 @@ const TopTvShows1964 = [
     {id: 18, title: 'The Patty Duke Show'},
     {id: 19, title: 'Dr. Kildare'},
     {id: 20, title: 'Gunsmoke'},
+    {id: 21, title: 'Walt Disneys Wonderful World of Color'},
+    {id: 22, title: 'Hazel'},
+    {id: 23, title: 'McHales Navy'},
+    {id: 24, title: 'To Tell the Truth'},
+    {id: 25, title: 'Whats My Line?'},
 ];
 
 const TopTvShows1965 = [
@@ -341,6 +411,11 @@ const TopTvShows1965 = [
     {id: 18, title: 'The Munsters'},
     {id: 19, title: 'Gilligans Island'},
     {id: 20, title: 'Peyton Place I'},
+    {id: 21, title: 'The Jackie Gleason Show'},
+    {id: 22, title: 'The Virginian'},
+    {id: 23, title: 'The Addams Family'},
+    {id: 24, title: 'My Favorite Martian'},
+    {id: 25, title: 'Flipper'},
 ];
 
 const TopTvShows1966 = [
@@ -364,6 +439,11 @@ const TopTvShows1966 = [
     {id: 18, title: 'The Lawrence Welk Show'},
     {id: 19, title: 'Ive Got a Secret'},
     {id: 20, title: 'Petticoat Junction'},
+    {id: 21, title: 'Gilligans Island'},
+    {id: 22, title: 'The Wild Wild West'},
+    {id: 23, title: 'The Jackie Gleason Show'},
+    {id: 24, title: 'The Virginian'},
+    {id: 25, title: 'Daniel Boone'},
 ];
 
 const TopTvShows1967 = [
@@ -387,6 +467,11 @@ const TopTvShows1967 = [
     {id: 18, title: 'Hogans Heroes'},
     {id: 19, title: 'Walt Disneys Wonderful World of Color'},
     {id: 20, title: 'Saturday Night at the Movies'},
+    {id: 21, title: 'Dragnet'},
+    {id: 22, title: 'Get Smart'},
+    {id: 23, title: 'Petticoat Junction'},
+    {id: 24, title: 'The Rat Patrol'},
+    {id: 25, title: 'Daniel Boone'},
 ];
 
 const TopTvShows1968 = [
@@ -410,6 +495,11 @@ const TopTvShows1968 = [
     {id: 18, title: 'The Smothers Brothers Comedy Hour'},
     {id: 19, title: 'Gentle Ben'},
     {id: 20, title: 'Tuesday Night at the Movies'},
+    {id: 21, title: 'Rowan & Martins Laugh-In'},
+    {id: 22, title: 'The F.B.I.'},
+    {id: 23, title: 'Thrusday Night Movie'},
+    {id: 24, title: 'My Three Sons'},
+    {id: 25, title: 'Walt Disneys Wonderful World of Color'},
 ];
 
 const TopTvShows1969 = [
@@ -433,6 +523,11 @@ const TopTvShows1969 = [
     {id: 18, title: 'The F.B.I.'},
     {id: 19, title: 'Green Acres'},
     {id: 20, title: 'Dragnet'},
+    {id: 21, title: 'Daniel Boone'},
+    {id: 22, title: 'Walt Disneys Wonderful World of Color'},
+    {id: 23, title: 'The Ed Sullivan Show'},
+    {id: 24, title: 'The Carol Burnett Show'},
+    {id: 25, title: 'The Jackie Gleason Show'},
 ];
 
 const TopTvShows1970 = [
@@ -456,6 +551,11 @@ const TopTvShows1970 = [
     {id: 18, title: 'The Beverly Hillbillies'},
     {id: 19, title: 'Hawaii Five-O'},
     {id: 20, title: 'The Glen Campbell Goodtime Hour'},
+    {id: 21, title: 'Hee Haw'},
+    {id: 22, title: 'Movie of the Week'},
+    {id: 23, title: 'The Mod Squad'},
+    {id: 24, title: 'Saturday Night Movie'},
+    {id: 25, title: 'Bewitched'},
 ];
 
 const TopTvShows1971 = [
@@ -479,6 +579,11 @@ const TopTvShows1971 = [
     {id: 18, title: 'The Men from Shiloh'},
     {id: 19, title: 'My Three Sons'},
     {id: 20, title: 'The Doris Day Show'},
+    {id: 21, title: 'The Smith Family'},
+    {id: 22, title: 'The Mary Tyler Moore Show'},
+    {id: 23, title: 'NBC Saturday Movie'},
+    {id: 24, title: 'The Dean Martin Show'},
+    {id: 25, title: 'The Carol Burnett Show'},
 ];
 
 const TopTvShows1972 = [
@@ -502,6 +607,11 @@ const TopTvShows1972 = [
     {id: 18, title: 'The New Dick Van Dyke Show'},
     {id: 19, title: 'The Wonderful World of Disney'},
     {id: 20, title: 'Bonanza'},
+    {id: 21, title: 'The Mod Squad'},
+    {id: 22, title: 'Rowan & Martins Laugh-In'},
+    {id: 23, title: 'The Carol Burnett Show'},
+    {id: 24, title: 'The Doris Day Show'},
+    {id: 25, title: 'Monday Night Football'},
 ];
 
 const TopTvShows1973 = [
@@ -525,6 +635,11 @@ const TopTvShows1973 = [
     {id: 18, title: 'Monday Night Football'},
     {id: 19, title: 'The Partridge Family'},
     {id: 20, title: 'The Waltons'},
+    {id: 21, title: 'Medical Center'},
+    {id: 22, title: 'The Carol Burnett Show'},
+    {id: 23, title: 'ABC Sunday Movie'},
+    {id: 24, title: 'The Rookies'},
+    {id: 25, title: 'Barnaby Jones'},
 ];
 
 const TopTvShows1974 = [
@@ -548,6 +663,11 @@ const TopTvShows1974 = [
     {id: 18, title: 'Barnaby Jones'},
     {id: 19, title: 'Monday Night Football'},
     {id: 20, title: 'CBS Friday Night Movie'},
+    {id: 21, title: 'Tuesday Movie of the Week'},
+    {id: 22, title: 'The Streets of San Francisco'},
+    {id: 23, title: 'Adam-12'},
+    {id: 24, title: 'ABC Sunday Night Movie'},
+    {id: 25, title: 'The Rookies'},
 ];
 
 const TopTvShows1975 = [
@@ -571,6 +691,11 @@ const TopTvShows1975 = [
     {id: 18, title: 'The Wonderful World of Disney'},
     {id: 19, title: 'The Rookies'},
     {id: 20, title: 'Mannix'},
+    {id: 21, title: 'Cannon'},
+    {id: 22, title: 'Cher'},
+    {id: 23, title: 'The Streets of San Francisco'},
+    {id: 24, title: 'The NBC Sunday Mystery Movie'},
+    {id: 25, title: 'Paul Sand in Friends and Lovers'},
 ];
 
 const TopTvShows1976 = [
@@ -594,6 +719,11 @@ const TopTvShows1976 = [
     {id: 18, title: 'Welcome Back, Kotter'},
     {id: 19, title: 'The Mary Tyler Moore Show'},
     {id: 20, title: 'Kojak'},
+    {id: 21, title: 'The Jeffersons'},
+    {id: 22, title: 'Baretta'},
+    {id: 23, title: 'The Sonny & Cher Show'},
+    {id: 24, title: 'Good Times'},
+    {id: 25, title: 'Chico and the Man'},
 ];
 
 const TopTvShows1977 = [
@@ -617,6 +747,11 @@ const TopTvShows1977 = [
     {id: 18, title: '60 Minutes'},
     {id: 19, title: 'Hawaii Five-O'},
     {id: 20, title: 'NBC Monday Night Movie'},
+    {id: 21, title: 'Rich Man, Poor Man Book II'},
+    {id: 22, title: 'Monday Night Football'},
+    {id: 23, title: 'Eight Is Enough'},
+    {id: 24, title: 'The Jeffersons'},
+    {id: 25, title: 'Whats Happening!!'},
 ];
 
 const TopTvShows1978 = [
@@ -640,6 +775,11 @@ const TopTvShows1978 = [
     {id: 18, title: 'Barney Miller'},
     {id: 19, title: 'Project U.F.O.'},
     {id: 20, title: 'ABC Sunday Night Movie'},
+    {id: 21, title: 'The Waltons'},
+    {id: 22, title: 'Barnaby Jones'},
+    {id: 23, title: 'Hawaii Five-O'},
+    {id: 24, title: 'ABC Monday Night Movie'},
+    {id: 25, title: 'Rhoda'},
 ];
 
 const TopTvShows1979 = [
@@ -663,6 +803,11 @@ const TopTvShows1979 = [
     {id: 18, title: 'One Day at a Time'},
     {id: 19, title: 'Soap'},
     {id: 20, title: 'The Dukes of Hazzard'},
+    {id: 21, title: 'NBC Monday Night Movie'},
+    {id: 22, title: 'Fantasy Island'},
+    {id: 23, title: 'Vega$'},
+    {id: 24, title: 'Barnaby Jones'},
+    {id: 25, title: 'CHiPs'},
 ];
 
 const TopTvShows1980 = [
@@ -686,6 +831,11 @@ const TopTvShows1980 = [
     {id: 18, title: 'CHiPs'},
     {id: 19, title: 'Trapper John, M.D.'},
     {id: 20, title: 'Charlies Angels'},
+    {id: 21, title: 'Barney Miller'},
+    {id: 22, title: 'WKRP in Cincinnati'},
+    {id: 23, title: 'Benson'},
+    {id: 24, title: 'The Love Boat'},
+    {id: 25, title: 'Soap'},
 ];
 
 const TopTvShows1981 = [
@@ -709,6 +859,11 @@ const TopTvShows1981 = [
     {id: 18, title: 'Trapper John, M.D.'},
     {id: 19, title: 'Diffrent Strokes'},
     {id: 20, title: 'Monday Night Football'},
+    {id: 21, title: 'Laverne & Shirley'},
+    {id: 22, title: 'Thats Incredible!'},
+    {id: 23, title: 'Hart to Hart'},
+    {id: 24, title: 'ABC Sunday Night Movie'},
+    {id: 25, title: 'CHiPs'},
 ];
 
 const TopTvShows1982 = [
@@ -732,6 +887,11 @@ const TopTvShows1982 = [
     {id: 18, title: 'Happy Days'},
     {id: 19, title: 'Dynasty'},
     {id: 20, title: 'Laverne & Shirley'},
+    {id: 21, title: 'Real People'},
+    {id: 22, title: 'ABC Sunday Night Movie'},
+    {id: 23, title: 'House Calls'},
+    {id: 24, title: 'The Facts of Life'},
+    {id: 25, title: 'Little Houe on the Prairie'},
 ];
 
 const TopTvShows1983 = [
@@ -755,6 +915,11 @@ const TopTvShows1983 = [
     {id: 18, title: 'Gloria'},
     {id: 19, title: 'Trapper John, M.D.'},
     {id: 20, title: 'Knots Landing'},
+    {id: 21, title: 'Hill Street Blues'},
+    {id: 22, title: 'Thats Incredible!'},
+    {id: 23, title: 'Archie Bunkers Place'},
+    {id: 24, title: 'ABC Monday Night Movie'},
+    {id: 25, title: 'Laverne & Shirley'},
 ];
 
 const TopTvShows1984 = [
@@ -778,6 +943,11 @@ const TopTvShows1984 = [
     {id: 18, title: 'Riptide'},
     {id: 19, title: 'The Jeffersons'},
     {id: 20, title: 'Scarecrow & Mrs. King'},
+    {id: 21, title: 'Monday Night Football'},
+    {id: 22, title: 'NBC Monday Night Movie'},
+    {id: 23, title: 'Newhart'},
+    {id: 24, title: 'The Facts of Life'},
+    {id: 25, title: 'CBS Tuesday Night Movie'},
 ];
 
 const TopTvShows1985 = [
@@ -801,6 +971,11 @@ const TopTvShows1985 = [
     {id: 18, title: 'NBC Monday Night Movie'},
     {id: 19, title: 'Highway to Heaven'},
     {id: 20, title: 'Night Court'},
+    {id: 21, title: 'ABC Sunday Night Movie'},
+    {id: 22, title: 'Scarecrow & Mrs. King'},
+    {id: 23, title: 'TVs Bloopers & Practical Jokes'},
+    {id: 24, title: 'The Fall Guy'},
+    {id: 25, title: 'Monday Night Football'},
 ];
 
 const TopTvShows1986 = [
@@ -824,6 +999,11 @@ const TopTvShows1986 = [
     {id: 18, title: 'Growing Pains'},
     {id: 19, title: 'You Again?'},
     {id: 20, title: '227'},
+    {id: 21, title: 'NBC Sunday Night Movie'},
+    {id: 22, title: 'Hotel'},
+    {id: 23, title: 'NBC Monday Night Movie'},
+    {id: 24, title: 'Moonlightning'},
+    {id: 25, title: 'Falcon Crest'},
 ];
 
 const TopTvShows1987 = [
@@ -847,6 +1027,11 @@ const TopTvShows1987 = [
     {id: 18, title: 'Monday Night Football'},
     {id: 19, title: 'Kate & Allie'},
     {id: 20, title: 'NBC Sunday Night Movie'},
+    {id: 21, title: 'L.A. Law'},
+    {id: 22, title: 'My Sister Sam'},
+    {id: 23, title: 'Falcon Crest'},
+    {id: 24, title: 'Highway to Heaven'},
+    {id: 25, title: 'Dynasty'},
 ];
 
 const TopTvShows1988 = [
@@ -870,6 +1055,11 @@ const TopTvShows1988 = [
     {id: 18, title: 'CBS Sunday Night Movie'},
     {id: 19, title: 'In the Heat of the Night'},
     {id: 20, title: 'My Two Dads'},
+    {id: 21, title: 'Valeries Family'},
+    {id: 22, title: 'Dallas'},
+    {id: 23, title: 'NBC Sunday Night Movie'},
+    {id: 24, title: 'Head of the Class'},
+    {id: 25, title: 'Newhart'},
 ];
 
 const TopTvShows1989 = [
@@ -893,6 +1083,11 @@ const TopTvShows1989 = [
     {id: 18, title: 'In the Heat of the Night'},
     {id: 19, title: 'Hunter'},
     {id: 20, title: 'Head of the Class'},
+    {id: 21, title: 'Night Court'},
+    {id: 22, title: 'The Hogan Family'},
+    {id: 23, title: 'NBC Sunday Night Movie'},
+    {id: 24, title: 'The Wonder Years'},
+    {id: 25, title: 'Amen'},
 ];
 
 const TopTvShows1990 = [
@@ -916,6 +1111,11 @@ const TopTvShows1990 = [
     {id: 18, title: 'Coach'},
     {id: 19, title: 'In the Heat of the Night'},
     {id: 20, title: 'Matlock'},
+    {id: 21, title: 'Growing Pains'},
+    {id: 22, title: 'Full House'},
+    {id: 23, title: 'Designing Women'},
+    {id: 24, title: 'CBS Sunday Movie'},
+    {id: 25, title: 'Hunter'},
 ];
 
 const TopTvShows1991 = [
@@ -939,6 +1139,11 @@ const TopTvShows1991 = [
     {id: 18, title: 'Coach'},
     {id: 19, title: 'Whos the Boss?'},
     {id: 20, title: 'CBS Sunday Movie'},
+    {id: 21, title: 'In the Heat of the Night'},
+    {id: 22, title: 'Major Dad'},
+    {id: 23, title: 'L.A. Law'},
+    {id: 24, title: 'Doogie Howser, M.D.'},
+    {id: 25, title: 'Grand'},
 ];
 
 const TopTvShows1992 = [
@@ -962,6 +1167,11 @@ const TopTvShows1992 = [
     {id: 18, title: 'The Cosby Show'},
     {id: 19, title: 'Wings'},
     {id: 20, title: 'Americas Funniest Home Videos'},
+    {id: 21, title: '20/20'},
+    {id: 22, title: 'The Fresh Prince of Bel-Air'},
+    {id: 23, title: 'Empty Nest'},
+    {id: 24, title: 'NBC Monday Movie'},
+    {id: 25, title: 'Americas Funniest People'},
 ];
 
 const TopTvShows1993 = [
@@ -985,6 +1195,11 @@ const TopTvShows1993 = [
     {id: 18, title: 'The Jackie Thomas Show'},
     {id: 19, title: 'Evening Shade'},
     {id: 20, title: 'Hearts Afire'},
+    {id: 21, title: 'Unsolved Mysteries'},
+    {id: 22, title: 'Primetime Live'},
+    {id: 23, title: 'Dr. Quinn, Medicine Woman'},
+    {id: 24, title: 'NBC Monday Movie'},
+    {id: 25, title: 'Seinfeld'},
 ];
 
 const TopTvShows1994 = [
@@ -1008,6 +1223,11 @@ const TopTvShows1994 = [
     {id: 18, title: 'NYPD Blue'},
     {id: 19, title: 'Wings'},
     {id: 20, title: 'Turning Point'},
+    {id: 21, title: 'Daves World'},
+    {id: 22, title: 'The Fresh Prince of Bel-Air'},
+    {id: 23, title: 'NBC Monday Movie'},
+    {id: 24, title: 'Homicide: Life on the Street'},
+    {id: 25, title: 'CBS Tuesday Movie'},
 ];
 
 const TopTvShows1995 = [
@@ -1031,6 +1251,11 @@ const TopTvShows1995 = [
     {id: 18, title: 'CBS Sunday Movie'},
     {id: 19, title: 'NBC Monday Movie'},
     {id: 20, title: 'Me and the Boys'},
+    {id: 21, title: 'Daves World'},
+    {id: 22, title: 'Cybill'},
+    {id: 23, title: 'ABC Sunday Movie'},
+    {id: 24, title: 'The Nanny'},
+    {id: 25, title: 'Full House'},
 ];
 
 const TopTvShows1996 = [
@@ -1054,6 +1279,11 @@ const TopTvShows1996 = [
     {id: 18, title: 'Walker, Texas Rangers'},
     {id: 19, title: 'Primetime Live'},
     {id: 20, title: 'Murphy Brown'},
+    {id: 21, title: 'NBC Sunday Movie'},
+    {id: 22, title: '3rd Rock form the Sun'},
+    {id: 23, title: 'Chicago Hope'},
+    {id: 24, title: 'Law & Order'},
+    {id: 25, title: 'CBS Sunday Movie'},
 ];
 
 const TopTvShows1997 = [
@@ -1077,6 +1307,11 @@ const TopTvShows1997 = [
     {id: 18, title: 'NBC Sunday Movie'},
     {id: 19, title: 'The Drew Carrey Show'},
     {id: 20, title: 'Dateline NBC'},
+    {id: 21, title: 'Cosby'},
+    {id: 22, title: 'The X-Files'},
+    {id: 23, title: 'Walker, Texas Ranger'},
+    {id: 24, title: 'Mad About You'},
+    {id: 25, title: 'Caroline in the City'},
 ];
 
 const TopTvShows1998 = [
@@ -1100,6 +1335,11 @@ const TopTvShows1998 = [
     {id: 18, title: 'The X-Files'},
     {id: 19, title: 'Law & Order'},
     {id: 20, title: 'Diagnosis: Murder'},
+    {id: 21, title: 'King of the Hill'},
+    {id: 22, title: 'Mad About You'},
+    {id: 23, title: 'Cosby'},
+    {id: 24, title: 'Dharma & Greg'},
+    {id: 25, title: 'NBC Sunday Night Movie'},
 ];
 
 const TopTvShows1999 = [
@@ -1123,6 +1363,11 @@ const TopTvShows1999 = [
     {id: 18, title: 'Dateline NBC'},
     {id: 19, title: 'Becker'},
     {id: 20, title: 'CBS Tuesday Movie'},
+    {id: 21, title: 'Ally McBeal'},
+    {id: 22, title: 'Dharma & Greg'},
+    {id: 23, title: 'Spin City'},
+    {id: 24, title: 'Walker, Texas Ranger'},
+    {id: 25, title: 'The X-Files'},
 ];
 
 const TopTvShows2000 = [
@@ -1146,6 +1391,11 @@ const TopTvShows2000 = [
     {id: 18, title: 'JAG'},
     {id: 19, title: 'The Drew Carey Show'},
     {id: 20, title: 'Providence'},
+    {id: 21, title: '60 Minutes II'},
+    {id: 22, title: 'The West Wing'},
+    {id: 23, title: 'ABC Monday Movie'},
+    {id: 24, title: 'Spin City'},
+    {id: 25, title: 'Family Law'},
 ];
 
 const TopTvShows2001 = [
@@ -1169,6 +1419,11 @@ const TopTvShows2001 = [
     {id: 18, title: 'Cursed/The Weber Show'},
     {id: 19, title: 'NYPD Blue'},
     {id: 20, title: 'Touched by an Angel'},
+    {id: 21, title: 'Law & Order: Sepcial Victims Unit'},
+    {id: 22, title: 'JAG'},
+    {id: 23, title: 'The King of Queens'},
+    {id: 24, title: 'Yes, Dear'},
+    {id: 25, title: 'Family Law'},
 ];
 
 const TopTvShows2002 = [
@@ -1192,6 +1447,11 @@ const TopTvShows2002 = [
     {id: 18, title: 'Just Shoot Me!'},
     {id: 19, title: 'The King of Queens'},
     {id: 20, title: 'Yes, Dear'},
+    {id: 21, title: 'Crossing Jordan'},
+    {id: 22, title: 'The Guardian'},
+    {id: 23, title: 'The Practice'},
+    {id: 24, title: 'NYPD Blue'},
+    {id: 25, title: 'Baby Bob'},
 ];
 
 const TopTvShows2003 = [
@@ -1215,6 +1475,11 @@ const TopTvShows2003 = [
     {id: 18, title: 'Law & Order: Criminal Intent'},
     {id: 19, title: 'Still Standing'},
     {id: 20, title: 'The West Wing'},
+    {id: 21, title: 'JAG'},
+    {id: 22, title: 'Good Morning, Miami'},
+    {id: 23, title: 'Yes, Dear'},
+    {id: 24, title: 'The King of Queens'},
+    {id: 25, title: 'Frasier'},
 ];
 
 const TopTvShows2004 = [
@@ -1238,6 +1503,11 @@ const TopTvShows2004 = [
     {id: 18, title: 'Crossing Jordan'},
     {id: 19, title: 'Law & Order: Criminal Intent'},
     {id: 20, title: 'The Bachelor/The Bachelorette'},
+    {id: 21, title: 'Fear Factor'},
+    {id: 22, title: 'The West Wing'},
+    {id: 23, title: 'CBS Sunday Movie'},
+    {id: 24, title: 'Navy: NCIS'},
+    {id: 25, title: 'Judging Amy'},
 ];
 
 const TopTvShows2005 = [
@@ -1261,6 +1531,11 @@ const TopTvShows2005 = [
     {id: 18, title: 'Medium'},
     {id: 19, title: 'Law & Order'},
     {id: 20, title: 'CSI: NY'},
+    {id: 21, title: 'NCIS'},
+    {id: 22, title: 'House'},
+    {id: 23, title: 'Boston Legal'},
+    {id: 24, title: 'Law & Order: Criminal Intent'},
+    {id: 25, title: 'Crossing Jordan'},
 ];
 
 const TopTvShows2006 = [
@@ -1284,6 +1559,11 @@ const TopTvShows2006 = [
     {id: 18, title: 'Law & Order: Special Victims Unit'},
     {id: 19, title: '60 Minutes'},
     {id: 20, title: 'Extreme Makeover: Home Edition'},
+    {id: 21, title: 'Commander in Chief'},
+    {id: 22, title: 'The New Adventures of Old Christine'},
+    {id: 23, title: 'Unan1mous'},
+    {id: 24, title: 'Criminal Minds'},
+    {id: 25, title: '24'},
 ];
 
 const TopTvShows2007 = [
@@ -1307,6 +1587,11 @@ const TopTvShows2007 = [
     {id: 18, title: 'Shark'},
     {id: 19, title: 'Lost'},
     {id: 20, title: 'Heroes'},
+    {id: 21, title: 'Law & Order: Special Victims Unit'},
+    {id: 22, title: 'Rules of Engagement'},
+    {id: 23, title: 'Extreme Makeover: Home Edition'},
+    {id: 24, title: 'Ugly Betty'},
+    {id: 25, title: 'ER'},
 ];
 
 const TopTvShows2008 = [
@@ -1330,6 +1615,11 @@ const TopTvShows2008 = [
     {id: 18, title: 'Extreme Makeover: Home Edition'},
     {id: 19, title: 'Brothers & Sisters'},
     {id: 20, title: 'CSI: NY'},
+    {id: 21, title: 'Heroes'},
+    {id: 22, title: 'Law & Order: Special Victims Unit'},
+    {id: 23, title: 'Private Practice'},
+    {id: 24, title: 'Law & Order'},
+    {id: 25, title: 'Cold Case'},
 ];
 
 const TopTvShows2009 = [
@@ -1353,6 +1643,11 @@ const TopTvShows2009 = [
     {id: 18, title: 'Cold Case'},
     {id: 19, title: 'The Bachelor'},
     {id: 20, title: '24'},
+    {id: 21, title: 'Brothers & Sisters'},
+    {id: 22, title: 'Rules of Engagement'},
+    {id: 23, title: 'Castle'},
+    {id: 24, title: 'Law & Order: Special Victims Unit'},
+    {id: 25, title: 'ER'},
 ];
 
 const TopTvShows2010 = [
@@ -1376,6 +1671,11 @@ const TopTvShows2010 = [
     {id: 18, title: 'Survivor'},
     {id: 19, title: 'The Bachelor'},
     {id: 20, title: 'House'},
+    {id: 21, title: 'Brothers & Sisters'},
+    {id: 22, title: 'Castle'},
+    {id: 23, title: 'Lost'},
+    {id: 24, title: 'The Amazing Race'},
+    {id: 25, title: 'Bones'},
 ];
 
 const TopTvShows2011 = [
@@ -1399,6 +1699,11 @@ const TopTvShows2011 = [
     {id: 18, title: 'Greys Anatomy'},
     {id: 19, title: 'Survivor'},
     {id: 20, title: 'Harrys Law'},
+    {id: 21, title: 'CSI: Miami'},
+    {id: 22, title: 'Castle'},
+    {id: 23, title: 'Undercover Boss'},
+    {id: 24, title: 'The Bachelor'},
+    {id: 25, title: 'Bones'},
 ];
 
 const TopTvShows2012 = [
@@ -1422,6 +1727,11 @@ const TopTvShows2012 = [
     {id: 18, title: 'Hawaii Five-O'},
     {id: 19, title: 'Greys Anatomy'},
     {id: 20, title: 'The X Factor'},
+    {id: 21, title: 'Mike & Molly'},
+    {id: 22, title: 'Rob'},
+    {id: 23, title: 'CSI: Miami'},
+    {id: 24, title: '2 Broke Girls'},
+    {id: 25, title: 'Desperate Housewives'},
 ];
 
 const TopTvShows2013 = [
@@ -1445,6 +1755,11 @@ const TopTvShows2013 = [
     {id: 18, title: 'Modern Family'},
     {id: 19, title: 'Vegas'},
     {id: 20, title: 'Body of Proof'},
+    {id: 21, title: 'CSI: NY'},
+    {id: 22, title: 'The Following'},
+    {id: 23, title: 'The Good Wife'},
+    {id: 24, title: 'Survivor: Philippines'},
+    {id: 25, title: '2 Broke Girls'},
 ];
 
 const TopTvShows2014 = [
@@ -1468,6 +1783,11 @@ const TopTvShows2014 = [
     {id: 18, title: 'The Good Wife'},
     {id: 19, title: 'Modern Family'},
     {id: 20, title: 'Hawaii Five-O'},
+    {id: 21, title: 'American Idol'},
+    {id: 22, title: 'The Mentalist'},
+    {id: 23, title: 'The Millers'},
+    {id: 24, title: 'Survivor'},
+    {id: 25, title: 'Two and a Half Men'},
 ];
 
 const TopTvShows2015 = [
@@ -1491,6 +1811,11 @@ const TopTvShows2015 = [
     {id: 18, title: 'Hawaii Five-O'},
     {id: 19, title: 'How to Get Away with Murder'},
     {id: 20, title: 'Person of Interest'},
+    {id: 21, title: 'NCIS: Los Angeles'},
+    {id: 22, title: 'Modern Family'},
+    {id: 23, title: 'Two and a Half Men'},
+    {id: 24, title: 'Elementary'},
+    {id: 25, title: 'The Mentalist'},
 ];
 
 const TopTvShows2016 = [
@@ -1514,6 +1839,11 @@ const TopTvShows2016 = [
     {id: 18, title: 'How to Get Away with Murder'},
     {id: 19, title: 'Little Big Shots'},
     {id: 20, title: 'Blindspot'},
+    {id: 21, title: 'The Good Wife'},
+    {id: 22, title: 'NCIS: Los Angeles'},
+    {id: 23, title: 'Chicago Fire'},
+    {id: 24, title: 'Hawaii Five-0'},
+    {id: 25, title: 'American Idol'},
 ];
 
 const TopTvShows2017 = [
@@ -1537,6 +1867,11 @@ const TopTvShows2017 = [
     {id: 18, title: 'Empire'},
     {id: 19, title: 'Scorpion'},
     {id: 20, title: 'Chicago Fire'},
+    {id: 21, title: 'Chicago Med'},
+    {id: 22, title: 'Survivor'},
+    {id: 23, title: 'Little Big Shots'},
+    {id: 24, title: 'MacGyver'},
+    {id: 25, title: 'Code Black'},
 ];
 
 const TopTvShows2018 = [
@@ -1560,6 +1895,11 @@ const TopTvShows2018 = [
     {id: 18, title: 'Chicago Med'},
     {id: 19, title: 'NCIS: Los Angeles'},
     {id: 20, title: 'Chicago P.D.'},
+    {id: 21, title: 'Chicago Fire'},
+    {id: 22, title: 'SEAL Team'},
+    {id: 23, title: 'Instinct'},
+    {id: 24, title: 'Criminal Minds'},
+    {id: 25, title: '9-1-1'},
 ];
 
 const TopTvShows2019 = [
@@ -1583,6 +1923,11 @@ const TopTvShows2019 = [
     {id: 18, title: '60 Minutes'},
     {id: 19, title: 'The Voice'},
     {id: 20, title: 'Greys Anatomy'},
+    {id: 21, title: 'Mom'},
+    {id: 22, title: 'The Voice'},
+    {id: 23, title: 'Hawaii Five-0'},
+    {id: 24, title: 'NCIS: Los Angeles'},
+    {id: 25, title: 'The Masked Singer'},
 ];
 
 const TopTvShowsDefault = "Something has gone wrong rendering the list";
