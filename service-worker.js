@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/Year-You-Were-Born-React-App/precache-manifest.e0f3c92ea476e0580aaa14ad18939a41.js"
+  "/Year-You-Were-Born-React-App/precache-manifest.9a03eed6b7855012a92f3ea5df108d65.js"
 );
 
 self.addEventListener('message', (event) => {
