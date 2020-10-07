@@ -147,6 +147,11 @@ function findPrintedList(initialList, quantity, genre){
 
 export class ListPrinter extends Component{
 
+  continue = e => {
+    e.preventDefault();
+    this.props.nextStep();
+  }
+
     back = e => {
         e.preventDefault();
         this.props.prevStep();
@@ -161,7 +166,8 @@ export class ListPrinter extends Component{
         switch(values.selectedGenre){
             case "movies":
                 const movieList = printedList.map((movie) =>
-                <li>{movie.title}</li>
+                <li><Button color="primary">
+                  {movie.title}</Button></li>
                 );
 
                 return(
@@ -190,7 +196,8 @@ export class ListPrinter extends Component{
 
             case "songs":
                 const songList = printedList.map((song) => 
-                <li>{song.artist} - {song.title}</li>
+                <li><Button color="primary">
+                  {song.artist} - {song.title}</Button></li>
                 );
 
                 return(
@@ -219,7 +226,8 @@ export class ListPrinter extends Component{
 
             case "sports":
                 const sportsList = printedList.map((sport) => 
-                <li>{sport.category}{sport.title}</li>
+                <li><Button color="primary">
+                  {sport.category}{sport.title}</Button></li>
                 );
 
                 return(
@@ -249,7 +257,8 @@ export class ListPrinter extends Component{
 
             case "various":
                 const variousList = printedList.map((thing) => 
-                <li>{thing.category}: {thing.title}</li>
+                <li><Button color="primary">
+                  {thing.category}: {thing.title}</Button></li>
                 );
 
                 return(
@@ -279,7 +288,8 @@ export class ListPrinter extends Component{
 
             case "shows":
                 const showsList = printedList.map((show) => 
-                <li>{show.title}</li>
+                <li><Button color="primary">
+                  {show.title}</Button></li>
                 );
 
                 return(
@@ -308,7 +318,8 @@ export class ListPrinter extends Component{
 
             case "videogames":
                 const videoGamesList =  printedList.map((game) => 
-                <li>{game.title}</li>
+                <li><Button color="primary">
+                  {game.title}</Button></li>
                 );
 
                 return(

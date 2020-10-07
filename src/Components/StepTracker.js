@@ -3,13 +3,15 @@ import SubjectForm from './SubjectForm';
 import YearForm from './YearForm';
 import ListPrinter from './ListPrinter';
 import QuantityForm from './QuantityForm';
+import VideoDisplay from './VideoDisplay'
 
 export class StepTracker extends Component {
     state = {
         step: 1,
         year: 1950,
         selectedGenre: '',
-        quantity: ''
+        quantity: '',
+        link: ''
     }
 
     nextStep = () => {
@@ -32,9 +34,9 @@ export class StepTracker extends Component {
 
     render() {
         const { step } = this.state;
-        const { year, selectedGenre, quantity } = this.state;
+        const { year, selectedGenre, quantity, link } = this.state;
     
-        const values = { year, selectedGenre, quantity };
+        const values = { year, selectedGenre, quantity, link };
 
         switch (step) {
             case 1:
@@ -69,10 +71,20 @@ export class StepTracker extends Component {
             case 4:
                 return(
                   <ListPrinter
+                  nextStep={this.nextStep}
                   prevStep={this.prevStep}
                   handleChange={this.handleChange}
                   values={values}
                   />
+                );
+
+            case 5:
+                return(
+                    <VideoDisplay
+                    prevStep={this.prevStep}
+                    handleChange={this.handleChange}
+                    values={values}
+                    />
                 );
 
             default:
