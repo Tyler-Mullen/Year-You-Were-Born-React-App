@@ -4,6 +4,11 @@ import Dialog from '@material-ui/core/Dialog';
 import AppBar from '@material-ui/core/AppBar';
 import { ThemeProvider as MuiThemeProvider } from '@material-ui/core/styles';
 import Button from '@material-ui/core/Button';
+import FormControlLabel from '@material-ui/core/FormControlLabel';
+import Radio from '@material-ui/core/Radio';
+import FormControl from '@material-ui/core/FormControl';
+import FormLabel from '@material-ui/core/FormLabel';
+import RadioGroup from '@material-ui/core/RadioGroup';
 
 import {TopMoviesArray} from '../Data/MoviesList';
 import {YearEndSongsArray} from "../Data/MusicList";
@@ -145,6 +150,7 @@ function findPrintedList(initialList, quantity, genre){
   }
 }
 
+
 export class ListPrinter extends Component{
 
   continue = e => {
@@ -166,8 +172,7 @@ export class ListPrinter extends Component{
         switch(values.selectedGenre){
             case "movies":
                 const movieList = printedList.map((movie) =>
-                <li><Button color="primary">
-                  {movie.title}</Button></li>
+                <li><FormControlLabel value={movie.link} control={<Radio />} label={movie.title} /> </li>
                 );
 
                 return(
@@ -180,13 +185,24 @@ export class ListPrinter extends Component{
                 >
                   <AppBar />
                   
+                  <FormControl component="fieldset">
+                  <FormLabel component="legend">Which one would you like to view.</FormLabel>
+                  <RadioGroup aria-label="link" name="link1" onChange={handleChange('selectedLink')}>
                   <ol>{movieList}</ol>
+                  </RadioGroup>
+                  </FormControl>
       
                   <Button
                     color="secondary"
                     variant="contained"
                     onClick={this.back}
                   >Back</Button>
+
+              <Button
+                color="primary"
+                variant="contained"
+                onClick={this.continue}
+              >Continue</Button>
       
                 </Dialog>
               </>
@@ -196,8 +212,7 @@ export class ListPrinter extends Component{
 
             case "songs":
                 const songList = printedList.map((song) => 
-                <li><Button color="primary">
-                  {song.artist} - {song.title}</Button></li>
+                <li><FormControlLabel value={song.link} control={<Radio />} label={song.artist + " - " + song.title} /> </li>
                 );
 
                 return(
@@ -210,13 +225,24 @@ export class ListPrinter extends Component{
                 >
                   <AppBar />
                   
-                  <ol>{songList}</ol>
+                  <FormControl component="fieldset">
+                  <FormLabel component="legend">Which one would you like to view.</FormLabel>
+                  <RadioGroup aria-label="link" name="link1" onChange={handleChange('selectedLink')}>
+                  <ul>{songList}</ul>
+                  </RadioGroup>
+                  </FormControl>
       
                   <Button
                     color="secondary"
                     variant="contained"
                     onClick={this.back}
                   >Back</Button>
+
+              <Button
+                color="primary"
+                variant="contained"
+                onClick={this.continue}
+              >Continue</Button>
       
                 </Dialog>
               </>
@@ -226,8 +252,7 @@ export class ListPrinter extends Component{
 
             case "sports":
                 const sportsList = printedList.map((sport) => 
-                <li><Button color="primary">
-                  {sport.category}{sport.title}</Button></li>
+                <li><FormControlLabel value={sport.link} control={<Radio />} label={sport.category + sport.title} /> </li>
                 );
 
                 return(
@@ -240,13 +265,24 @@ export class ListPrinter extends Component{
                 >
                   <AppBar />
                   
-                 <ul>{sportsList}</ul>
+                  <FormControl component="fieldset">
+                  <FormLabel component="legend">Which one would you like to view.</FormLabel>
+                  <RadioGroup aria-label="link" name="link1" onChange={handleChange('selectedLink')}>
+                  <ul>{sportsList}</ul>
+                  </RadioGroup>
+                  </FormControl>
       
                   <Button
                     color="secondary"
                     variant="contained"
                     onClick={this.back}
                   >Back</Button>
+
+              <Button
+                color="primary"
+                variant="contained"
+                onClick={this.continue}
+              >Continue</Button>
       
                 </Dialog>
               </>
@@ -257,8 +293,7 @@ export class ListPrinter extends Component{
 
             case "various":
                 const variousList = printedList.map((thing) => 
-                <li><Button color="primary">
-                  {thing.category}: {thing.title}</Button></li>
+                <li><FormControlLabel value={thing.link} control={<Radio />} label={thing.category + ": " + thing.title} /> </li>
                 );
 
                 return(
@@ -271,13 +306,24 @@ export class ListPrinter extends Component{
                 >
                   <AppBar />
                   
+                  <FormControl component="fieldset">
+                  <FormLabel component="legend">Which one would you like to view.</FormLabel>
+                  <RadioGroup aria-label="link" name="link1" onChange={handleChange('selectedLink')}>
                   <ul>{variousList}</ul>
+                  </RadioGroup>
+                  </FormControl>
 
                   <Button
                     color="secondary"
                     variant="contained"
                     onClick={this.back}
                   >Back</Button>
+
+              <Button
+                color="primary"
+                variant="contained"
+                onClick={this.continue}
+              >Continue</Button>
       
                 </Dialog>
               </>
@@ -288,8 +334,7 @@ export class ListPrinter extends Component{
 
             case "shows":
                 const showsList = printedList.map((show) => 
-                <li><Button color="primary">
-                  {show.title}</Button></li>
+                <li><FormControlLabel value={show.link} control={<Radio />} label={show.title} /> </li>
                 );
 
                 return(
@@ -302,13 +347,24 @@ export class ListPrinter extends Component{
                 >
                   <AppBar />
                   
+                  <FormControl component="fieldset">
+                  <FormLabel component="legend">Which one would you like to view.</FormLabel>
+                  <RadioGroup aria-label="link" name="link1" onChange={handleChange('selectedLink')}>
                   <ol>{showsList}</ol>
+                  </RadioGroup>
+                  </FormControl>
       
                   <Button
                     color="secondary"
                     variant="contained"
                     onClick={this.back}
                   >Back</Button>
+
+                <Button
+                color="primary"
+                variant="contained"
+                onClick={this.continue}
+              >Continue</Button>
       
                 </Dialog>
               </>
@@ -318,8 +374,7 @@ export class ListPrinter extends Component{
 
             case "videogames":
                 const videoGamesList =  printedList.map((game) => 
-                <li><Button color="primary">
-                  {game.title}</Button></li>
+                <li><FormControlLabel value={game.link} control={<Radio />} label={game.title} /></li>
                 );
 
                 return(
@@ -332,13 +387,24 @@ export class ListPrinter extends Component{
                 >
                   <AppBar />
                   
+                  <FormControl component="fieldset">
+                  <FormLabel component="legend">Which one would you like to view.</FormLabel>
+                  <RadioGroup aria-label="link" name="link1" onChange={handleChange('selectedLink')}>
                   <ul>{videoGamesList}</ul>
+                  </RadioGroup>
+                  </FormControl>
       
                   <Button
                     color="secondary"
                     variant="contained"
                     onClick={this.back}
                   >Back</Button>
+
+              <Button
+                color="primary"
+                variant="contained"
+                onClick={this.continue}
+              >Continue</Button>
       
                 </Dialog>
               </>

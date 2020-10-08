@@ -4,6 +4,7 @@ import Dialog from '@material-ui/core/Dialog';
 import { ThemeProvider as MuiThemeProvider } from '@material-ui/core/styles';
 import AppBar from '@material-ui/core/AppBar';
 import Button from '@material-ui/core/Button';
+import { isCompositeComponent } from 'react-dom/test-utils';
 
 export class VideoDisplay extends Component {
     back = e => {
@@ -13,7 +14,7 @@ export class VideoDisplay extends Component {
 
     render(){
         const { values, handleChange } = this.props;
-
+        console.log(values)
         return(
             <MuiThemeProvider>
               <>
@@ -23,6 +24,11 @@ export class VideoDisplay extends Component {
                   maxWidth='sm'
                 >
                   <AppBar />
+
+                  <ReactPlayer
+                  url={values.selectedLink}
+                  controls="true"
+                  />
                   
       
                   <Button
