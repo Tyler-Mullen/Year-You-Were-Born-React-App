@@ -790,7 +790,7 @@ const TopSports1991 = [
     {category: 'Super Bowl Winner: ', title: 'Washington Redskins', link: ''},
     {category: 'Super Bowl Runner-Up: ', title: 'Buffalo Bills', link: ''},
     {category: 'AFC Championship Runner-Up: ', title: 'Denver Broncos', link: ''},
-    {category: 'NFC Championship Runner-Up: ', title: 'Detroit Lions', link: '',
+    {category: 'NFC Championship Runner-Up: ', title: 'Detroit Lions', link: ''},
     {category: 'Stanley Cup Winner: ', title: 'Pittsburgh Penguins', link: ''},
     {category: 'Stanley Cup Runner-Up: ', title: 'Minnesota North Stars', link: ''},
     {category: 'Princes of Wales Conference Finals Runner-Up ', title: 'Boston Bruins', link: ''},

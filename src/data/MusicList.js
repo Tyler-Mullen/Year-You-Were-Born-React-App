@@ -1,5 +1,5 @@
 const YearEndSongs1950 = [
-    {id: 1, artist: 'Gordon Jenkins & The Weavers', title: 'Goodnight Irene', link: ''},
+    {id: 1, artist: 'Gordon Jenkins & The Weavers', title: 'Goodnight Irene', link: 'https://www.youtube.com/watch?v=saykpHOm5fc'},
     {id: 2, artist: 'Nat King Cole', title: 'Mona Lisa', link: ''},
     {id: 3, artist: 'Anton Karas', title: 'Third Man Theme', link: ''},
     {id: 4, artist: 'Gary & Bing Crosby', title: 'Sams Song', link: ''},
@@ -27,7 +27,7 @@ const YearEndSongs1950 = [
 ];
 
 const YearEndSongs1951 = [
-    {id: 1, artist: 'Nat King Cole', title: 'Too Young', link: ''},
+    {id: 1, artist: 'Nat King Cole', title: 'Too Young', link: 'https://www.youtube.com/watch?v=KaFtsqU2V6U'},
     {id: 2, artist: 'Tony Bennett', title: 'Because of You', link: ''},
     {id: 3, artist: 'Les Ford & Mary Ford', title: 'How High the Moon', link: ''},
     {id: 4, artist: 'Rosemary Clooney', title: 'Come on-a My House', link: ''},
@@ -55,7 +55,7 @@ const YearEndSongs1951 = [
 ];
 
 const YearEndSongs1952 = [
-    {id: 1, artist: 'Leroy Anderson', title: 'Blue Tango', link: ''},
+    {id: 1, artist: 'Leroy Anderson', title: 'Blue Tango', link: 'https://www.youtube.com/watch?v=0YEsJpKsbBU'},
     {id: 2, artist: 'Kay Starr', title: 'Wheel of Fortune', link: ''},
     {id: 3, artist: 'Johnnie Ray & The Four Lads', title: 'Cry', link: ''},
     {id: 4, artist: 'Jo Stafford', title: 'You Belong to Me', link: ''},
@@ -83,7 +83,7 @@ const YearEndSongs1952 = [
 ];
 
 const YearEndSongs1953 = [
-    {id: 1, artist: 'Percy Faith', title: 'The Song from Moulin Rouge', link: ''},
+    {id: 1, artist: 'Percy Faith', title: 'The Song from Moulin Rouge', link: 'https://www.youtube.com/watch?v=LPDF2ORPOFQ'},
     {id: 2, artist: 'Les Paul & Mary Ford', title: 'Vaya con Dios', link: ''},
     {id: 3, artist: 'Patti Page', title: '(How Much Is) That Doggie in the Window?', link: ''},
     {id: 4, artist: 'Eddie Fisher', title: 'Im Walking Behind You', link: ''},
@@ -111,7 +111,7 @@ const YearEndSongs1953 = [
 ];
 
 const YearEndSongs1954 = [
-    {id: 1, artist: 'Kitty Kallen', title: 'Little Things Mean a Lot', link: ''},
+    {id: 1, artist: 'Kitty Kallen', title: 'Little Things Mean a Lot', link: 'https://www.youtube.com/watch?v=2C7SzKv2uLU'},
     {id: 2, artist: 'Perry Como', title: 'Wanted', link: ''},
     {id: 3, artist: 'Rosemary Clooney', title: 'Hey There', link: ''},
     {id: 4, artist: 'The Crew-Cuts', title: 'Sh-Boom', link: ''},
@@ -139,7 +139,7 @@ const YearEndSongs1954 = [
 ];
 
 const YearEndSongs1955 = [
-    {id: 1, artist: 'Perez Prado', title: 'Cherry Pink and Apple Blossom White', link: ''},
+    {id: 1, artist: 'Perez Prado', title: 'Cherry Pink and Apple Blossom White', link: 'https://www.youtube.com/watch?v=zj64NlRnpDY'},
     {id: 2, artist: 'Bill Haley & His Comets', title: 'Rock Around the Clock', link: ''},
     {id: 3, artist: 'Mitch Miller', title: 'The Yellow Rose of Texas', link: ''},
     {id: 4, artist: 'Roger Williams', title: 'Autumn Leaves', link: ''},
@@ -167,7 +167,7 @@ const YearEndSongs1955 = [
 ];
 
 const YearEndSongs1956 = [
-    {id: 1, artist: 'Elvis Presley', title: 'Heartbreak Hotel', link: ''},
+    {id: 1, artist: 'Elvis Presley', title: 'Heartbreak Hotel', link: 'https://www.youtube.com/watch?v=e9BLw4W5KU8'},
     {id: 2, artist: 'Elvis Presley', title: 'Dont Be Cruel', link: ''},
     {id: 3, artist: 'Nelson Riddle', title: 'Lisbon Antigua', link: ''},
     {id: 4, artist: 'The Platters', title: 'My Prayer', link: ''},
@@ -195,7 +195,7 @@ const YearEndSongs1956 = [
 ];
 
 const YearEndSongs1957 = [
-    {id: 1, artist: 'Elvis Presley', title: 'All Shook Up', link: ''},
+    {id: 1, artist: 'Elvis Presley', title: 'All Shook Up', link: 'https://www.youtube.com/watch?v=23zLefwiii4'},
     {id: 2, artist: 'Pat Boone', title: 'Love Letters in the Sand', link: ''},
     {id: 3, artist: 'The Diamonds', title: 'Little Darlin', link: ''},
     {id: 4, artist: 'Tab Hunter', title: 'Young Love', link: ''},
@@ -223,7 +223,7 @@ const YearEndSongs1957 = [
 ];
 
 const YearEndSongs1958 = [
-    {id: 1, artist: 'Domenico Modungo', title: 'Volare', link: ''},
+    {id: 1, artist: 'Domenico Modungo', title: 'Volare', link: 'https://www.youtube.com/watch?v=7wWiC0e3b2I'},
     {id: 2, artist: 'The Everly Brothers', title: 'All I Have to Do Is Dream', link: ''},
     {id: 3, artist: 'Elvis Presley', title: 'Dont', link: ''},
     {id: 4, artist: 'David Seville', title: 'Witch Doctor', link: ''},
@@ -251,7 +251,7 @@ const YearEndSongs1958 = [
 ];
 
 const YearEndSongs1959 = [
-    {id: 1, artist: 'Johnny Horton', title: 'The Battle of New Orleans', link: ''},
+    {id: 1, artist: 'Johnny Horton', title: 'The Battle of New Orleans', link: 'https://www.youtube.com/watch?v=VL7XS_8qgXM'},
     {id: 2, artist: 'Bobby Darin', title: 'Mack the Knife', link: ''},
     {id: 3, artist: 'Lloyd Price', title: 'Personality', link: ''},
     {id: 4, artist: 'Frankie Avalon', title: 'Venus', link: ''},
@@ -279,7 +279,7 @@ const YearEndSongs1959 = [
 ];
 
 const YearEndSongs1960 = [
-    {id: 1, artist: 'Percy Faith', title: 'Theme form a Summer Place', link: ''},
+    {id: 1, artist: 'Percy Faith', title: 'Theme form a Summer Place', link: 'https://www.youtube.com/watch?v=tSsiS-v6_6M'},
     {id: 2, artist: 'Jim Reeves', title: 'Hell Have to Go', link: ''},
     {id: 3, artist: 'The Everly Brothers', title: 'Cathys Clown', link: ''},
     {id: 4, artist: 'Johnny Preston', title: 'Running Bear', link: ''},
@@ -307,7 +307,7 @@ const YearEndSongs1960 = [
 ];
 
 const YearEndSongs1961 = [
-    {id: 1, artist: 'Bobby Lewis', title: 'Tossin and Turnin', link: ''},
+    {id: 1, artist: 'Bobby Lewis', title: 'Tossin and Turnin', link: 'https://www.youtube.com/watch?v=gRe9WS2Ag_c'},
     {id: 2, artist: 'Patsy Cline', title: 'I Fall to Pieces', link: ''},
     {id: 3, artist: 'The Highwaymen', title: 'Michael', link: ''},
     {id: 4, artist: 'Roy Orbison', title: 'Crying', link: ''},
@@ -335,7 +335,7 @@ const YearEndSongs1961 = [
 ];
 
 const YearEndSongs1962 = [
-    {id: 1, artist: 'Acker Bilk', title: 'Stranger on the Shore', link: ''},
+    {id: 1, artist: 'Acker Bilk', title: 'Stranger on the Shore', link: 'https://www.youtube.com/watch?v=7jzx664u5DA'},
     {id: 2, artist: 'Ray Charles', title: 'I Cant Stop Loving You', link: ''},
     {id: 3, artist: 'Dee Dee Sharp', title: 'Mashed Potato Time', link: ''},
     {id: 4, artist: 'Bobby Vinton', title: 'Roses Are Red (My Love)', link: ''},
@@ -363,7 +363,7 @@ const YearEndSongs1962 = [
 ];
 
 const YearEndSongs1963 = [
-    {id: 1, artist: 'The Beach Boys', title: 'Surfin U.S.A.', link: ''},
+    {id: 1, artist: 'The Beach Boys', title: 'Surfin U.S.A.', link: 'https://www.youtube.com/watch?v=2s4slliAtQU'},
     {id: 2, artist: 'Skeeter Davis', title: 'The End of the World', link: ''},
     {id: 3, artist: 'The Cascades', title: 'Rhythm of the Rain', link: ''},
     {id: 4, artist: 'The Chiffons', title: 'Hes So Fine', link: ''},
@@ -391,7 +391,7 @@ const YearEndSongs1963 = [
 ];
 
 const YearEndSongs1964 = [
-    {id: 1, artist: 'The Beatles', title: 'I Want to Hold Your Hand', link: ''},
+    {id: 1, artist: 'The Beatles', title: 'I Want to Hold Your Hand', link: 'https://www.youtube.com/watch?v=otrH5hxJ2GE'},
     {id: 2, artist: 'The Beatles', title: 'She Loves You', link: ''},
     {id: 3, artist: 'Louis Armstrong', title: 'Hello, Dolly!', link: ''},
     {id: 4, artist: 'Roy Orbison', title: 'Oh, Pretty Woman', link: ''},
@@ -419,7 +419,7 @@ const YearEndSongs1964 = [
 ];
 
 const YearEndSongs1965 = [
-    {id: 1, artist: 'Sam the Sham and the Pharohs', title: 'Wooly Bully', link: ''},
+    {id: 1, artist: 'Sam the Sham and the Pharohs', title: 'Wooly Bully', link: 'https://www.youtube.com/watch?v=uE_MpQhgtQ8'},
     {id: 2, artist: 'Four Tops', title: 'I Cant Help Myself (Sugar Pie Honey Bunch)', link: ''},
     {id: 3, artist: 'The Rolling Stones', title: '(I Cant Get No) Satisfaction', link: ''},
     {id: 4, artist: 'We Five', title: 'You Were on My Mind', link: ''},
@@ -447,7 +447,7 @@ const YearEndSongs1965 = [
 ];
 
 const YearEndSongs1966 = [
-    {id: 1, artist: 'The Mamas & The Papas', title: 'California Dreamin', link: ''},
+    {id: 1, artist: 'The Mamas & The Papas', title: 'California Dreamin', link: 'https://www.youtube.com/watch?v=N-aK6JnyFmk'},
     {id: 2, artist: '? And the Mysterians', title: '96 Tears', link: ''},
     {id: 3, artist: 'Jimmy Ruffin', title: 'What Becomes of the Brokenhearted', link: ''},
     {id: 4, artist: 'The Monkees', title: 'Last Train to Clarksville', link: ''},
@@ -475,7 +475,7 @@ const YearEndSongs1966 = [
 ];
 
 const YearEndSongs1967 = [
-    {id: 1, artist: 'Lulu', title: 'To Sir With Love', link: ''},
+    {id: 1, artist: 'Lulu', title: 'To Sir With Love', link: 'https://www.youtube.com/watch?v=JOVQ4vAmM7Y'},
     {id: 2, artist: 'The Box Tops', title: 'The Letter', link: ''},
     {id: 3, artist: 'Bobbie Gentry', title: 'Ode to Billie Joe', link: ''},
     {id: 4, artist: 'The Association', title: 'Windy', link: ''},
@@ -503,7 +503,7 @@ const YearEndSongs1967 = [
 ];
 
 const YearEndSongs1968 = [
-    {id: 1, artist: 'The Beatles', title: 'Hey Jude', link: ''},
+    {id: 1, artist: 'The Beatles', title: 'Hey Jude', link: 'https://www.youtube.com/watch?v=7qMls5yxP1w'},
     {id: 2, artist: 'Paul Mauriat', title: 'Love is Blue', link: ''},
     {id: 3, artist: 'Bobby Goldsboro', title: 'Honey', link: ''},
     {id: 4, artist: 'Otis Redding', title: '(Sittin On) The Dock of the Bay', link: ''},
@@ -531,7 +531,7 @@ const YearEndSongs1968 = [
 ];
 
 const YearEndSongs1969 = [
-    {id: 1, artist: 'The Archies', title: 'Sugar, Sugar', link: ''},
+    {id: 1, artist: 'The Archies', title: 'Sugar, Sugar', link: 'https://www.youtube.com/watch?v=JywK_5bT8z0'},
     {id: 2, artist: 'The 5th Dimension', title: 'Aquarius', link: ''},
     {id: 3, artist: 'The Temptations', title: 'I Cant Get Next To You', link: ''},
     {id: 4, artist: 'The Rolling Stones', title: 'Honky Tonk Women', link: ''},
@@ -559,7 +559,7 @@ const YearEndSongs1969 = [
 ];
 
 const YearEndSongs1970 = [
-    {id: 1, artist: 'Simon & Garfunkel', title: 'Bridge Over Troubled Water', link: ''},
+    {id: 1, artist: 'Simon & Garfunkel', title: 'Bridge Over Troubled Water', link: 'https://www.youtube.com/watch?v=4G-YQA_bsOU'},
     {id: 2, artist: 'The Carpenters', title: '(They Long to be) Close to You', link: ''},
     {id: 3, artist: 'The Guess Who', title: 'American Woman', link: ''},
     {id: 4, artist: 'B.J. Thomas', title: 'Raindrops Keep Fallin On My Head', link: ''},
@@ -587,7 +587,7 @@ const YearEndSongs1970 = [
 ];
 
 const YearEndSongs1971 = [
-    {id: 1, artist: 'Three Dog Night', title: 'Joy to the World', link: ''},
+    {id: 1, artist: 'Three Dog Night', title: 'Joy to the World', link: 'https://www.youtube.com/watch?v=pMHZh5XlOVA'},
     {id: 2, artist: 'Rod Stewart', title: 'Maggie May', link: ''},
     {id: 3, artist: 'Carole King', title: 'Its Too Late', link: ''},
     {id: 4, artist: 'The Osmonds', title: 'One Bad Apple', link: ''},
@@ -615,7 +615,7 @@ const YearEndSongs1971 = [
 ];
 
 const YearEndSongs1972 = [
-    {id: 1, artist: 'Roberta Flack', title: 'The First Time I Ever Saw Your Face', link: ''},
+    {id: 1, artist: 'Roberta Flack', title: 'The First Time I Ever Saw Your Face', link: 'https://www.youtube.com/watch?v=VqW-eO3jTVU'},
     {id: 2, artist: 'Gilbert O Sullivan', title: 'Alone Again (Naturally)', link: ''},
     {id: 3, artist: 'Don McLean', title: 'American Pie', link: ''},
     {id: 4, artist: 'Harry Nilsson', title: 'Without You', link: ''},
@@ -643,7 +643,7 @@ const YearEndSongs1972 = [
 ];
 
 const YearEndSongs1973 = [
-    {id: 1, artist: 'Tony Orlando and Dawn', title: 'Tiee A Yellow Ribbon Round the Ole Oak Tree', link: ''},
+    {id: 1, artist: 'Tony Orlando and Dawn', title: 'Tiee A Yellow Ribbon Round the Ole Oak Tree', link: 'https://www.youtube.com/watch?v=7-RlLFxgCkk'},
     {id: 2, artist: 'Jim Croce', title: 'Bad, Bad Leroy Brown', link: ''},
     {id: 3, artist: 'Roberta Flack', title: 'Killing Me Softly with His Song', link: ''},
     {id: 4, artist: 'Marvin Gaye', title: 'Lets Get It On', link: ''},
@@ -671,7 +671,7 @@ const YearEndSongs1973 = [
 ];
 
 const YearEndSongs1974 = [
-    {id: 1, artist: 'Barbra Streisand', title: 'The Way We Were', link: ''},
+    {id: 1, artist: 'Barbra Streisand', title: 'The Way We Were', link: 'https://www.youtube.com/watch?v=uBPQT2Ia8fU'},
     {id: 2, artist: 'Terry Jacks', title: 'Seasons in the Sun', link: ''},
     {id: 3, artist: 'Love Unlimited Orchestra', title: 'Loves Theme', link: ''},
     {id: 4, artist: 'Redbone', title: 'Come and Get Your Love', link: ''},
@@ -699,7 +699,7 @@ const YearEndSongs1974 = [
 ];
 
 const YearEndSongs1975 = [
-    {id: 1, artist: 'Captain & Tennille', title: 'Love Will Keep Us Together', link: ''},
+    {id: 1, artist: 'Captain & Tennille', title: 'Love Will Keep Us Together', link: 'https://www.youtube.com/watch?v=_QNEf9oGw8o'},
     {id: 2, artist: 'Glen Campbell', title: 'Rhinestone Cowboy', link: ''},
     {id: 3, artist: 'Elton John', title: 'Philadelphia Freedom', link: ''},
     {id: 4, artist: 'Freddy Fender', title: 'Before the Next Teardrop Falls', link: ''},
@@ -727,7 +727,7 @@ const YearEndSongs1975 = [
 ];
 
 const YearEndSongs1976 = [
-    {id: 1, artist: 'Wings', title: 'Silly Love Songs', link: ''},
+    {id: 1, artist: 'Wings', title: 'Silly Love Songs', link: 'https://www.youtube.com/watch?v=wh15LOppcWQ'},
     {id: 2, artist: 'Elton John & Kiki Dee', title: 'Dont Go Breaking My Heart', link: ''},
     {id: 3, artist: 'Johnnie Taylor', title: 'Disco Lady', link: ''},
     {id: 4, artist: 'The Four Seasons', title: 'December, 1963 (Oh, What a Night)', link: ''},
@@ -755,7 +755,7 @@ const YearEndSongs1976 = [
 ];
 
 const YearEndSongs1977 = [
-    {id: 1, artist: 'Rod Stewart', title: 'Tonights the Night (Gonna Be Alright)', link: ''},
+    {id: 1, artist: 'Rod Stewart', title: 'Tonights the Night (Gonna Be Alright)', link: 'https://www.youtube.com/watch?v=IZr6AE-u2UM'},
     {id: 2, artist: 'Andy Gibb', title: 'I Just Want to Be Your Everything', link: ''},
     {id: 3, artist: 'The Emotions', title: 'Best of My Love', link: ''},
     {id: 4, artist: 'Barbra Streisand', title: 'Evergreen (Love Theme from A Star Is Born)', link: ''},
@@ -783,7 +783,7 @@ const YearEndSongs1977 = [
 ];
 
 const YearEndSongs1978 = [
-    {id: 1, artist: 'Andy Gibb', title: 'Shadow Dancing', link: ''},
+    {id: 1, artist: 'Andy Gibb', title: 'Shadow Dancing', link: 'https://www.youtube.com/watch?v=7j_yGYU_jUU'},
     {id: 2, artist: 'Bee Gees', title: 'Night Fever', link: ''},
     {id: 3, artist: 'Debby Boone', title: 'You Light Up My Life', link: ''},
     {id: 4, artist: 'Bee Gees', title: 'Stayin Alive', link: ''},
@@ -811,7 +811,7 @@ const YearEndSongs1978 = [
 ];
 
 const YearEndSongs1979 = [
-    {id: 1, artist: 'The Knack', title: 'My Sharona', link: ''},
+    {id: 1, artist: 'The Knack', title: 'My Sharona', link: 'https://www.youtube.com/watch?v=ZR-3r5Z9kqw'},
     {id: 2, artist: 'Donna Summer', title: 'Bad Girls', link: ''},
     {id: 3, artist: 'Chic', title: 'Le Freak', link: ''},
     {id: 4, artist: 'Rod Stewart', title: 'Da Ya Think Im Sexy?', link: ''},
@@ -839,7 +839,7 @@ const YearEndSongs1979 = [
 ];
 
 const YearEndSongs1980 = [
-    {id: 1, artist: 'Blondie', title: 'Call Me', link: ''},
+    {id: 1, artist: 'Blondie', title: 'Call Me', link: 'https://www.youtube.com/watch?v=StKVS0eI85I'},
     {id: 2, artist: 'Pink Floyd', title: 'Another Brick in the Wall, Part II', link: ''},
     {id: 3, artist: 'Olivia Newton John', title: 'Magic', link: ''},
     {id: 4, artist: 'Michael Jackson', title: 'Rock with You', link: ''},
@@ -867,7 +867,7 @@ const YearEndSongs1980 = [
 ];
 
 const YearEndSongs1981 = [
-    {id: 1, artist: 'Kim Carnes', title: 'Bette Davis Eyes', link: ''},
+    {id: 1, artist: 'Kim Carnes', title: 'Bette Davis Eyes', link: 'https://www.youtube.com/watch?v=EPOIS5taqA8'},
     {id: 2, artist: 'Diana Ross & Lionel Richie', title: 'Endless Love', link: ''},
     {id: 3, artist: 'Kenny Rogers', title: 'Lady', link: ''},
     {id: 4, artist: 'John Lennon', title: '(Just Like) Starting Over', link: ''},
@@ -895,7 +895,7 @@ const YearEndSongs1981 = [
 ];
 
 const YearEndSongs1982 = [
-    {id: 1, artist: 'Olivia Newton-John', title: 'Physical', link: ''},
+    {id: 1, artist: 'Olivia Newton-John', title: 'Physical', link: 'https://www.youtube.com/watch?v=vWz9VN40nCA'},
     {id: 2, artist: 'Survivor', title: 'Eye of the Tiger', link: ''},
     {id: 3, artist: 'Joan Jett & The Blackhearts', title: 'I Love Rock n Roll', link: ''},
     {id: 4, artist: 'Paul McCartney and Stevie Wonder', title: 'Ebony and Ivory', link: ''},
@@ -923,7 +923,7 @@ const YearEndSongs1982 = [
 ];
 
 const YearEndSongs1983 = [
-    {id: 1, artist: 'The Police', title: 'Every Breath You Take', link: ''},
+    {id: 1, artist: 'The Police', title: 'Every Breath You Take', link: 'https://www.youtube.com/watch?v=OMOGaugKpzs'},
     {id: 2, artist: 'Michael Jackson', title: 'Billie Jean', link: ''},
     {id: 3, artist: 'Irene Cara', title: 'Flashdance... What a Feeling', link: ''},
     {id: 4, artist: 'Men at Work', title: 'Down Under', link: ''},
@@ -951,7 +951,7 @@ const YearEndSongs1983 = [
 ];
 
 const YearEndSongs1984 = [
-    {id: 1, artist: 'Prince', title: 'When Doves Cry', link: ''},
+    {id: 1, artist: 'Prince', title: 'When Doves Cry', link: 'https://www.youtube.com/watch?v=UG3VcCAlUgE'},
     {id: 2, artist: 'Tina Turner', title: 'Whats Love Got to Do With it', link: ''},
     {id: 3, artist: 'Paul McCartney and Michael Jackson', title: 'Say Say Say', link: ''},
     {id: 4, artist: 'Kenny Loggins', title: 'Footloose', link: ''},
@@ -979,7 +979,7 @@ const YearEndSongs1984 = [
 ];
 
 const YearEndSongs1985 = [
-    {id: 1, artist: 'George Michael', title: 'Careless Whisper', link: ''},
+    {id: 1, artist: 'George Michael', title: 'Careless Whisper', link: 'https://www.youtube.com/watch?v=izGwDsrQ1eQ'},
     {id: 2, artist: 'Madonna', title: 'Like a Virgin', link: ''},
     {id: 3, artist: 'Wham!', title: 'Wake Me Up Before You Go-Go', link: ''},
     {id: 4, artist: 'Foreigner', title: 'I Want to Know What Love Is', link: ''},
@@ -1007,7 +1007,7 @@ const YearEndSongs1985 = [
 ];
 
 const YearEndSongs1986 = [
-    {id: 1, artist: 'Dionne and Friends', title: 'Thats What Friends Are For', link: ''},
+    {id: 1, artist: 'Dionne and Friends', title: 'Thats What Friends Are For', link: 'https://www.youtube.com/watch?v=HyTpu6BmE88'},
     {id: 2, artist: 'Lionel Richie', title: 'Say You, Say Me', link: ''},
     {id: 3, artist: 'Klymaxx', title: 'I Miss You', link: ''},
     {id: 4, artist: 'Patti LaBelle and Michael McDonald', title: 'On My Own', link: ''},
@@ -1035,7 +1035,7 @@ const YearEndSongs1986 = [
 ];
 
 const YearEndSongs1987 = [
-    {id: 1, artist: 'The Bangles', title: 'Walk like an Egyptian', link: ''},
+    {id: 1, artist: 'The Bangles', title: 'Walk like an Egyptian', link: 'https://www.youtube.com/watch?v=Cv6tuzHUuuk'},
     {id: 2, artist: 'Heart', title: 'Alone', link: ''},
     {id: 3, artist: 'Gregory Abbott', title: 'Shake You Down', link: ''},
     {id: 4, artist: 'Whitney Houston', title: 'I Wanna Dance with Somebody (Who Loves Me)', link: ''},
@@ -1063,7 +1063,7 @@ const YearEndSongs1987 = [
 ];
 
 const YearEndSongs1988 = [
-    {id: 1, artist: 'George Michael', title: 'Faith', link: ''},
+    {id: 1, artist: 'George Michael', title: 'Faith', link: 'https://www.youtube.com/watch?v=6ISHYtccEs0'},
     {id: 2, artist: 'INXS', title: 'Need You Tonight', link: ''},
     {id: 3, artist: 'George Harrison', title: 'Got My Mind Set On You', link: ''},
     {id: 4, artist: 'Rick Astley', title: 'Never Gonna Give You Up', link: ''},
@@ -1091,7 +1091,7 @@ const YearEndSongs1988 = [
 ];
 
 const YearEndSongs1989 = [
-    {id: 1, artist: 'Chicago', title: 'Look Away', link: ''},
+    {id: 1, artist: 'Chicago', title: 'Look Away', link: 'https://www.youtube.com/watch?v=2uKLTtVqQpE'},
     {id: 2, artist: 'Bobby Brown', title: 'My Prerogative', link: ''},
     {id: 3, artist: 'Poison', title: 'Every Rose Has Its Thorn', link: ''},
     {id: 4, artist: 'Paula Abdul', title: 'Straight Up', link: ''},
@@ -1119,7 +1119,7 @@ const YearEndSongs1989 = [
 ];
 
 const YearEndSongs1990 = [
-    {id: 1, artist: 'Wilson Phillips', title: 'Hold On', link: ''},
+    {id: 1, artist: 'Wilson Phillips', title: 'Hold On', link: 'https://www.youtube.com/watch?v=uIbXvaE39wM'},
     {id: 2, artist: 'Roxette', title: 'It Must Have Been Love', link: ''},
     {id: 3, artist: 'Sinead O Connor', title: 'Nothing Compares 2 U', link: ''},
     {id: 4, artist: 'Bell Biv DeVoe', title: 'Poison', link: ''},
@@ -1147,7 +1147,7 @@ const YearEndSongs1990 = [
 ];
 
 const YearEndSongs1991 = [
-    {id: 1, artist: 'Bryan Adams', title: '(Everything I Do) I Do It for You', link: ''},
+    {id: 1, artist: 'Bryan Adams', title: '(Everything I Do) I Do It for You', link: 'https://www.youtube.com/watch?v=Y0pdQU87dc8'},
     {id: 2, artist: 'Color Me Badd', title: 'I Wanna Sex You Up', link: ''},
     {id: 3, artist: 'C+C Music Factory', title: 'Gonna Make You Sweat (Everybody Dance Now)', link: ''},
     {id: 4, artist: 'Paula Abdul', title: 'Rush Rush', link: ''},
@@ -1175,7 +1175,7 @@ const YearEndSongs1991 = [
 ];
 
 const YearEndSongs1992 = [
-    {id: 1, artist: 'Boyz II Men', title: 'End of the Road', link: ''},
+    {id: 1, artist: 'Boyz II Men', title: 'End of the Road', link: 'https://www.youtube.com/watch?v=zDKO6XYXioc'},
     {id: 2, artist: 'Sir Mix-a-Lot', title: 'Baby Got Back', link: ''},
     {id: 3, artist: 'Kris Kross', title: 'Jump', link: ''},
     {id: 4, artist: 'Vanessa Williams', title: 'Save the Best For Last', link: ''},
@@ -1203,7 +1203,7 @@ const YearEndSongs1992 = [
 ];
 
 const YearEndSongs1993 = [
-    {id: 1, artist: 'Whitney Houston', title: 'I Will Always Love You', link: ''},
+    {id: 1, artist: 'Whitney Houston', title: 'I Will Always Love You', link: 'https://www.youtube.com/watch?v=3JWTaaS7LdU'},
     {id: 2, artist: 'Tag Team', title: 'Whoomp! (There It Is)', link: ''},
     {id: 3, artist: 'UB40', title: 'Cant Help Falling In Love', link: ''},
     {id: 4, artist: 'Janet Jackson', title: 'Thats the Way Love Goes', link: ''},
@@ -1231,7 +1231,7 @@ const YearEndSongs1993 = [
 ];
 
 const YearEndSongs1994 = [
-    {id: 1, artist: 'Ace of Base', title: 'The Sign', link: ''},
+    {id: 1, artist: 'Ace of Base', title: 'The Sign', link: 'https://www.youtube.com/watch?v=iqu132vTl5Y'},
     {id: 2, artist: 'All-4-One', title: 'I Swear', link: ''},
     {id: 3, artist: 'Boyz II Men', title: 'Ill Make Love to You', link: ''},
     {id: 4, artist: 'Celine Dion', title: 'The Power of Love', link: ''},
@@ -1259,7 +1259,7 @@ const YearEndSongs1994 = [
 ];
 
 const YearEndSongs1995 = [
-    {id: 1, artist: 'Coolio', title: 'Gangstas Paradise', link: ''},
+    {id: 1, artist: 'Coolio', title: 'Gangstas Paradise', link: 'https://www.youtube.com/watch?v=fPO76Jlnz6c'},
     {id: 2, artist: 'TLC', title: 'Waterfalls', link: ''},
     {id: 3, artist: 'TLC', title: 'Creep', link: ''},
     {id: 4, artist: 'Seal', title: 'Kiss From a Rose', link: ''},
@@ -1287,7 +1287,7 @@ const YearEndSongs1995 = [
 ];
 
 const YearEndSongs1996 = [
-    {id: 1, artist: 'Los Del Rio', title: 'Macarena', link: ''},
+    {id: 1, artist: 'Los Del Rio', title: 'Macarena', link: 'https://www.youtube.com/watch?v=zWaymcVmJ-A'},
     {id: 2, artist: 'Mariah Carey and Boyz II Men', title: 'One Sweet Day', link: ''},
     {id: 3, artist: 'Celine Dion', title: 'Because You Loved Me', link: ''},
     {id: 4, artist: 'The Tony Rich Project', title: 'Nobody Knows', link: ''},
@@ -1315,7 +1315,7 @@ const YearEndSongs1996 = [
 ];
 
 const YearEndSongs1997 = [
-    {id: 1, artist: 'Elton John', title: 'Candle in the Wind 1997', link: ''},
+    {id: 1, artist: 'Elton John', title: 'Candle in the Wind 1997', link: 'https://www.youtube.com/watch?v=sxb0GeS4gL8'},
     {id: 2, artist: 'Jewel', title: 'You Were Meant for Me', link: ''},
     {id: 3, artist: 'Puff Daddy', title: 'Ill Be Missing You', link: ''},
     {id: 4, artist: 'Toni Braxton', title: 'Un-break My Heart', link: ''},
@@ -1343,7 +1343,7 @@ const YearEndSongs1997 = [
 ];
 
 const YearEndSongs1998 = [
-    {id: 1, artist: 'Next', title: 'Too Close', link: ''},
+    {id: 1, artist: 'Next', title: 'Too Close', link: 'https://www.youtube.com/watch?v=kwEZRPkAAu8'},
     {id: 2, artist: 'Brandy and Monica', title: 'The Body Is Mine', link: ''},
     {id: 3, artist: 'Shania Twain', title: 'Youre Still the One', link: ''},
     {id: 4, artist: 'Savage Garden', title: 'Truly Madly Deeply', link: ''},
@@ -1371,7 +1371,7 @@ const YearEndSongs1998 = [
 ];
 
 const YearEndSongs1999 = [
-    {id: 1, artist: 'Cher', title: 'Believe', link: ''},
+    {id: 1, artist: 'Cher', title: 'Believe', link: 'https://www.youtube.com/watch?v=nZXRV4MezEw'},
     {id: 2, artist: 'TLC', title: 'No Scrubs', link: ''},
     {id: 3, artist: 'Monica', title: 'Angel of Mine', link: ''},
     {id: 4, artist: 'Whitney Houston', title: 'Heartbreak Hotel', link: ''},
@@ -1399,7 +1399,7 @@ const YearEndSongs1999 = [
 ];
 
 const YearEndSongs2000 = [
-    {id: 1, artist: 'Faith Hill', title: 'Breathe', link: ''},
+    {id: 1, artist: 'Faith Hill', title: 'Breathe', link: 'https://www.youtube.com/watch?v=yCmsZUN4r_s'},
     {id: 2, artist: 'Santana', title: 'Smooth', link: ''},
     {id: 3, artist: 'Santana', title: 'Maria Maria', link: ''},
     {id: 4, artist: 'Joe', title: 'I Wanna Know', link: ''},
@@ -1427,7 +1427,7 @@ const YearEndSongs2000 = [
 ];
 
 const YearEndSongs2001 = [
-    {id: 1, artist: 'Lifehouse', title: 'Hanging by a Moment', link: ''},
+    {id: 1, artist: 'Lifehouse', title: 'Hanging by a Moment', link: 'https://www.youtube.com/watch?v=tPnK39ax_AM'},
     {id: 2, artist: 'Alicia Keys', title: 'Fallin', link: ''},
     {id: 3, artist: 'Janet Jackson', title: 'All for You', link: ''},
     {id: 4, artist: 'Train', title: 'Drops of Jupiter', link: ''},
@@ -1455,7 +1455,7 @@ const YearEndSongs2001 = [
 ];
 
 const YearEndSongs2002 = [
-    {id: 1, artist: 'Nickelback', title: 'How You Remind Me', link: ''},
+    {id: 1, artist: 'Nickelback', title: 'How You Remind Me', link: 'https://www.youtube.com/watch?v=Aiay8I5IPB8'},
     {id: 2, artist: 'Ashanti', title: 'Foolish', link: ''},
     {id: 3, artist: 'Nelly', title: 'Hot in Herre', link: ''},
     {id: 4, artist: 'Nelly', title: 'Dilemma', link: ''},
@@ -1483,7 +1483,7 @@ const YearEndSongs2002 = [
 ];
 
 const YearEndSongs2003 = [
-    {id: 1, artist: '50 Cent', title: 'In Da Club', link: ''},
+    {id: 1, artist: '50 Cent', title: 'In Da Club', link: 'https://www.youtube.com/watch?v=5qm8PH4xAss'},
     {id: 2, artist: 'R. Kelly', title: 'Ignition (Remix)', link: ''},
     {id: 3, artist: 'Sean Paul', title: 'Get Busy', link: ''},
     {id: 4, artist: 'Beyonce', title: 'Crazy in Love', link: ''},
@@ -1511,7 +1511,7 @@ const YearEndSongs2003 = [
 ];
 
 const YearEndSongs2004 = [
-    {id: 1, artist: 'Usher', title: 'Yeah!', link: ''},
+    {id: 1, artist: 'Usher', title: 'Yeah!', link: 'https://www.youtube.com/watch?v=GxBSyx85Kp8'},
     {id: 2, artist: 'Usher', title: 'Burn', link: ''},
     {id: 3, artist: 'Alicia Keys', title: 'If I Aint Got You', link: ''},
     {id: 4, artist: 'Maroon 5', title: 'This Love', link: ''},
@@ -1539,7 +1539,7 @@ const YearEndSongs2004 = [
 ];
 
 const YearEndSongs2005 = [
-    {id: 1, artist: 'Mariah Carey', title: 'We Belong Together', link: ''},
+    {id: 1, artist: 'Mariah Carey', title: 'We Belong Together', link: 'https://www.youtube.com/watch?v=0habxsuXW4g'},
     {id: 2, artist: 'Gwen Stefani', title: 'Hollaback Girl', link: ''},
     {id: 3, artist: 'Mario', title: 'Let Me Love You', link: ''},
     {id: 4, artist: 'Kelly Clarkson', title: 'Since U Been Gone', link: ''},
@@ -1567,7 +1567,7 @@ const YearEndSongs2005 = [
 ];
 
 const YearEndSongs2006 = [
-    {id: 1, artist: 'Daniel Powter', title: 'Bad Day', link: ''},
+    {id: 1, artist: 'Daniel Powter', title: 'Bad Day', link: 'https://www.youtube.com/watch?v=gH476CxJxfg'},
     {id: 2, artist: 'Sean Paul', title: 'Temperature', link: ''},
     {id: 3, artist: 'Nelly Furtado', title: 'Promiscuous', link: ''},
     {id: 4, artist: 'James Blunt', title: 'Youre Beautiful', link: ''},
@@ -1595,7 +1595,7 @@ const YearEndSongs2006 = [
 ];
 
 const YearEndSongs2007 = [
-    {id: 1, artist: 'Beyonce', title: 'Irreplaceable', link: ''},
+    {id: 1, artist: 'Beyonce', title: 'Irreplaceable', link: 'https://www.youtube.com/watch?v=2EwViQxSJJQ'},
     {id: 2, artist: 'Rihanna', title: 'Umbrella', link: ''},
     {id: 3, artist: 'Gwen Stefani', title: 'The Sweet Escape', link: ''},
     {id: 4, artist: 'Fergie', title: 'Big Girls Dont Cry', link: ''},
@@ -1623,7 +1623,7 @@ const YearEndSongs2007 = [
 ];
 
 const YearEndSongs2008 = [
-    {id: 1, artist: 'Flo Rida', title: 'Low', link: ''},
+    {id: 1, artist: 'Flo Rida', title: 'Low', link: 'https://www.youtube.com/watch?v=U2waT9TxPU0'},
     {id: 2, artist: 'Leona Lewis', title: 'Bleeding Love', link: ''},
     {id: 3, artist: 'Alicia Keys', title: 'No One', link: ''},
     {id: 4, artist: 'Lil Wayne', title: 'Lollipop', link: ''},
@@ -1651,7 +1651,7 @@ const YearEndSongs2008 = [
 ];
 
 const YearEndSongs2009 = [
-    {id: 1, artist: 'The Black Eyed Peas', title: 'Boom Boom Pow', link: ''},
+    {id: 1, artist: 'The Black Eyed Peas', title: 'Boom Boom Pow', link: 'https://www.youtube.com/watch?v=4m48GqaOz90'},
     {id: 2, artist: 'Lady Gaga', title: 'Poker Face', link: ''},
     {id: 3, artist: 'Lady Gaga', title: 'Just Dance', link: ''},
     {id: 4, artist: 'The Black Eyed Peas', title: 'I Gotta Feeling', link: ''},
@@ -1679,7 +1679,7 @@ const YearEndSongs2009 = [
 ];
 
 const YearEndSongs2010 = [
-    {id: 1, artist: 'Kesha', title: 'Tik Tok', link: ''},
+    {id: 1, artist: 'Kesha', title: 'Tik Tok', link: 'https://www.youtube.com/watch?v=iP6XpLQM2Cs'},
     {id: 2, artist: 'Lady Antebellum', title: 'Need You Know', link: ''},
     {id: 3, artist: 'Train', title: 'Hry, Soul Sister', link: ''},
     {id: 4, artist: 'Katy Perry', title: 'California Gurls', link: ''},
@@ -1707,7 +1707,7 @@ const YearEndSongs2010 = [
 ];
 
 const YearEndSongs2011 = [
-    {id: 1, artist: 'Adele', title: 'Rolling in the Deep', link: ''},
+    {id: 1, artist: 'Adele', title: 'Rolling in the Deep', link: 'https://www.youtube.com/watch?v=rYEDA3JcQqw'},
     {id: 2, artist: 'LMFAO', title: 'Party Rock Anthem', link: ''},
     {id: 3, artist: 'Katy Perry', title: 'Firework', link: ''},
     {id: 4, artist: 'Katy Perry', title: 'E.T.', link: ''},
@@ -1735,7 +1735,7 @@ const YearEndSongs2011 = [
 ];
 
 const YearEndSongs2012 = [
-    {id: 1, artist: 'Gotye', title: 'Somebody That I Used to Know', link: ''},
+    {id: 1, artist: 'Gotye', title: 'Somebody That I Used to Know', link: 'https://www.youtube.com/watch?v=8UVNT4wvIGY'},
     {id: 2, artist: 'Carly Rae Jepsen', title: 'Call Me Maybe', link: ''},
     {id: 3, artist: 'Fun', title: 'We Are Young', link: ''},
     {id: 4, artist: 'Maroon 5', title: 'Payphone', link: ''},
@@ -1763,7 +1763,7 @@ const YearEndSongs2012 = [
 ];
 
 const YearEndSongs2013 = [
-    {id: 1, artist: 'Macklemore & Ryan Lewis', title: 'Thrift Shop', link: ''},
+    {id: 1, artist: 'Macklemore & Ryan Lewis', title: 'Thrift Shop', link: 'https://www.youtube.com/watch?v=QK8mJJJvaes'},
     {id: 2, artist: 'Robin Thicke', title: 'Blurred Lines', link: ''},
     {id: 3, artist: 'Imagine Dragons', title: 'Radioactive', link: ''},
     {id: 4, artist: 'Baauer', title: 'Harlem Shake', link: ''},
@@ -1791,7 +1791,7 @@ const YearEndSongs2013 = [
 ];
 
 const YearEndSongs2014 = [
-    {id: 1, artist: 'Pharrell Williams', title: 'Happy', link: ''},
+    {id: 1, artist: 'Pharrell Williams', title: 'Happy', link: 'https://www.youtube.com/watch?v=ZbZSe6N_BXs'},
     {id: 2, artist: 'Katy Perry', title: 'Dark Horse', link: ''},
     {id: 3, artist: 'John Legend', title: 'All of Me', link: ''},
     {id: 4, artist: 'Iggy Azalea', title: 'Fancy', link: ''},
@@ -1819,7 +1819,7 @@ const YearEndSongs2014 = [
 ];
 
 const YearEndSongs2015 = [
-    {id: 1, artist: 'Mark Ronson', title: 'Uptown Funk', link: ''},
+    {id: 1, artist: 'Mark Ronson', title: 'Uptown Funk', link: 'https://www.youtube.com/watch?v=OPf0YbXqDm0'},
     {id: 2, artist: 'Ed Sheeran', title: 'Thinking Out Loud', link: ''},
     {id: 3, artist: 'Wiz Khalifa', title: 'See You Again', link: ''},
     {id: 4, artist: 'Fetty Wap', title: 'Trap Queen', link: ''},
@@ -1847,7 +1847,7 @@ const YearEndSongs2015 = [
 ];
 
 const YearEndSongs2016 = [
-    {id: 1, artist: 'Justin Bieber', title: 'Love Yourself', link: ''},
+    {id: 1, artist: 'Justin Bieber', title: 'Love Yourself', link: 'https://www.youtube.com/watch?v=oyEuk8j8imI'},
     {id: 2, artist: 'Justin Bieber', title: 'Sorry', link: ''},
     {id: 3, artist: 'Drake', title: 'One Dance', link: ''},
     {id: 4, artist: 'Rihanna', title: 'Work', link: ''},
@@ -1875,7 +1875,7 @@ const YearEndSongs2016 = [
 ];
 
 const YearEndSongs2017 = [
-    {id: 1, artist: 'Ed Sheeran', title: 'Shape Of You', link: ''},
+    {id: 1, artist: 'Ed Sheeran', title: 'Shape Of You', link: 'https://www.youtube.com/watch?v=JGwWNGJdvx8'},
     {id: 2, artist: 'Luis Fonsi and Daddy Yankee', title: 'Despacito (Remix)', link: ''},
     {id: 3, artist: 'Bruno Mars', title: 'Thats What I Like', link: ''},
     {id: 4, artist: 'Kendrick Lamar', title: 'Humble', link: ''},
@@ -1903,7 +1903,7 @@ const YearEndSongs2017 = [
 ];
 
 const YearEndSongs2018 = [
-    {id: 1, artist: 'Drake', title: 'Gods Plan', link: ''},
+    {id: 1, artist: 'Drake', title: 'Gods Plan', link: 'https://www.youtube.com/watch?v=xpVfcZ0ZcFM'},
     {id: 2, artist: 'Ed Sheeran', title: 'Perfect', link: ''},
     {id: 3, artist: 'Bebe Rexha', title: 'Meant to Be', link: ''},
     {id: 4, artist: 'Camila Cabello', title: 'Havana', link: ''},
@@ -1931,7 +1931,7 @@ const YearEndSongs2018 = [
 ];
 
 const YearEndSongs2019 = [
-    {id: 1, artist: 'Lil Nas X', title: 'Old Town Road', link: ''},
+    {id: 1, artist: 'Lil Nas X', title: 'Old Town Road', link: 'https://www.youtube.com/watch?v=r7qovpFAGrQ'},
     {id: 2, artist: 'Post Malone and Swae Lee', title: 'Sunflower', link: ''},
     {id: 3, artist: 'Halsey', title: 'Without Me', link: ''},
     {id: 4, artist: 'Billie Ellish', title: 'Bad Guy', link: ''},
