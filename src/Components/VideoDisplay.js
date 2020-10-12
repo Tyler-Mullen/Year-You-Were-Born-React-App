@@ -14,8 +14,10 @@ export class VideoDisplay extends Component {
 
     render(){
         const { values, handleChange } = this.props;
-        console.log(values)
-        return(
+        console.log(values.selectedLink)
+
+        if(values.selectedLink.includes("youtube")){
+          return(
             <MuiThemeProvider>
               <>
                 <Dialog
@@ -40,7 +42,33 @@ export class VideoDisplay extends Component {
                 </Dialog>
               </>
             </MuiThemeProvider>
-        );
+          );
+        }
+
+        else{
+          return(
+            <MuiThemeProvider>
+              <>
+                <Dialog
+                  open
+                  fullWidth
+                  maxWidth='sm'
+                >
+                  <AppBar />
+                  
+                  <p align="center">Sorry we don't have a video for that at this time.</p>
+      
+                  <Button
+                    color="secondary"
+                    variant="contained"
+                    onClick={this.back}
+                  >Back</Button>
+      
+                </Dialog>
+              </>
+            </MuiThemeProvider>
+          );
+        }
     }
 }
 

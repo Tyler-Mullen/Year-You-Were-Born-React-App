@@ -228,7 +228,7 @@ export class ListPrinter extends Component{
                   <FormControl component="fieldset">
                   <FormLabel component="legend">Which one would you like to view.</FormLabel>
                   <RadioGroup aria-label="link" name="link1" onChange={handleChange('selectedLink')}>
-                  <ul>{songList}</ul>
+                  <ol>{songList}</ol>
                   </RadioGroup>
                   </FormControl>
       
