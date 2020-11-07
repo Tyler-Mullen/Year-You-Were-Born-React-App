@@ -870,7 +870,7 @@ const TopSports1995 = [
     {category: 'Stanley Cup Winner: ', title: 'New Jersey Devils', link: 'https://www.youtube.com/watch?v=9E_6mKj8mso'},
     {category: 'Stanley Cup Runner-Up: ', title: 'Detroit Red Wings', link: 'https://www.youtube.com/watch?v=3KLc1SSdb7I'},
     {category: 'Western Conference Finals Runner-Up ', title: 'Chicago Blackhawks', link: '7'},
-    {category: 'Eastern Conference Finals Runner-Up ', title: 'Detroit Red Wings', link: '8'},
+    {category: 'Eastern Conference Finals Runner-Up ', title: 'Philadelphia Flyers', link: '8'},
 ];
 
 const TopSports1996 = [
