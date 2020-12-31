@@ -280,73 +280,73 @@ const TopNBA2005 = [
 ];
 
 const TopNBA2006 = [
-    {category: 'NBA Championship Series Winner: ', title: 'Indianapolis Colts', link: ''},
-    {category: 'NBA Championship Series Runner-Up: ', title: 'Chicago Bears', link: ''},
+    {category: 'NBA Championship Series Winner: ', title: 'Miami Heat', link: ''},
+    {category: 'NBA Championship Series Runner-Up: ', title: 'Dallas Mavericks', link: ''},
 ];
 
 const TopNBA2007 = [
-    {category: 'NBA Championship Series Winner: ', title: 'New York Giants', link: ''},
-    {category: 'NBA Championship Series Runner-Up: ', title: 'New England Patriots', link: ''},
+    {category: 'NBA Championship Series Winner: ', title: 'San Antonio Spurs', link: ''},
+    {category: 'NBA Championship Series Runner-Up: ', title: 'Cleveland Cavaliers', link: ''},
 ];
 
 const TopNBA2008 = [
-    {category: 'NBA Championship Series Winner: ', title: 'Pittsburgh Steelers', link: ''},
-    {category: 'NBA Championship Series Runner-Up: ', title: 'Arizona Cardinals', link: ''},
+    {category: 'NBA Championship Series Winner: ', title: 'Boston Celtics', link: ''},
+    {category: 'NBA Championship Series Runner-Up: ', title: 'Los Angeles Lakers', link: ''},
 ];
 
 const TopNBA2009 = [
-    {category: 'NBA Championship Series Winner: ', title: 'New Orleans Saints', link: ''},
-    {category: 'NBA Championship Series Runner-Up: ', title: 'Indianapolis Colts', link: ''},
+    {category: 'NBA Championship Series Winner: ', title: 'Los Angeles Lakers', link: ''},
+    {category: 'NBA Championship Series Runner-Up: ', title: 'Orlando Magic', link: ''},
 ];
 
 const TopNBA2010 = [
-    {category: 'NBA Championship Series Winner: ', title: 'Green Bay Packers', link: ''},
-    {category: 'NBA Championship Series Runner-Up: ', title: 'Pittsburgh Steelers', link: ''},
+    {category: 'NBA Championship Series Winner: ', title: 'Los Angeles Lakers', link: ''},
+    {category: 'NBA Championship Series Runner-Up: ', title: 'Boston Celtics', link: ''},
 ];
 
 const TopNBA2011 = [
-    {category: 'NBA Championship Series Winner: ', title: 'New York Giants', link: ''},
-    {category: 'NBA Championship Series Runner-Up: ', title: 'New England Patriots', link: ''},
+    {category: 'NBA Championship Series Winner: ', title: 'Dallas Mavericks', link: ''},
+    {category: 'NBA Championship Series Runner-Up: ', title: 'Miami Heat', link: ''},
 ];
 
 const TopNBA2012 = [
-    {category: 'NBA Championship Series Winner: ', title: 'Baltimore Ravens', link: ''},
-    {category: 'NBA Championship Series Runner-Up: ', title: 'San Francisco 49ers', link: ''},
+    {category: 'NBA Championship Series Winner: ', title: 'Miami Heat', link: ''},
+    {category: 'NBA Championship Series Runner-Up: ', title: 'Oklahoma City Thunder', link: ''},
 ];
 
 const TopNBA2013 = [
-    {category: 'NBA Championship Series Winner: ', title: 'Seattle Seahawks', link: ''},
-    {category: 'NBA Championship Series Runner-Up: ', title: 'Denver Broncos', link: ''},
+    {category: 'NBA Championship Series Winner: ', title: 'Miami Heat', link: ''},
+    {category: 'NBA Championship Series Runner-Up: ', title: 'San Antonio Spurs', link: ''},
 ];
 
 const TopNBA2014 = [
-    {category: 'NBA Championship Series Winner: ', title: 'New England Patriots', link: ''},
-    {category: 'NBA Championship Series Runner-Up: ', title: 'Seattle Seahawks', link: ''},
+    {category: 'NBA Championship Series Winner: ', title: 'San Antonio Spurs', link: ''},
+    {category: 'NBA Championship Series Runner-Up: ', title: 'Miami Heat', link: ''},
 ];
 
 const TopNBA2015 = [
-    {category: 'NBA Championship Series Winner: ', title: 'Denver Broncos', link: ''},
-    {category: 'NBA Championship Series Runner-Up: ', title: 'Carolina Panthers', link: ''},
+    {category: 'NBA Championship Series Winner: ', title: 'Golden State Warriors', link: ''},
+    {category: 'NBA Championship Series Runner-Up: ', title: 'Cleveland Cavaliers', link: ''},
 ];
 
 const TopNBA2016 = [
-    {category: 'NBA Championship Series Winner: ', title: 'New England Patriots', link: ''},
-    {category: 'NBA Championship Series Runner-Up: ', title: 'Atlanta Falcons', link: ''},
+    {category: 'NBA Championship Series Winner: ', title: 'Cleveland Cavaliers', link: ''},
+    {category: 'NBA Championship Series Runner-Up: ', title: 'Golden State Warriors', link: ''},
 ];
 
 const TopNBA2017 = [
-    {category: 'NBA Championship Series Winner: ', title: 'Philadelphia Eagles', link: ''},
-    {category: 'NBA Championship Series Runner-Up: ', title: 'New England Patriots', link: ''},
+    {category: 'NBA Championship Series Winner: ', title: 'Golden State Warriors', link: ''},
+    {category: 'NBA Championship Series Runner-Up: ', title: 'Cleveland Cavaliers', link: ''},
 ];
 
 const TopNBA2018 = [
-    {category: 'NBA Championship Series Winner: ', title: 'New England Patriots', link: ''},
-    {category: 'NBA Championship Series Runner-Up: ', title: 'Los Angeles Rams', link: ''},
+    {category: 'NBA Championship Series Winner: ', title: 'Golden State Warriors', link: ''},
+    {category: 'NBA Championship Series Runner-Up: ', title: 'Cleveland Cavaliers', link: ''},
 ];
 
 const TopNBA2019 = [
-    {category: 'NBA Championship Series Winner: ', title: 'Kansas City Chiefs', link: ''},
-    {category: 'NBA Championship Series Runner-Up: ', title: 'San Francisco 49ers', link: ''},
+    {category: 'NBA Championship Series Winner: ', title: 'Toronto Raptors', link: ''},
+    {category: 'NBA Championship Series Runner-Up: ', title: 'Golden State Warriors', link: ''},
 ];
 
 const TopNBADefault = "Something has gone wrong rendering this list";
