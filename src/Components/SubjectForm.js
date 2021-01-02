@@ -41,7 +41,7 @@ export class SubjectForm extends React.Component {
               <RadioGroup aria-label="genre" name="genre1" onChange={handleChange('selectedGenre')}>
               <FormControlLabel value="movies" control={<Radio />} label="Movies" />
               <FormControlLabel value="songs" control={<Radio />} label="Songs" />
-              <FormControlLabel value="sports" control={<Radio />} label="Sports Champions" />
+              <FormControlLabel value="sports" control={<Radio />} label="Sports" />
               <FormControlLabel value="various" control={<Radio />} label="Various #1 Things" />
               <FormControlLabel value="shows" control={<Radio />} label="TV Shows" />
               <FormControlLabel value="videogames" control={<Radio />} label="Video Games" />
@@ -81,7 +81,7 @@ export class SubjectForm extends React.Component {
               <RadioGroup aria-label="genre" name="genre1" onChange={handleChange('selectedGenre')}>
               <FormControlLabel value="movies" disabled control={<Radio />} label="Movies" />
               <FormControlLabel value="songs" control={<Radio />} label="Songs" />
-              <FormControlLabel value="sports" control={<Radio />} label="Sports Champions" />
+              <FormControlLabel value="sports" control={<Radio />} label="Sports" />
               <FormControlLabel value="various" control={<Radio />} label="Various #1 Things" />
               <FormControlLabel value="shows" control={<Radio />} label="TV Shows" />
               <FormControlLabel value="videogames" control={<Radio />} label="Video Games" />
@@ -121,7 +121,7 @@ export class SubjectForm extends React.Component {
               <RadioGroup aria-label="genre" name="genre1" onChange={handleChange('selectedGenre')}>
               <FormControlLabel value="movies" disabled control={<Radio />} label="Movies" />
               <FormControlLabel value="songs" control={<Radio />} label="Songs" />
-              <FormControlLabel value="sports" control={<Radio />} label="Sports Champions" />
+              <FormControlLabel value="sports" control={<Radio />} label="Sports" />
               <FormControlLabel value="various" control={<Radio />} label="Various #1 Things" />
               <FormControlLabel value="shows" control={<Radio />} label="TV Shows" />
               <FormControlLabel value="videogames" disabled control={<Radio />} label="Video Games" />
@@ -161,7 +161,7 @@ export class SubjectForm extends React.Component {
               <RadioGroup aria-label="genre" name="genre1" onChange={handleChange('selectedGenre')}>
               <FormControlLabel value="movies" disabled control={<Radio />} label="Movies" />
               <FormControlLabel value="songs" control={<Radio />} label="Songs" />
-              <FormControlLabel value="sports" control={<Radio />} label="Sports Champions" />
+              <FormControlLabel value="sports" control={<Radio />} label="Sports" />
               <FormControlLabel value="various" disabled control={<Radio />} label="Various #1 Things" />
               <FormControlLabel value="shows" control={<Radio />} label="TV Shows" />
               <FormControlLabel value="videogames" disabled control={<Radio />} label="Video Games" />

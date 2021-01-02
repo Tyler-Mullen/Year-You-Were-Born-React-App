@@ -11,14 +11,20 @@ import FormLabel from '@material-ui/core/FormLabel';
 import RadioGroup from '@material-ui/core/RadioGroup';
 
 import {TopMoviesArray} from '../Data/MoviesList';
-import {YearEndSongsArray} from "../Data/MusicList";
-import {TopSportsArray} from '../Data/SportsList';  
+import {YearEndSongsArray} from "../Data/MusicList"; 
 import {TopThingsArray} from '../Data/TopList';  
 import {TopTvShowsArray} from '../Data/TvShowsList';
 import {VideoGamesArray} from '../Data/VideoGamesList';
+
+import {TopMLBArray} from '../Data/MLBList';
+import {TopNBAArray} from '../Data/NBAList';
+import {TopNFLArray} from '../Data/NFLList';
+import {TopNHLArray} from '../Data/NHLList';
+import {TopCFBArray} from '../Data/CFBList';
+import {TopCBBArray} from '../Data/CBBList';
 import { Collapse } from '@material-ui/core';
 
-function findInitialList(year, genre){
+function findInitialList(year, genre, quantity){
     switch(genre){
         case "movies":
             for(var i = 0; i < TopMoviesArray.length; i++){
@@ -37,12 +43,58 @@ function findInitialList(year, genre){
             break;
 
         case "sports":
-            for(var i = 0; i < TopSportsArray.length; i++){
-                if(year == (1950 + i)){
-                    return TopSportsArray[i];
-                }
+
+        var sport = quantity;
+
+            switch(sport){
+              case "MLB":
+                for(var i = 0; i <TopMLBArray.length; i++){
+                  if(year == (1950 + i)){
+                      return TopMLBArray[i];
+                  }
+              }
+              break;
+
+              case "NBA":
+                for(var i = 0; i < TopNBAArray.length; i++){
+                  if(year == (1950 + i)){
+                      return TopNBAArray[i];
+                  }
+              }
+              break;
+
+              case "NFL":
+                for(var i = 0; i < TopNFLArray.length; i++){
+                  if(year == (1950 + i)){
+                      return TopNFLArray[i];
+                  }
+              }
+              break;
+
+              case "NHL":
+                for(var i = 0; i < TopNHLArray.length; i++){
+                  if(year == (1950 + i)){
+                      return TopNHLArray[i];
+                  }
+              }
+              break;
+
+              case "CFB":
+                for(var i = 0; i < TopCFBArray.length; i++){
+                  if(year == (1950 + i)){
+                      return TopCFBArray[i];
+                  }
+              }
+              break;
+
+              case "CBB":
+                for(var i = 0; i < TopCBBArray.length; i++){
+                  if(year == (1950 + i)){
+                      return TopCBBArray[i];
+                  }
+              }
+              break;
             }
-            break;
 
         case "various":
             for(var i = 0; i < TopThingsArray.length; i++){
@@ -90,36 +142,7 @@ function findPrintedList(initialList, quantity, genre){
             break;
 
         case "sports":
-            if(quantity == 3){
-
-              for(var i = 0; i < initialList.length; i++){
-                setUpList.push(initialList[i]);
-              }
-
-              return setUpList;
-            }
-
-            else if(quantity == 2){
-
-              for(var i = 0; i < initialList.length; i++){
-                if(i % 4 === 0  || i % 4 === 1){
-                  setUpList.push(initialList[i]);
-                }
-              }
-
-              return setUpList;
-            }
-
-            else{
-          
-              for(var i = 0; i < initialList.length; i++){
-                if(i % 4 === 0){
-                  setUpList.push(initialList[i]);
-                }
-              }
-
-              return setUpList;
-            }
+            return initialList;
 
             break;
 
@@ -166,7 +189,7 @@ export class ListPrinter extends Component{
 
     render(){
         const { values, handleChange } = this.props;
-        const initialList = findInitialList(values.year,values.selectedGenre);
+        const initialList = findInitialList(values.year,values.selectedGenre, values.quantity);
         const printedList = findPrintedList(initialList, values.quantity, values.selectedGenre); 
         
         switch(values.selectedGenre){

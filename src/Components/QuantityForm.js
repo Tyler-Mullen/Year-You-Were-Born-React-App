@@ -151,12 +151,15 @@ export class QuantityForm extends React.Component {
                       >
                         <AppBar />
         
-                        <InputLabel id="label">Who do you want to see?</InputLabel>
+                        <InputLabel id="label">What sport do you want to see?</InputLabel>
                         <Select labelId="label" id="select" 
                         onChange={handleChange('quantity')} defaultValue={values.quantity}>
-                        <MenuItem value="1">Championship Winners</MenuItem>
-                        <MenuItem value="2">Champions and Finalists</MenuItem>
-                        <MenuItem value="3">Champions, Finalists and Semi-Finalists</MenuItem>
+                        <MenuItem value="MLB">MLB</MenuItem>
+                        <MenuItem value="NBA">NBA</MenuItem>
+                        <MenuItem value="NFL">NFL</MenuItem>
+                        <MenuItem value="NHL">NHL</MenuItem>
+                        <MenuItem value="CFB">College Football</MenuItem>
+                        <MenuItem value="CBB">College Basketball</MenuItem>
         
                         </Select>
     
