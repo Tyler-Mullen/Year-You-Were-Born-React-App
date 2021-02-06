@@ -1,74 +1,74 @@
 const TopNFL1950 = [
-    {category: 'NFL Championship Game Winner: ', title: 'Cleveland Browns', link: ''},
-    {category: 'NFL Championship Game Runner-Up: ', title: 'Los Angeles Rams', link: ''},
-    {category: 'Passing Leader: ', title: 'Bobby Layne', link: ''},
-    {category: 'Rushing Leader: ', title: 'Marion Motley', link: ''},
-    {category: 'Receiving Leader: ', title: 'Tom Fears', link: ''},
+    {category: 'NFL Championship Game Winner: ', title: 'Cleveland Browns', link: '1'},
+    {category: 'NFL Championship Game Runner-Up: ', title: 'Los Angeles Rams', link: '2'},
+    {category: 'Passing Leader: ', title: 'Bobby Layne', link: '3'},
+    {category: 'Rushing Leader: ', title: 'Marion Motley', link: '4'},
+    {category: 'Receiving Leader: ', title: 'Tom Fears', link: '5'},
 ];
 
 const TopNFL1951 = [
-    {category: 'NFL Championship Game Winner: ', title: 'Los Angeles Rams', link: ''},
-    {category: 'NFL Championship Game Runner-Up: ', title: 'Cleveland Browns', link: ''},
-    {category: 'Passing Leader: ', title: 'Bobby Layne', link: ''},
-    {category: 'Rushing Leader: ', title: 'Eddie Price', link: ''},
-    {category: 'Receiving Leader: ', title: 'Elroy Hirsch', link: ''},
+    {category: 'NFL Championship Game Winner: ', title: 'Los Angeles Rams', link: '1'},
+    {category: 'NFL Championship Game Runner-Up: ', title: 'Cleveland Browns', link: '2'},
+    {category: 'Passing Leader: ', title: 'Bobby Layne', link: '3'},
+    {category: 'Rushing Leader: ', title: 'Eddie Price', link: '4'},
+    {category: 'Receiving Leader: ', title: 'Elroy Hirsch', link: '5'},
 ];
 
 const TopNFL1952 = [
-    {category: 'NFL Championship Game Winner: ', title: 'Detroit Lions', link: ''},
-    {category: 'NFL Championship Game Runner-Up: ', title: 'Cleveland Browns', link: ''},
-    {category: 'Passing Leader: ', title: 'Otto Graham', link: ''},
-    {category: 'Rushing Leader: ', title: 'Dan Towler', link: ''},
-    {category: 'Receiving Leader: ', title: 'Billy Howton', link: ''},
+    {category: 'NFL Championship Game Winner: ', title: 'Detroit Lions', link: '1'},
+    {category: 'NFL Championship Game Runner-Up: ', title: 'Cleveland Browns', link: '2'},
+    {category: 'Passing Leader: ', title: 'Otto Graham', link: '3'},
+    {category: 'Rushing Leader: ', title: 'Dan Towler', link: '4'},
+    {category: 'Receiving Leader: ', title: 'Billy Howton', link: '5'},
 ];
 
 const TopNFL1953 = [
-    {category: 'NFL Championship Game Winner: ', title: 'Detroit Lions', link: ''},
-    {category: 'NFL Championship Game Runner-Up: ', title: 'Cleveland Browns', link: ''},
-    {category: 'Passing Leader: ', title: 'Otto Graham', link: ''},
-    {category: 'Rushing Leader: ', title: 'Joe Perry', link: ''},
-    {category: 'Receiving Leader: ', title: 'Pete Pihos', link: ''},
+    {category: 'NFL Championship Game Winner: ', title: 'Detroit Lions', link: '1'},
+    {category: 'NFL Championship Game Runner-Up: ', title: 'Cleveland Browns', link: '2'},
+    {category: 'Passing Leader: ', title: 'Otto Graham', link: '3'},
+    {category: 'Rushing Leader: ', title: 'Joe Perry', link: '4'},
+    {category: 'Receiving Leader: ', title: 'Pete Pihos', link: '5'},
 ];
 
 const TopNFL1954 = [
-    {category: 'NFL Championship Game Winner: ', title: 'Cleveland Browns', link: ''},
-    {category: 'NFL Championship Game Runner-Up: ', title: 'Detroit Lions', link: ''},
-    {category: 'Passing Leader: ', title: 'Norm Van Brocklin', link: ''},
-    {category: 'Rushing Leader: ', title: 'Joe Perry', link: ''},
-    {category: 'Receiving Leader: ', title: 'Bob Boyd', link: ''},
+    {category: 'NFL Championship Game Winner: ', title: 'Cleveland Browns', link: '1'},
+    {category: 'NFL Championship Game Runner-Up: ', title: 'Detroit Lions', link: '2'},
+    {category: 'Passing Leader: ', title: 'Norm Van Brocklin', link: '3'},
+    {category: 'Rushing Leader: ', title: 'Joe Perry', link: '4'},
+    {category: 'Receiving Leader: ', title: 'Bob Boyd', link: '5'},
 ];
 
 const TopNFL1955 = [
-    {category: 'NFL Championship Game Winner: ', title: 'Cleveland Browns', link: ''},
-    {category: 'NFL Championship Game Runner-Up: ', title: 'Los Angeles Rams', link: ''},
-    {category: 'Passing Leader: ', title: 'Jim Finks', link: ''},
-    {category: 'Rushing Leader: ', title: 'Alan Ameche', link: ''},
-    {category: 'Receiving Leader: ', title: 'Pete Pihos', link: ''},
+    {category: 'NFL Championship Game Winner: ', title: 'Cleveland Browns', link: '1'},
+    {category: 'NFL Championship Game Runner-Up: ', title: 'Los Angeles Rams', link: '2'},
+    {category: 'Passing Leader: ', title: 'Jim Finks', link: '3'},
+    {category: 'Rushing Leader: ', title: 'Alan Ameche', link: '4'},
+    {category: 'Receiving Leader: ', title: 'Pete Pihos', link: '5'},
 ];
 
 const TopNFL1956 = [
-    {category: 'NFL Championship Game Winner: ', title: 'New York Giants', link: ''},
-    {category: 'NFL Championship Game Runner-Up: ', title: 'Chicago Bears', link: ''},
-    {category: 'Passing Leader: ', title: 'Tobin Rote', link: ''},
-    {category: 'Rushing Leader: ', title: 'Rick Casares', link: ''},
-    {category: 'Receiving Leader: ', title: 'Billy Howton', link: ''},
+    {category: 'NFL Championship Game Winner: ', title: 'New York Giants', link: '1'},
+    {category: 'NFL Championship Game Runner-Up: ', title: 'Chicago Bears', link: '2'},
+    {category: 'Passing Leader: ', title: 'Tobin Rote', link: '3'},
+    {category: 'Rushing Leader: ', title: 'Rick Casares', link: '4'},
+    {category: 'Receiving Leader: ', title: 'Billy Howton', link: '5'},
 ];
 
 const TopNFL1957 = [
-    {category: 'NFL Championship Game Winner: ', title: 'Detroit Lions', link: ''},
-    {category: 'NFL Championship Game Runner-Up: ', title: 'Cleveland Browns', link: ''},
-    {category: 'MVP: ', title: 'Jim Brown', link: ''},
-    {category: 'Offensive Rookie of the Year: ', title: 'Jim Brown', link: ''},
+    {category: 'NFL Championship Game Winner: ', title: 'Detroit Lions', link: '1'},
+    {category: 'NFL Championship Game Runner-Up: ', title: 'Cleveland Browns', link: '2'},
+    {category: 'MVP: ', title: 'Jim Brown', link: '3'},
+    {category: 'Offensive Rookie of the Year: ', title: 'Jim Brown', link: '4'},
     {category: 'Passing Leader: ', title: 'Johnny Unitas', link: ''},
     {category: 'Rushing Leader: ', title: 'Jim Brown', link: ''},
     {category: 'Receiving Leader: ', title: 'Raymond Berry', link: ''},
 ];
 
 const TopNFL1958 = [
-    {category: 'NFL Championship Game Winner: ', title: 'Baltimore Colts', link: ''},
-    {category: 'NFL Championship Game Runner-Up: ', title: 'New York Giants', link: ''},
-    {category: 'MVP: ', title: 'Jim Brown', link: ''},
-    {category: 'Offensive Rookie of the Year: ', title: 'Jimmy Orr', link: ''},
+    {category: 'NFL Championship Game Winner: ', title: 'Baltimore Colts', link: '1'},
+    {category: 'NFL Championship Game Runner-Up: ', title: 'New York Giants', link: '2'},
+    {category: 'MVP: ', title: 'Jim Brown', link: '3'},
+    {category: 'Offensive Rookie of the Year: ', title: 'Jimmy Orr', link: '4'},
     {category: 'Passing Leader: ', title: 'Billy Wade', link: ''},
     {category: 'Rushing Leader: ', title: 'Jim Brown', link: ''},
     {category: 'Receiving Leader: ', title: 'Del Shofner', link: ''},
@@ -76,90 +76,90 @@ const TopNFL1958 = [
 
 
 const TopNFL1959 = [
-    {category: 'NFL Championship Game Winner: ', title: 'Baltimore Colts', link: ''},
-    {category: 'NFL Championship Game Runner-Up: ', title: 'New York Giants', link: ''},
-    {category: 'MVP: ', title: 'Johnny Unitas', link: ''},
-    {category: 'Offensive Rookie of the Year: ', title: 'Boyd Dowler', link: ''},
+    {category: 'NFL Championship Game Winner: ', title: 'Baltimore Colts', link: '1'},
+    {category: 'NFL Championship Game Runner-Up: ', title: 'New York Giants', link: '2'},
+    {category: 'MVP: ', title: 'Johnny Unitas', link: '3'},
+    {category: 'Offensive Rookie of the Year: ', title: 'Boyd Dowler', link: '4'},
     {category: 'Passing Leader: ', title: 'Johnny Unitas', link: ''},
     {category: 'Rushing Leader: ', title: 'Jim Brown', link: ''},
     {category: 'Receiving Leader: ', title: 'Raymond Berry', link: ''},
 ];
 
 const TopNFL1960 = [
-    {category: 'NFL Championship Game Winner: ', title: 'Philadelphia Eagles', link: ''},
-    {category: 'NFL Championship Game Runner-Up: ', title: 'Green Bay Packers', link: ''},
-    {category: 'MVP: ', title: 'Norm Van Brocklin', link: ''},
-    {category: 'Offensive Rookie of the Year: ', title: 'Gail Cogdil', link: ''},
+    {category: 'NFL Championship Game Winner: ', title: 'Philadelphia Eagles', link: '1'},
+    {category: 'NFL Championship Game Runner-Up: ', title: 'Green Bay Packers', link: '2'},
+    {category: 'MVP: ', title: 'Norm Van Brocklin', link: '3'},
+    {category: 'Offensive Rookie of the Year: ', title: 'Gail Cogdil', link: '4'},
     {category: 'Passing Leader: ', title: 'Johnny Unitas', link: ''},
     {category: 'Rushing Leader: ', title: 'Jim Brown', link: ''},
     {category: 'Receiving Leader: ', title: 'Raymond Berry', link: ''},
 ];
 
 const TopNFL1961 = [
-    {category: 'NFL Championship Game Winner: ', title: 'Green Bay Packers', link: ''},
-    {category: 'NFL Championship Game Runner-Up: ', title: 'New York Giants', link: ''},
-    {category: 'MVP: ', title: 'Paul Hornung', link: ''},
-    {category: 'Offensive Rookie of the Year: ', title: 'Mike Ditka', link: ''},
+    {category: 'NFL Championship Game Winner: ', title: 'Green Bay Packers', link: '1'},
+    {category: 'NFL Championship Game Runner-Up: ', title: 'New York Giants', link: '2'},
+    {category: 'MVP: ', title: 'Paul Hornung', link: '3'},
+    {category: 'Offensive Rookie of the Year: ', title: 'Mike Ditka', link: '4'},
     {category: 'Passing Leader: ', title: 'Sonny Jurgensen', link: ''},
     {category: 'Rushing Leader: ', title: 'Jim Brown', link: ''},
     {category: 'Receiving Leader: ', title: 'Tommy McDonald', link: ''},
 ];
 
 const TopNFL1962 = [
-    {category: 'NFL Championship Game Winner: ', title: 'Green Bay Packers', link: ''},
-    {category: 'NFL Championship Game Runner-Up: ', title: 'New York Giants', link: ''},
-    {category: 'MVP: ', title: 'Jim Taylor', link: ''},
-    {category: 'Offensive Rookie of the Year: ', title: 'Ronnie Bull', link: ''},
+    {category: 'NFL Championship Game Winner: ', title: 'Green Bay Packers', link: '1'},
+    {category: 'NFL Championship Game Runner-Up: ', title: 'New York Giants', link: '2'},
+    {category: 'MVP: ', title: 'Jim Taylor', link: '3'},
+    {category: 'Offensive Rookie of the Year: ', title: 'Ronnie Bull', link: '4'},
     {category: 'Passing Leader: ', title: 'Sonny Jurgensen', link: ''},
     {category: 'Rushing Leader: ', title: 'Jim Taylor', link: ''},
     {category: 'Receiving Leader: ', title: 'Bobby Mitchell', link: ''},
 ];
 
 const TopNFL1963 = [
-    {category: 'NFL Championship Game Winner: ', title: 'Chicago Bears', link: ''},
-    {category: 'NFL Championship Game Runner-Up: ', title: 'New York Giants', link: ''},
-    {category: 'MVP: ', title: 'Y.A. Tittle', link: ''},
-    {category: 'Offensive Rookie of the Year: ', title: 'Paul Flatley', link: ''},
+    {category: 'NFL Championship Game Winner: ', title: 'Chicago Bears', link: '1'},
+    {category: 'NFL Championship Game Runner-Up: ', title: 'New York Giants', link: '2'},
+    {category: 'MVP: ', title: 'Y.A. Tittle', link: '3'},
+    {category: 'Offensive Rookie of the Year: ', title: 'Paul Flatley', link: '4'},
     {category: 'Passing Leader: ', title: 'Johnny Unitas', link: ''},
     {category: 'Rushing Leader: ', title: 'Jim Brown', link: ''},
     {category: 'Receiving Leader: ', title: 'Bobby Mitchell', link: ''},
 ];
 
 const TopNFL1964 = [
-    {category: 'NFL Championship Game Winner: ', title: 'Cleveland Browns', link: ''},
-    {category: 'NFL Championship Game Runner-Up: ', title: 'Baltimore Colts', link: ''},
-    {category: 'MVP: ', title: 'Johnny Unitas', link: ''},
-    {category: 'Offensive Rookie of the Year: ', title: 'Charley Taylor', link: ''},
+    {category: 'NFL Championship Game Winner: ', title: 'Cleveland Browns', link: '1'},
+    {category: 'NFL Championship Game Runner-Up: ', title: 'Baltimore Colts', link: '2'},
+    {category: 'MVP: ', title: 'Johnny Unitas', link: '3'},
+    {category: 'Offensive Rookie of the Year: ', title: 'Charley Taylor', link: '4'},
     {category: 'Passing Leader: ', title: 'Charley Johnson', link: ''},
     {category: 'Rushing Leader: ', title: 'Jim Brown', link: ''},
     {category: 'Receiving Leader: ', title: 'Johnny Morris', link: ''},
 ];
 
 const TopNFL1965 = [
-    {category: 'NFL Championship Game Winner: ', title: 'Green Bay Packers', link: ''},
-    {category: 'NFL Championship Game Runner-Up: ', title: 'Cleveland Browns', link: ''},
-    {category: 'MVP: ', title: 'Jim Brown', link: ''},
-    {category: 'Offensive Rookie of the Year: ', title: 'Gale Sayers', link: ''},
+    {category: 'NFL Championship Game Winner: ', title: 'Green Bay Packers', link: '1'},
+    {category: 'NFL Championship Game Runner-Up: ', title: 'Cleveland Browns', link: '2'},
+    {category: 'MVP: ', title: 'Jim Brown', link: '3'},
+    {category: 'Offensive Rookie of the Year: ', title: 'Gale Sayers', link: '4'},
     {category: 'Passing Leader: ', title: 'John Brodie', link: ''},
     {category: 'Rushing Leader: ', title: 'Jim Brown', link: ''},
     {category: 'Receiving Leader: ', title: 'Dave Parks', link: ''},
 ];
 
 const TopNFL1966 = [
-    {category: 'NFL Super Bowl Winner: ', title: 'Green Bay Packers', link: ''},
-    {category: 'NFL Super Bowl Runner-Up: ', title: 'Kansas City Chiefs', link: ''},
-    {category: 'MVP: ', title: 'Bart Starr', link: ''},
-    {category: 'Offensive Rookie of the Year: ', title: 'Johnny Roland', link: ''},
+    {category: 'NFL Super Bowl Winner: ', title: 'Green Bay Packers', link: '1'},
+    {category: 'NFL Super Bowl Runner-Up: ', title: 'Kansas City Chiefs', link: '2'},
+    {category: 'MVP: ', title: 'Bart Starr', link: '3'},
+    {category: 'Offensive Rookie of the Year: ', title: 'Johnny Roland', link: '4'},
     {category: 'Passing Leader: ', title: 'Sonny Jurgensen', link: ''},
     {category: 'Rushing Leader: ', title: 'Gale Sayers', link: ''},
     {category: 'Receiving Leader: ', title: 'Pat Studstill', link: ''},
 ];
 
 const TopNFL1967 = [
-    {category: 'NFL Super Bowl Winner: ', title: 'Green Bay Packers', link: ''},
-    {category: 'NFL Super Bowl Runner-Up: ', title: 'Oakland Raiders', link: ''},
-    {category: 'Passing Leader: ', title: 'Sonny Jurgensen', link: ''},
-    {category: 'MVP: ', title: 'Johnny Unitas', link: ''},
+    {category: 'NFL Super Bowl Winner: ', title: 'Green Bay Packers', link: '1'},
+    {category: 'NFL Super Bowl Runner-Up: ', title: 'Oakland Raiders', link: '2'},
+    {category: 'Passing Leader: ', title: 'Sonny Jurgensen', link: '3'},
+    {category: 'MVP: ', title: 'Johnny Unitas', link: '4'},
     {category: 'Offensive Rookie of the Year: ', title: 'Mel Farr', link: ''},
     {category: 'Defensive Rookie of the Year: ', title: 'Lem Barney', link: ''},
     {category: 'Rushing Leader: ', title: 'Leroy Kelly', link: ''},
@@ -167,10 +167,10 @@ const TopNFL1967 = [
 ];
 
 const TopNFL1968 = [
-    {category: 'NFL Super Bowl Winner: ', title: 'New York Jets', link: ''},
-    {category: 'NFL Super Bowl Runner-Up: ', title: 'Baltimore Colts', link: ''},
-    {category: 'Passing Leader: ', title: 'John Brodie', link: ''},
-    {category: 'MVP: ', title: 'Earl Morrall', link: ''},
+    {category: 'NFL Super Bowl Winner: ', title: 'New York Jets', link: '1'},
+    {category: 'NFL Super Bowl Runner-Up: ', title: 'Baltimore Colts', link: '2'},
+    {category: 'Passing Leader: ', title: 'John Brodie', link: '3'},
+    {category: 'MVP: ', title: 'Earl Morrall', link: '4'},
     {category: 'Offensive Rookie of the Year: ', title: 'Earl McCullouch', link: ''},
     {category: 'Defensive Rookie of the Year: ', title: 'Claude Humphrey', link: ''},
     {category: 'Rushing Leader: ', title: 'Leroy Kelly', link: ''},
@@ -178,10 +178,10 @@ const TopNFL1968 = [
 ];
 
 const TopNFL1969 = [
-    {category: 'NFL Super Bowl Winner: ', title: 'Kansas City Chiefs', link: ''},
-    {category: 'NFL Super Bowl Runner-Up: ', title: 'Minnesota Vikings', link: ''},
-    {category: 'MVP: ', title: 'Roman Gabriel', link: ''},
-    {category: 'Offensive Rookie of the Year: ', title: 'Calvin Hill', link: ''},
+    {category: 'NFL Super Bowl Winner: ', title: 'Kansas City Chiefs', link: '1'},
+    {category: 'NFL Super Bowl Runner-Up: ', title: 'Minnesota Vikings', link: '2'},
+    {category: 'MVP: ', title: 'Roman Gabriel', link: '3'},
+    {category: 'Offensive Rookie of the Year: ', title: 'Calvin Hill', link: '4'},
     {category: 'Defensive Rookie of the Year: ', title: 'Joe Greene', link: ''},
     {category: 'Passing Leader: ', title: 'Sonny Jurgensen', link: ''},
     {category: 'Rushing Leader: ', title: 'Gale Sayers', link: ''},
@@ -189,10 +189,10 @@ const TopNFL1969 = [
 ];
 
 const TopNFL1970 = [
-    {category: 'NFL Super Bowl Winner: ', title: 'Baltimore Colts', link: ''},
-    {category: 'NFL Super Bowl Runner-Up: ', title: 'Dallas Cowboys', link: ''},
-    {category: 'MVP: ', title: 'John Brodie', link: ''},
-    {category: 'Offensive Rookie of the Year: ', title: 'Dennis Shaw', link: ''},
+    {category: 'NFL Super Bowl Winner: ', title: 'Baltimore Colts', link: '1'},
+    {category: 'NFL Super Bowl Runner-Up: ', title: 'Dallas Cowboys', link: '2'},
+    {category: 'MVP: ', title: 'John Brodie', link: '3'},
+    {category: 'Offensive Rookie of the Year: ', title: 'Dennis Shaw', link: '4'},
     {category: 'Defensive Rookie of the Year: ', title: 'Bruce Taylor', link: ''},
     {category: 'Passing Leader: ', title: 'John Brodie', link: ''},
     {category: 'Rushing Leader: ', title: 'Larry Brown', link: ''},
@@ -200,10 +200,10 @@ const TopNFL1970 = [
 ];
 
 const TopNFL1971 = [
-    {category: 'NFL Super Bowl Winner: ', title: 'Dallas Cowboys', link: ''},
-    {category: 'NFL Super Bowl Runner-Up: ', title: 'Miami Dolphins', link: ''},
-    {category: 'MVP: ', title: 'Alan Page', link: ''},
-    {category: 'Offensive Rookie of the Year: ', title: 'John Brockington', link: ''},
+    {category: 'NFL Super Bowl Winner: ', title: 'Dallas Cowboys', link: '1'},
+    {category: 'NFL Super Bowl Runner-Up: ', title: 'Miami Dolphins', link: '2'},
+    {category: 'MVP: ', title: 'Alan Page', link: '3'},
+    {category: 'Offensive Rookie of the Year: ', title: 'John Brockington', link: '4'},
     {category: 'Defensive Player of the Year: ', title: 'Alan Page', link: ''},
     {category: 'Defensive Rookie of the Year: ', title: 'Isiah Robertson', link: ''},
     {category: 'Passing Leader: ', title: 'John Hadl', link: ''},
@@ -212,10 +212,10 @@ const TopNFL1971 = [
 ];
 
 const TopNFL1972 = [
-    {category: 'NFL Super Bowl Winner: ', title: 'Miami Dolphins', link: ''},
-    {category: 'NFL Super Bowl Runner-Up: ', title: 'Washington Redskins', link: ''},
-    {category: 'MVP: ', title: 'Larry Brown', link: ''},
-    {category: 'Offensive Rookie of the Year: ', title: 'Franco Harris', link: ''},
+    {category: 'NFL Super Bowl Winner: ', title: 'Miami Dolphins', link: '1'},
+    {category: 'NFL Super Bowl Runner-Up: ', title: 'Washington Redskins', link: '2'},
+    {category: 'MVP: ', title: 'Larry Brown', link: '3'},
+    {category: 'Offensive Rookie of the Year: ', title: 'Franco Harris', link: '4'},
     {category: 'Defensive Player of the Year: ', title: 'Joe Greene', link: ''},
     {category: 'Defensive Rookie of the Year: ', title: 'Willie Buchanon', link: ''},
     {category: 'Passing Leader: ', title: 'Joe Namath', link: ''},
@@ -224,10 +224,10 @@ const TopNFL1972 = [
 ];
 
 const TopNFL1973 = [
-    {category: 'NFL Super Bowl Winner: ', title: 'Miami Dolphins', link: ''},
-    {category: 'NFL Super Bowl Runner-Up: ', title: 'Minnesota Vikings', link: ''},
-    {category: 'MVP: ', title: 'O.J. Simpson', link: ''},
-    {category: 'Offensive Rookie of the Year: ', title: 'Chuck Foreman', link: ''},
+    {category: 'NFL Super Bowl Winner: ', title: 'Miami Dolphins', link: '1'},
+    {category: 'NFL Super Bowl Runner-Up: ', title: 'Minnesota Vikings', link: '2'},
+    {category: 'MVP: ', title: 'O.J. Simpson', link: '3'},
+    {category: 'Offensive Rookie of the Year: ', title: 'Chuck Foreman', link: '4'},
     {category: 'Defensive Player of the Year: ', title: 'Dick Anderson', link: ''},
     {category: 'Defensive Rookie of the Year: ', title: 'Wally Chambers', link: ''},
     {category: 'Passing Leader: ', title: 'Roman Gabriel', link: ''},
@@ -236,10 +236,10 @@ const TopNFL1973 = [
 ];
 
 const TopNFL1974 = [
-    {category: 'NFL Super Bowl Winner: ', title: 'Pittsburgh Steelers', link: ''},
-    {category: 'NFL Super Bowl Runner-Up: ', title: 'Minnesota Vikings', link: ''},
-    {category: 'MVP: ', title: 'Ken Stabler', link: ''},
-    {category: 'Offensive Rookie of the Year: ', title: 'Don Woods', link: ''},
+    {category: 'NFL Super Bowl Winner: ', title: 'Pittsburgh Steelers', link: '1'},
+    {category: 'NFL Super Bowl Runner-Up: ', title: 'Minnesota Vikings', link: '2'},
+    {category: 'MVP: ', title: 'Ken Stabler', link: '3'},
+    {category: 'Offensive Rookie of the Year: ', title: 'Don Woods', link: '4'},
     {category: 'Defensive Player of the Year: ', title: 'Joe Greene', link: ''},
     {category: 'Defensive Rookie of the Year: ', title: 'Jack Lambert', link: ''},
     {category: 'Passing Leader: ', title: 'Ken Anderson', link: ''},
@@ -248,10 +248,10 @@ const TopNFL1974 = [
 ];
 
 const TopNFL1975 = [
-    {category: 'NFL Super Bowl Winner: ', title: 'Pittsburgh Steelers', link: ''},
-    {category: 'NFL Super Bowl Runner-Up: ', title: 'Dallas Cowboys', link: ''},
-    {category: 'MVP: ', title: 'Fran Tarkenton', link: ''},
-    {category: 'Offensive Rookie of the Year: ', title: 'Mike Thomas', link: ''},
+    {category: 'NFL Super Bowl Winner: ', title: 'Pittsburgh Steelers', link: '1'},
+    {category: 'NFL Super Bowl Runner-Up: ', title: 'Dallas Cowboys', link: '2'},
+    {category: 'MVP: ', title: 'Fran Tarkenton', link: '3'},
+    {category: 'Offensive Rookie of the Year: ', title: 'Mike Thomas', link: '4'},
     {category: 'Defensive Player of the Year: ', title: 'Robert Brazile', link: ''},
     {category: 'Defensive Rookie of the Year: ', title: 'Mel Blount', link: ''},
     {category: 'Passing Leader: ', title: 'Ken Anderson', link: ''},
@@ -260,10 +260,10 @@ const TopNFL1975 = [
 ];
 
 const TopNFL1976 = [
-    {category: 'NFL Super Bowl Winner: ', title: 'Oakland Raiders', link: ''},
-    {category: 'NFL Super Bowl Runner-Up: ', title: 'Minnesota Vikings', link: ''},
-    {category: 'MVP: ', title: 'Bert Jones', link: ''},
-    {category: 'Offensive Rookie of the Year: ', title: 'Sammy White', link: ''},
+    {category: 'NFL Super Bowl Winner: ', title: 'Oakland Raiders', link: '1'},
+    {category: 'NFL Super Bowl Runner-Up: ', title: 'Minnesota Vikings', link: '2'},
+    {category: 'MVP: ', title: 'Bert Jones', link: '3'},
+    {category: 'Offensive Rookie of the Year: ', title: 'Sammy White', link: '4'},
     {category: 'Defensive Player of the Year: ', title: 'Mike Haynes', link: ''},
     {category: 'Defensive Rookie of the Year: ', title: 'Jack Lambert', link: ''},
     {category: 'Passing Leader: ', title: 'Bert Jones', link: ''},
@@ -272,10 +272,10 @@ const TopNFL1976 = [
 ];
 
 const TopNFL1977 = [
-    {category: 'NFL Super Bowl Winner: ', title: 'Dallas Cowboys', link: ''},
-    {category: 'NFL Super Bowl Runner-Up: ', title: 'Denver Broncos', link: ''},
-    {category: 'MVP: ', title: 'Walter Payton', link: ''},
-    {category: 'Offensive Rookie of the Year: ', title: 'Tony Dorsett', link: ''},
+    {category: 'NFL Super Bowl Winner: ', title: 'Dallas Cowboys', link: '1'},
+    {category: 'NFL Super Bowl Runner-Up: ', title: 'Denver Broncos', link: '2'},
+    {category: 'MVP: ', title: 'Walter Payton', link: '3'},
+    {category: 'Offensive Rookie of the Year: ', title: 'Tony Dorsett', link: '4'},
     {category: 'Defensive Player of the Year: ', title: 'Harvey Martin', link: ''},
     {category: 'Defensive Rookie of the Year: ', title: 'A.J. Duhe', link: ''},
     {category: 'Passing Leader: ', title: 'Joe Ferguson', link: ''},
@@ -284,10 +284,10 @@ const TopNFL1977 = [
 ];
 
 const TopNFL1978 = [
-    {category: 'NFL Super Bowl Winner: ', title: 'Pittsburgh Steelers', link: ''},
-    {category: 'NFL Super Bowl Runner-Up: ', title: 'Dallas Cowboys', link: ''},
-    {category: 'MVP: ', title: 'Terry Bradshaw', link: ''},
-    {category: 'Offensive Rookie of the Year: ', title: 'Earl Campbell', link: ''},
+    {category: 'NFL Super Bowl Winner: ', title: 'Pittsburgh Steelers', link: '1'},
+    {category: 'NFL Super Bowl Runner-Up: ', title: 'Dallas Cowboys', link: '2'},
+    {category: 'MVP: ', title: 'Terry Bradshaw', link: '3'},
+    {category: 'Offensive Rookie of the Year: ', title: 'Earl Campbell', link: '4'},
     {category: 'Defensive Player of the Year: ', title: 'Randy Gradishar', link: ''},
     {category: 'Defensive Rookie of the Year: ', title: 'Al Baker', link: ''},
     {category: 'Passing Leader: ', title: 'Fran Tarkenton', link: ''},
@@ -296,10 +296,10 @@ const TopNFL1978 = [
 ];
 
 const TopNFL1979 = [
-    {category: 'NFL Super Bowl Winner: ', title: 'Pittsburgh Steelers', link: ''},
-    {category: 'NFL Super Bowl Runner-Up: ', title: 'Los Angeles Rams', link: ''},
-    {category: 'MVP: ', title: 'Earl Campbell', link: ''},
-    {category: 'Offensive Rookie of the Year: ', title: 'Ottis Anderson', link: ''},
+    {category: 'NFL Super Bowl Winner: ', title: 'Pittsburgh Steelers', link: '1'},
+    {category: 'NFL Super Bowl Runner-Up: ', title: 'Los Angeles Rams', link: '2'},
+    {category: 'MVP: ', title: 'Earl Campbell', link: '3'},
+    {category: 'Offensive Rookie of the Year: ', title: 'Ottis Anderson', link: '4'},
     {category: 'Defensive Player of the Year: ', title: 'Lee Roy Selmon', link: ''},
     {category: 'Defensive Rookie of the Year: ', title: 'Jim Haslett', link: ''},
     {category: 'Passing Leader: ', title: 'Dan Fouts', link: ''},
@@ -308,10 +308,10 @@ const TopNFL1979 = [
 ];
 
 const TopNFL1980 = [
-    {category: 'NFL Super Bowl Winner: ', title: 'Oakland Raiders', link: ''},
-    {category: 'NFL Super Bowl Runner-Up: ', title: 'Philadelphia Eagles', link: ''},
-    {category: 'MVP: ', title: 'Brian Sipe', link: ''},
-    {category: 'Offensive Rookie of the Year: ', title: 'Billy Sims', link: ''},
+    {category: 'NFL Super Bowl Winner: ', title: 'Oakland Raiders', link: '1'},
+    {category: 'NFL Super Bowl Runner-Up: ', title: 'Philadelphia Eagles', link: '2'},
+    {category: 'MVP: ', title: 'Brian Sipe', link: '3'},
+    {category: 'Offensive Rookie of the Year: ', title: 'Billy Sims', link: '4'},
     {category: 'Defensive Player of the Year: ', title: 'Lester Hayes', link: ''},
     {category: 'Defensive Rookie of the Year: ', title: 'Buddy Curry', link: ''},
     {category: 'Passing Leader: ', title: 'Dan Fouts', link: ''},
@@ -320,10 +320,10 @@ const TopNFL1980 = [
 ];
 
 const TopNFL1981 = [
-    {category: 'NFL Super Bowl Winner: ', title: 'San Francisco 49ers', link: ''},
-    {category: 'NFL Super Bowl Runner-Up: ', title: 'Cincinnati Bengals', link: ''},
-    {category: 'Passing Leader: ', title: 'Dan Fouts', link: ''},
-    {category: 'MVP: ', title: 'Ken Anderson', link: ''},
+    {category: 'NFL Super Bowl Winner: ', title: 'San Francisco 49ers', link: '1'},
+    {category: 'NFL Super Bowl Runner-Up: ', title: 'Cincinnati Bengals', link: '2'},
+    {category: 'Passing Leader: ', title: 'Dan Fouts', link: '3'},
+    {category: 'MVP: ', title: 'Ken Anderson', link: '4'},
     {category: 'Offensive Rookie of the Year: ', title: 'George Rogers', link: ''},
     {category: 'Defensive Player of the Year: ', title: 'Lawrence Taylor', link: ''},
     {category: 'Defensive Rookie of the Year: ', title: 'Lawrence Taylor', link: ''},
@@ -332,10 +332,10 @@ const TopNFL1981 = [
 ];
 
 const TopNFL1982 = [
-    {category: 'NFL Super Bowl Winner: ', title: 'Washington Redskins', link: ''},
-    {category: 'NFL Super Bowl Runner-Up: ', title: 'Miami Dolphins', link: ''},
-    {category: 'MVP: ', title: 'Mark Moseley', link: ''},
-    {category: 'Offensive Rookie of the Year: ', title: 'Marcus Allen', link: ''},
+    {category: 'NFL Super Bowl Winner: ', title: 'Washington Redskins', link: '1'},
+    {category: 'NFL Super Bowl Runner-Up: ', title: 'Miami Dolphins', link: '2'},
+    {category: 'MVP: ', title: 'Mark Moseley', link: '3'},
+    {category: 'Offensive Rookie of the Year: ', title: 'Marcus Allen', link: '4'},
     {category: 'Defensive Player of the Year: ', title: 'Lawrence Taylor', link: ''},
     {category: 'Defensive Rookie of the Year: ', title: 'Chip Banks', link: ''},
     {category: 'Passing Leader: ', title: 'Dan Fouts', link: ''},
@@ -344,10 +344,10 @@ const TopNFL1982 = [
 ];
 
 const TopNFL1983 = [
-    {category: 'NFL Super Bowl Winner: ', title: 'Los Angeles Raiders', link: ''},
-    {category: 'NFL Super Bowl Runner-Up: ', title: 'Washington Redskins', link: ''},
-    {category: 'MVP: ', title: 'Joe Theismann', link: ''},
-    {category: 'Offensive Rookie of the Year: ', title: 'Eric Dickerson', link: ''},
+    {category: 'NFL Super Bowl Winner: ', title: 'Los Angeles Raiders', link: '1'},
+    {category: 'NFL Super Bowl Runner-Up: ', title: 'Washington Redskins', link: '2'},
+    {category: 'MVP: ', title: 'Joe Theismann', link: '3'},
+    {category: 'Offensive Rookie of the Year: ', title: 'Eric Dickerson', link: '4'},
     {category: 'Defensive Player of the Year: ', title: 'Doug Betters', link: ''},
     {category: 'Defensive Rookie of the Year: ', title: 'Vernon Maxwell', link: ''},
     {category: 'Passing Leader: ', title: 'Lynn Dickey', link: ''},
@@ -356,10 +356,10 @@ const TopNFL1983 = [
 ];
 
 const TopNFL1984 = [
-    {category: 'NFL Super Bowl Winner: ', title: 'San Francisco 49ers', link: ''},
-    {category: 'NFL Super Bowl Runner-Up: ', title: 'Miami Dolphins', link: ''},
-    {category: 'MVP: ', title: 'Dan Marino', link: ''},
-    {category: 'Offensive Rookie of the Year: ', title: 'Louis Lipps', link: ''},
+    {category: 'NFL Super Bowl Winner: ', title: 'San Francisco 49ers', link: '1'},
+    {category: 'NFL Super Bowl Runner-Up: ', title: 'Miami Dolphins', link: '2'},
+    {category: 'MVP: ', title: 'Dan Marino', link: '3'},
+    {category: 'Offensive Rookie of the Year: ', title: 'Louis Lipps', link: '4'},
     {category: 'Defensive Player of the Year: ', title: 'Kenny Easley', link: ''},
     {category: 'Defensive Rookie of the Year: ', title: 'Bill Maas', link: ''},
     {category: 'Passing Leader: ', title: 'Dan Marino', link: ''},
@@ -368,10 +368,10 @@ const TopNFL1984 = [
 ];
 
 const TopNFL1985 = [
-    {category: 'NFL Super Bowl Winner: ', title: 'Chicago Bears', link: ''},
-    {category: 'NFL Super Bowl Runner-Up: ', title: 'New England Patriots', link: ''},
-    {category: 'MVP: ', title: 'Marcus Allen', link: ''},
-    {category: 'Offensive Rookie of the Year: ', title: 'Eddie Brown', link: ''},
+    {category: 'NFL Super Bowl Winner: ', title: 'Chicago Bears', link: '1'},
+    {category: 'NFL Super Bowl Runner-Up: ', title: 'New England Patriots', link: '2'},
+    {category: 'MVP: ', title: 'Marcus Allen', link: '3'},
+    {category: 'Offensive Rookie of the Year: ', title: 'Eddie Brown', link: '4'},
     {category: 'Defensive Player of the Year: ', title: 'Mike Singletary', link: ''},
     {category: 'Defensive Rookie of the Year: ', title: 'Duane Bickett', link: ''},
     {category: 'Passing Leader: ', title: 'Dan Marino', link: ''},
@@ -380,10 +380,10 @@ const TopNFL1985 = [
 ];
 
 const TopNFL1986 = [
-    {category: 'NFL Super Bowl Winner: ', title: 'New York Giants', link: ''},
-    {category: 'NFL Super Bowl Runner-Up: ', title: 'Denver Broncos', link: ''},
-    {category: 'MVP: ', title: 'Lawrence Taylor', link: ''},
-    {category: 'Offensive Rookie of the Year: ', title: 'Rueben Mayes', link: ''},
+    {category: 'NFL Super Bowl Winner: ', title: 'New York Giants', link: '1'},
+    {category: 'NFL Super Bowl Runner-Up: ', title: 'Denver Broncos', link: '2'},
+    {category: 'MVP: ', title: 'Lawrence Taylor', link: '3'},
+    {category: 'Offensive Rookie of the Year: ', title: 'Rueben Mayes', link: '4'},
     {category: 'Defensive Player of the Year: ', title: 'Lawrence Taylor', link: ''},
     {category: 'Defensive Rookie of the Year: ', title: 'Leslie ONeal', link: ''},
     {category: 'Passing Leader: ', title: 'Dan Marino', link: ''},
@@ -392,10 +392,10 @@ const TopNFL1986 = [
 ];
 
 const TopNFL1987 = [
-    {category: 'NFL Super Bowl Winner: ', title: 'Washington Redskins', link: ''},
-    {category: 'NFL Super Bowl Runner-Up: ', title: 'Denver Broncos', link: ''},
-    {category: 'MVP: ', title: 'John Elway', link: ''},
-    {category: 'Offensive Rookie of the Year: ', title: 'Troy Stradford', link: ''},
+    {category: 'NFL Super Bowl Winner: ', title: 'Washington Redskins', link: '1'},
+    {category: 'NFL Super Bowl Runner-Up: ', title: 'Denver Broncos', link: '2'},
+    {category: 'MVP: ', title: 'John Elway', link: '3'},
+    {category: 'Offensive Rookie of the Year: ', title: 'Troy Stradford', link: '4'},
     {category: 'Defensive Player of the Year: ', title: 'Reggie White', link: ''},
     {category: 'Defensive Rookie of the Year: ', title: 'Shane Conlan', link: ''},
     {category: 'Passing Leader: ', title: 'Neil Lomax', link: ''},
@@ -404,10 +404,10 @@ const TopNFL1987 = [
 ];
 
 const TopNFL1988 = [
-    {category: 'NFL Super Bowl Winner: ', title: 'San Francisco 49ers', link: ''},
-    {category: 'NFL Super Bowl Runner-Up: ', title: 'Cincinnati Bengals', link: ''},
-    {category: 'MVP: ', title: 'Boomer Esiason', link: ''},
-    {category: 'Offensive Rookie of the Year: ', title: 'John Stephens', link: ''},
+    {category: 'NFL Super Bowl Winner: ', title: 'San Francisco 49ers', link: '1'},
+    {category: 'NFL Super Bowl Runner-Up: ', title: 'Cincinnati Bengals', link: '2'},
+    {category: 'MVP: ', title: 'Boomer Esiason', link: '3'},
+    {category: 'Offensive Rookie of the Year: ', title: 'John Stephens', link: '4'},
     {category: 'Defensive Player of the Year: ', title: 'Mike Singletary', link: ''},
     {category: 'Defensive Rookie of the Year: ', title: 'Erik McMillan', link: ''},
     {category: 'Passing Leader: ', title: 'Dan Marino', link: ''},
@@ -416,10 +416,10 @@ const TopNFL1988 = [
 ];
 
 const TopNFL1989 = [
-    {category: 'NFL Super Bowl Winner: ', title: 'San Francisco 49ers', link: ''},
-    {category: 'NFL Super Bowl Runner-Up: ', title: 'Denver Broncos', link: ''},
-    {category: 'MVP: ', title: 'Joe Montana', link: ''},
-    {category: 'Offensive Rookie of the Year: ', title: 'Barry Sanders', link: ''},
+    {category: 'NFL Super Bowl Winner: ', title: 'San Francisco 49ers', link: '1'},
+    {category: 'NFL Super Bowl Runner-Up: ', title: 'Denver Broncos', link: '2'},
+    {category: 'MVP: ', title: 'Joe Montana', link: '3'},
+    {category: 'Offensive Rookie of the Year: ', title: 'Barry Sanders', link: '4'},
     {category: 'Defensive Player of the Year: ', title: 'Keith Millard', link: ''},
     {category: 'Defensive Rookie of the Year: ', title: 'Derrick Thomas', link: ''},
     {category: 'Passing Leader: ', title: 'Don Majkowski', link: ''},
@@ -428,10 +428,10 @@ const TopNFL1989 = [
 ];
 
 const TopNFL1990 = [
-    {category: 'NFL Super Bowl Winner: ', title: 'New York Giants', link: ''},
-    {category: 'NFL Super Bowl Runner-Up: ', title: 'Buffalo Bills', link: ''},
-    {category: 'MVP: ', title: 'Joe Montana', link: ''},
-    {category: 'Offensive Rookie of the Year: ', title: 'Emmitt Smith', link: ''},
+    {category: 'NFL Super Bowl Winner: ', title: 'New York Giants', link: '1'},
+    {category: 'NFL Super Bowl Runner-Up: ', title: 'Buffalo Bills', link: '2'},
+    {category: 'MVP: ', title: 'Joe Montana', link: '3'},
+    {category: 'Offensive Rookie of the Year: ', title: 'Emmitt Smith', link: '4'},
     {category: 'Defensive Player of the Year: ', title: 'Bruce Smith', link: ''},
     {category: 'Defensive Rookie of the Year: ', title: 'Mark Carrier', link: ''},
     {category: 'Passing Leader: ', title: 'Warren Moon', link: ''},
@@ -440,10 +440,10 @@ const TopNFL1990 = [
 ];
 
 const TopNFL1991 = [
-    {category: 'NFL Super Bowl Winner: ', title: 'Washington Redskins', link: ''},
-    {category: 'NFL Super Bowl Runner-Up: ', title: 'Buffalo Bills', link: ''},
-    {category: 'MVP: ', title: 'Thurman Thomas', link: ''},
-    {category: 'Offensive Rookie of the Year: ', title: 'Leonard Russell', link: ''},
+    {category: 'NFL Super Bowl Winner: ', title: 'Washington Redskins', link: '1'},
+    {category: 'NFL Super Bowl Runner-Up: ', title: 'Buffalo Bills', link: '2'},
+    {category: 'MVP: ', title: 'Thurman Thomas', link: '3'},
+    {category: 'Offensive Rookie of the Year: ', title: 'Leonard Russell', link: '4'},
     {category: 'Defensive Player of the Year: ', title: 'Pat Swilling', link: ''},
     {category: 'Defensive Rookie of the Year: ', title: 'Mike Croel', link: ''},
     {category: 'Passing Leader: ', title: 'Warren Moon', link: ''},
@@ -452,10 +452,10 @@ const TopNFL1991 = [
 ];
 
 const TopNFL1992 = [
-    {category: 'NFL Super Bowl Winner: ', title: 'Dallas Cowboys', link: ''},
-    {category: 'NFL Super Bowl Runner-Up: ', title: 'Buffalo Bills', link: ''},
-    {category: 'MVP: ', title: 'Steve Young', link: ''},
-    {category: 'Offensive Rookie of the Year: ', title: 'Carl Pickens', link: ''},
+    {category: 'NFL Super Bowl Winner: ', title: 'Dallas Cowboys', link: '1'},
+    {category: 'NFL Super Bowl Runner-Up: ', title: 'Buffalo Bills', link: '2'},
+    {category: 'MVP: ', title: 'Steve Young', link: '3'},
+    {category: 'Offensive Rookie of the Year: ', title: 'Carl Pickens', link: '4'},
     {category: 'Defensive Player of the Year: ', title: 'Cortez Kennedy', link: ''},
     {category: 'Defensive Rookie of the Year: ', title: 'Dale Carter', link: ''},
     {category: 'Passing Leader: ', title: 'Dan Marino', link: ''},
@@ -464,10 +464,10 @@ const TopNFL1992 = [
 ];
 
 const TopNFL1993 = [
-    {category: 'NFL Super Bowl Winner: ', title: 'Dallas Cowboys', link: ''},
-    {category: 'NFL Super Bowl Runner-Up: ', title: 'Buffalo Bills', link: ''},
-    {category: 'MVP: ', title: 'Emmitt Smith', link: ''},
-    {category: 'Offensive Rookie of the Year: ', title: 'Jerome Bettis', link: ''},
+    {category: 'NFL Super Bowl Winner: ', title: 'Dallas Cowboys', link: '1'},
+    {category: 'NFL Super Bowl Runner-Up: ', title: 'Buffalo Bills', link: '2'},
+    {category: 'MVP: ', title: 'Emmitt Smith', link: '3'},
+    {category: 'Offensive Rookie of the Year: ', title: 'Jerome Bettis', link: '4'},
     {category: 'Defensive Player of the Year: ', title: 'Rod Woodson', link: ''},
     {category: 'Defensive Rookie of the Year: ', title: 'Dana Stubblefield', link: ''},
     {category: 'Passing Leader: ', title: 'John Elway', link: ''},
@@ -476,10 +476,10 @@ const TopNFL1993 = [
 ];
 
 const TopNFL1994 = [
-    {category: 'NFL Super Bowl Winner: ', title: 'San Francisco 49ers', link: ''},
-    {category: 'NFL Super Bowl Runner-Up: ', title: 'San Diego Chargers', link: ''},
-    {category: 'MVP: ', title: 'Steve Young', link: ''},
-    {category: 'Offensive Rookie of the Year: ', title: 'Marshall Faulk', link: ''},
+    {category: 'NFL Super Bowl Winner: ', title: 'San Francisco 49ers', link: '1'},
+    {category: 'NFL Super Bowl Runner-Up: ', title: 'San Diego Chargers', link: '2'},
+    {category: 'MVP: ', title: 'Steve Young', link: '3'},
+    {category: 'Offensive Rookie of the Year: ', title: 'Marshall Faulk', link: '4'},
     {category: 'Defensive Player of the Year: ', title: 'Deion Sanders', link: ''},
     {category: 'Defensive Rookie of the Year: ', title: 'Tim Bowens', link: ''},
     {category: 'Passing Leader: ', title: 'Drew Bledsoe', link: ''},
@@ -488,10 +488,10 @@ const TopNFL1994 = [
 ];
 
 const TopNFL1995 = [
-    {category: 'NFL Super Bowl Winner: ', title: 'Dallas Cowboys', link: ''},
-    {category: 'NFL Super Bowl Runner-Up: ', title: 'Pittsburgh Steelers', link: ''},
-    {category: 'MVP: ', title: 'Brett Favre', link: ''},
-    {category: 'Offensive Rookie of the Year: ', title: 'Curtis Martin', link: ''},
+    {category: 'NFL Super Bowl Winner: ', title: 'Dallas Cowboys', link: '1'},
+    {category: 'NFL Super Bowl Runner-Up: ', title: 'Pittsburgh Steelers', link: '2'},
+    {category: 'MVP: ', title: 'Brett Favre', link: '3'},
+    {category: 'Offensive Rookie of the Year: ', title: 'Curtis Martin', link: '4'},
     {category: 'Defensive Player of the Year: ', title: 'Bryce Paup', link: ''},
     {category: 'Defensive Rookie of the Year: ', title: 'Hugh Douglas', link: ''},
     {category: 'Passing Leader: ', title: 'Brett Favre', link: ''},
@@ -500,10 +500,10 @@ const TopNFL1995 = [
 ];
 
 const TopNFL1996 = [
-    {category: 'NFL Super Bowl Winner: ', title: 'Green Bay Packers', link: ''},
-    {category: 'NFL Super Bowl Runner-Up: ', title: 'New England Patriots', link: ''},
-    {category: 'MVP: ', title: 'Brett Favre', link: ''},
-    {category: 'Offensive Rookie of the Year: ', title: 'Eddie George', link: ''},
+    {category: 'NFL Super Bowl Winner: ', title: 'Green Bay Packers', link: '1'},
+    {category: 'NFL Super Bowl Runner-Up: ', title: 'New England Patriots', link: '2'},
+    {category: 'MVP: ', title: 'Brett Favre', link: '3'},
+    {category: 'Offensive Rookie of the Year: ', title: 'Eddie George', link: '4'},
     {category: 'Defensive Player of the Year: ', title: 'Bruce Smith', link: ''},
     {category: 'Defensive Rookie of the Year: ', title: 'Simeon Rice', link: ''},
     {category: 'Passing Leader: ', title: 'Mark Brunell', link: ''},
@@ -512,10 +512,10 @@ const TopNFL1996 = [
 ];
 
 const TopNFL1997 = [
-    {category: 'NFL Super Bowl Winner: ', title: 'Denver Broncos', link: ''},
-    {category: 'NFL Super Bowl Runner-Up: ', title: 'Green Bay Packers', link: ''},
-    {category: 'MVP: ', title: 'Brett Favre & Barry Sanders', link: ''},
-    {category: 'Offensive Rookie of the Year: ', title: 'Warrick Dunn', link: ''},
+    {category: 'NFL Super Bowl Winner: ', title: 'Denver Broncos', link: '1'},
+    {category: 'NFL Super Bowl Runner-Up: ', title: 'Green Bay Packers', link: '2'},
+    {category: 'MVP: ', title: 'Brett Favre & Barry Sanders', link: '3'},
+    {category: 'Offensive Rookie of the Year: ', title: 'Warrick Dunn', link: '4'},
     {category: 'Defensive Player of the Year: ', title: 'Dana Stubblefield', link: ''},
     {category: 'Defensive Rookie of the Year: ', title: 'Peter Boulware', link: ''},
     {category: 'Passing Leader: ', title: 'Jeff George', link: ''},
@@ -524,10 +524,10 @@ const TopNFL1997 = [
 ];
 
 const TopNFL1998 = [
-    {category: 'NFL Super Bowl Winner: ', title: 'Denver Broncos', link: ''},
-    {category: 'NFL Super Bowl Runner-Up: ', title: 'Atlanta Falcons', link: ''},
-    {category: 'MVP: ', title: 'Terrell Davis', link: ''},
-    {category: 'Offensive Rookie of the Year: ', title: 'Randy Moss', link: ''},
+    {category: 'NFL Super Bowl Winner: ', title: 'Denver Broncos', link: '1'},
+    {category: 'NFL Super Bowl Runner-Up: ', title: 'Atlanta Falcons', link: '2'},
+    {category: 'MVP: ', title: 'Terrell Davis', link: '3'},
+    {category: 'Offensive Rookie of the Year: ', title: 'Randy Moss', link: '4'},
     {category: 'Defensive Player of the Year: ', title: 'Reggie White', link: ''},
     {category: 'Defensive Rookie of the Year: ', title: 'Charles Woodson', link: ''},
     {category: 'Passing Leader: ', title: 'Brett Favre', link: ''},
@@ -536,10 +536,10 @@ const TopNFL1998 = [
 ];
 
 const TopNFL1999 = [
-    {category: 'NFL Super Bowl Winner: ', title: 'St. Louis Rams', link: ''},
-    {category: 'NFL Super Bowl Runner-Up: ', title: 'Tennessee Titans', link: ''},
-    {category: 'MVP: ', title: 'Kurt Warner', link: ''},
-    {category: 'Offensive Rookie of the Year: ', title: 'Edgerrin James', link: ''},
+    {category: 'NFL Super Bowl Winner: ', title: 'St. Louis Rams', link: '1'},
+    {category: 'NFL Super Bowl Runner-Up: ', title: 'Tennessee Titans', link: '2'},
+    {category: 'MVP: ', title: 'Kurt Warner', link: '3'},
+    {category: 'Offensive Rookie of the Year: ', title: 'Edgerrin James', link: '4'},
     {category: 'Defensive Player of the Year: ', title: 'Warren Sapp', link: ''},
     {category: 'Defensive Rookie of the Year: ', title: 'Jevon Kearse', link: ''},
     {category: 'Passing Leader: ', title: 'Steve Beuerlein', link: ''},
@@ -548,10 +548,10 @@ const TopNFL1999 = [
 ];
 
 const TopNFL2000 = [
-    {category: 'NFL Super Bowl Winner: ', title: 'Baltimore Ravens', link: ''},
-    {category: 'NFL Super Bowl Runner-Up: ', title: 'New York Giants', link: ''},
-    {category: 'MVP: ', title: 'Marshall Faulk', link: ''},
-    {category: 'Offensive Rookie of the Year: ', title: 'Mike Anderson', link: ''},
+    {category: 'NFL Super Bowl Winner: ', title: 'Baltimore Ravens', link: '1'},
+    {category: 'NFL Super Bowl Runner-Up: ', title: 'New York Giants', link: '2'},
+    {category: 'MVP: ', title: 'Marshall Faulk', link: '3'},
+    {category: 'Offensive Rookie of the Year: ', title: 'Mike Anderson', link: '4'},
     {category: 'Defensive Player of the Year: ', title: 'Ray Lewis', link: ''},
     {category: 'Defensive Rookie of the Year: ', title: 'Brian Urlacher', link: ''},
     {category: 'Passing Leader: ', title: 'Peyton Manning', link: ''},
@@ -560,10 +560,10 @@ const TopNFL2000 = [
 ];
 
 const TopNFL2001 = [
-    {category: 'NFL Super Bowl Winner: ', title: 'New England Patriots', link: ''},
-    {category: 'NFL Super Bowl Runner-Up: ', title: 'St. Louis Rams', link: ''},
-    {category: 'MVP: ', title: 'Kurt Warner', link: ''},
-    {category: 'Offensive Rookie of the Year: ', title: 'Anthony Thomas', link: ''},
+    {category: 'NFL Super Bowl Winner: ', title: 'New England Patriots', link: '1'},
+    {category: 'NFL Super Bowl Runner-Up: ', title: 'St. Louis Rams', link: '2'},
+    {category: 'MVP: ', title: 'Kurt Warner', link: '3'},
+    {category: 'Offensive Rookie of the Year: ', title: 'Anthony Thomas', link: '4'},
     {category: 'Defensive Player of the Year: ', title: 'Michael Strahan', link: ''},
     {category: 'Defensive Rookie of the Year: ', title: 'Kendrell Bell', link: ''},
     {category: 'Passing Leader: ', title: 'Kurt Warner', link: ''},
@@ -572,10 +572,10 @@ const TopNFL2001 = [
 ];
 
 const TopNFL2002 = [
-    {category: 'NFL Super Bowl Winner: ', title: 'Tampa Bay Buccaneers', link: ''},
-    {category: 'NFL Super Bowl Runner-Up: ', title: 'Oakland Raiders', link: ''},
-    {category: 'MVP: ', title: 'Rich Gannon', link: ''},
-    {category: 'Offensive Rookie of the Year: ', title: 'Clinton Portis', link: ''},
+    {category: 'NFL Super Bowl Winner: ', title: 'Tampa Bay Buccaneers', link: '1'},
+    {category: 'NFL Super Bowl Runner-Up: ', title: 'Oakland Raiders', link: '2'},
+    {category: 'MVP: ', title: 'Rich Gannon', link: '3'},
+    {category: 'Offensive Rookie of the Year: ', title: 'Clinton Portis', link: '4'},
     {category: 'Defensive Player of the Year: ', title: 'Derrick Brooks', link: ''},
     {category: 'Defensive Rookie of the Year: ', title: 'Julius Peppers', link: ''},
     {category: 'Passing Leader: ', title: 'Rich Gannon', link: ''},
@@ -584,10 +584,10 @@ const TopNFL2002 = [
 ];
 
 const TopNFL2003 = [
-    {category: 'NFL Super Bowl Winner: ', title: 'New England Patriots', link: ''},
-    {category: 'NFL Super Bowl Runner-Up: ', title: 'Carolina Panthers', link: ''},
-    {category: 'MVP: ', title: 'Peyton Manning & Steve McNair', link: ''},
-    {category: 'Offensive Rookie of the Year: ', title: 'Anquan Boldin', link: ''},
+    {category: 'NFL Super Bowl Winner: ', title: 'New England Patriots', link: '1'},
+    {category: 'NFL Super Bowl Runner-Up: ', title: 'Carolina Panthers', link: '2'},
+    {category: 'MVP: ', title: 'Peyton Manning & Steve McNair', link: '3'},
+    {category: 'Offensive Rookie of the Year: ', title: 'Anquan Boldin', link: '4'},
     {category: 'Defensive Player of the Year: ', title: 'Ray Lewis', link: ''},
     {category: 'Defensive Rookie of the Year: ', title: 'Terrell Suggs', link: ''},
     {category: 'Passing Leader: ', title: 'Peyton Manning', link: ''},
@@ -596,10 +596,10 @@ const TopNFL2003 = [
 ];
 
 const TopNFL2004 = [
-    {category: 'NFL Super Bowl Winner: ', title: 'New England Patriots', link: ''},
-    {category: 'NFL Super Bowl Runner-Up: ', title: 'Philadelphia Eagles', link: ''},
-    {category: 'MVP: ', title: 'Peyton Manning', link: ''},
-    {category: 'Offensive Rookie of the Year: ', title: 'Ben Roethlisberger', link: ''},
+    {category: 'NFL Super Bowl Winner: ', title: 'New England Patriots', link: '1'},
+    {category: 'NFL Super Bowl Runner-Up: ', title: 'Philadelphia Eagles', link: '2'},
+    {category: 'MVP: ', title: 'Peyton Manning', link: '3'},
+    {category: 'Offensive Rookie of the Year: ', title: 'Ben Roethlisberger', link: '4'},
     {category: 'Defensive Player of the Year: ', title: 'Ed Reed', link: ''},
     {category: 'Defensive Rookie of the Year: ', title: 'Jonathan Vilma', link: ''},
     {category: 'Passing Leader: ', title: 'Daunte Culpepper', link: ''},
@@ -608,10 +608,10 @@ const TopNFL2004 = [
 ];
 
 const TopNFL2005 = [
-    {category: 'NFL Super Bowl Winner: ', title: 'Pittsburgh Steelers', link: ''},
-    {category: 'NFL Super Bowl Runner-Up: ', title: 'Seattle Seahawks', link: ''},
-    {category: 'MVP: ', title: 'Shaun Alexander', link: ''},
-    {category: 'Offensive Rookie of the Year: ', title: 'Cadillac Williams', link: ''},
+    {category: 'NFL Super Bowl Winner: ', title: 'Pittsburgh Steelers', link: '1'},
+    {category: 'NFL Super Bowl Runner-Up: ', title: 'Seattle Seahawks', link: '2'},
+    {category: 'MVP: ', title: 'Shaun Alexander', link: '3'},
+    {category: 'Offensive Rookie of the Year: ', title: 'Cadillac Williams', link: '4'},
     {category: 'Defensive Player of the Year: ', title: 'Brian Urlacher', link: ''},
     {category: 'Defensive Rookie of the Year: ', title: 'Shawne Merriman', link: ''},
     {category: 'Passing Leader: ', title: 'Tom Brady', link: ''},
@@ -620,10 +620,10 @@ const TopNFL2005 = [
 ];
 
 const TopNFL2006 = [
-    {category: 'NFL Super Bowl Winner: ', title: 'Indianapolis Colts', link: ''},
-    {category: 'NFL Super Bowl Runner-Up: ', title: 'Chicago Bears', link: ''},
-    {category: 'MVP: ', title: 'LaDainian Tomlinson', link: ''},
-    {category: 'Offensive Rookie of the Year: ', title: 'Vince Young', link: ''},
+    {category: 'NFL Super Bowl Winner: ', title: 'Indianapolis Colts', link: '1'},
+    {category: 'NFL Super Bowl Runner-Up: ', title: 'Chicago Bears', link: '2'},
+    {category: 'MVP: ', title: 'LaDainian Tomlinson', link: '3'},
+    {category: 'Offensive Rookie of the Year: ', title: 'Vince Young', link: '4'},
     {category: 'Defensive Player of the Year: ', title: 'Jason Taylor', link: ''},
     {category: 'Defensive Rookie of the Year: ', title: 'DeMeco Ryans', link: ''},
     {category: 'Passing Leader: ', title: 'Drew Brees', link: ''},
@@ -632,10 +632,10 @@ const TopNFL2006 = [
 ];
 
 const TopNFL2007 = [
-    {category: 'NFL Championship Game Winner: ', title: 'New York Giants', link: ''},
-    {category: 'NFL Championship Game Runner-Up: ', title: 'New England Patriots', link: ''},
-    {category: 'MVP: ', title: 'Tom Brady', link: ''},
-    {category: 'Offensive Rookie of the Year: ', title: 'Adrian Peterson', link: ''},
+    {category: 'NFL Championship Game Winner: ', title: 'New York Giants', link: '1'},
+    {category: 'NFL Championship Game Runner-Up: ', title: 'New England Patriots', link: '2'},
+    {category: 'MVP: ', title: 'Tom Brady', link: '3'},
+    {category: 'Offensive Rookie of the Year: ', title: 'Adrian Peterson', link: '4'},
     {category: 'Defensive Player of the Year: ', title: 'Bob Sanders', link: ''},
     {category: 'Defensive Rookie of the Year: ', title: 'Patrick Willis', link: ''},
     {category: 'Passing Leader: ', title: 'Tom Brady', link: ''},
@@ -644,10 +644,10 @@ const TopNFL2007 = [
 ];
 
 const TopNFL2008 = [
-    {category: 'NFL Super Bowl Winner: ', title: 'Pittsburgh Steelers', link: ''},
-    {category: 'NFL Super Bowl Runner-Up: ', title: 'Arizona Cardinals', link: ''},
-    {category: 'MVP: ', title: 'Peyton Manning', link: ''},
-    {category: 'Offensive Rookie of the Year: ', title: 'Matt Ryan', link: ''},
+    {category: 'NFL Super Bowl Winner: ', title: 'Pittsburgh Steelers', link: '1'},
+    {category: 'NFL Super Bowl Runner-Up: ', title: 'Arizona Cardinals', link: '2'},
+    {category: 'MVP: ', title: 'Peyton Manning', link: '3'},
+    {category: 'Offensive Rookie of the Year: ', title: 'Matt Ryan', link: '4'},
     {category: 'Defensive Player of the Year: ', title: 'James Harrison', link: ''},
     {category: 'Defensive Rookie of the Year: ', title: 'Jerod Mayo', link: ''},
     {category: 'Passing Leader: ', title: 'Drew Brees', link: ''},
@@ -656,10 +656,10 @@ const TopNFL2008 = [
 ];
 
 const TopNFL2009 = [
-    {category: 'NFL Super Bowl Winner: ', title: 'New Orleans Saints', link: ''},
-    {category: 'NFL Super Bowl Runner-Up: ', title: 'Indianapolis Colts', link: ''},
-    {category: 'MVP: ', title: 'Peyton Manning', link: ''},
-    {category: 'Offensive Rookie of the Year: ', title: 'Percy Harvin', link: ''},
+    {category: 'NFL Super Bowl Winner: ', title: 'New Orleans Saints', link: '1'},
+    {category: 'NFL Super Bowl Runner-Up: ', title: 'Indianapolis Colts', link: '2'},
+    {category: 'MVP: ', title: 'Peyton Manning', link: '3'},
+    {category: 'Offensive Rookie of the Year: ', title: 'Percy Harvin', link: '4'},
     {category: 'Defensive Player of the Year: ', title: 'Charles Woodson', link: ''},
     {category: 'Defensive Rookie of the Year: ', title: 'Brian Cushing', link: ''},
     {category: 'Passing Leader: ', title: 'Matt Schaub', link: ''},
@@ -668,10 +668,10 @@ const TopNFL2009 = [
 ];
 
 const TopNFL2010 = [
-    {category: 'NFL Super Bowl Winner: ', title: 'Green Bay Packers', link: ''},
-    {category: 'NFL Super Bowl Runner-Up: ', title: 'Pittsburgh Steelers', link: ''},
-    {category: 'MVP: ', title: 'Tom Brady', link: ''},
-    {category: 'Offensive Rookie of the Year: ', title: 'Sam Bradford', link: ''},
+    {category: 'NFL Super Bowl Winner: ', title: 'Green Bay Packers', link: '1'},
+    {category: 'NFL Super Bowl Runner-Up: ', title: 'Pittsburgh Steelers', link: '2'},
+    {category: 'MVP: ', title: 'Tom Brady', link: '3'},
+    {category: 'Offensive Rookie of the Year: ', title: 'Sam Bradford', link: '4'},
     {category: 'Defensive Player of the Year: ', title: 'Troy Polamalu', link: ''},
     {category: 'Defensive Rookie of the Year: ', title: 'Ndamukong Suh', link: ''},
     {category: 'Passing Leader: ', title: 'Philip Rivers', link: ''},
@@ -680,10 +680,10 @@ const TopNFL2010 = [
 ];
 
 const TopNFL2011 = [
-    {category: 'NFL Super Bowl Winner: ', title: 'New York Giants', link: ''},
-    {category: 'NFL Super Bowl Runner-Up: ', title: 'New England Patriots', link: ''},
-    {category: 'MVP: ', title: 'Aaron Rodgers', link: ''},
-    {category: 'Offensive Rookie of the Year: ', title: 'Cam Newton', link: ''},
+    {category: 'NFL Super Bowl Winner: ', title: 'New York Giants', link: '1'},
+    {category: 'NFL Super Bowl Runner-Up: ', title: 'New England Patriots', link: '2'},
+    {category: 'MVP: ', title: 'Aaron Rodgers', link: '3'},
+    {category: 'Offensive Rookie of the Year: ', title: 'Cam Newton', link: '4'},
     {category: 'Defensive Player of the Year: ', title: 'Terrell Suggs', link: ''},
     {category: 'Defensive Rookie of the Year: ', title: 'Von Miller', link: ''},
     {category: 'Passing Leader: ', title: 'Drew Brees', link: ''},
@@ -692,10 +692,10 @@ const TopNFL2011 = [
 ];
 
 const TopNFL2012 = [
-    {category: 'NFL Super Bowl Winner: ', title: 'Baltimore Ravens', link: ''},
-    {category: 'NFL Super Bowl Runner-Up: ', title: 'San Francisco 49ers', link: ''},
-    {category: 'MVP: ', title: 'Adrian Peterson', link: ''},
-    {category: 'Offensive Rookie of the Year: ', title: 'Robert Griffin', link: ''},
+    {category: 'NFL Super Bowl Winner: ', title: 'Baltimore Ravens', link: '1'},
+    {category: 'NFL Super Bowl Runner-Up: ', title: 'San Francisco 49ers', link: '2'},
+    {category: 'MVP: ', title: 'Adrian Peterson', link: '3'},
+    {category: 'Offensive Rookie of the Year: ', title: 'Robert Griffin', link: '4'},
     {category: 'Defensive Player of the Year: ', title: 'J.J. Watt', link: ''},
     {category: 'Defensive Rookie of the Year: ', title: 'Luke Kuechly', link: ''},
     {category: 'Passing Leader: ', title: 'Drew Brees', link: ''},
@@ -704,10 +704,10 @@ const TopNFL2012 = [
 ];
 
 const TopNFL2013 = [
-    {category: 'NFL Super Bowl Winner: ', title: 'Seattle Seahawks', link: ''},
-    {category: 'NFL Super Bowl Runner-Up: ', title: 'Denver Broncos', link: ''},
-    {category: 'MVP: ', title: 'Peyton Manning', link: ''},
-    {category: 'Offensive Rookie of the Year: ', title: 'Eddie Lacy', link: ''},
+    {category: 'NFL Super Bowl Winner: ', title: 'Seattle Seahawks', link: '1'},
+    {category: 'NFL Super Bowl Runner-Up: ', title: 'Denver Broncos', link: '2'},
+    {category: 'MVP: ', title: 'Peyton Manning', link: '3'},
+    {category: 'Offensive Rookie of the Year: ', title: 'Eddie Lacy', link: '4'},
     {category: 'Defensive Player of the Year: ', title: 'Luke Kuechly', link: ''},
     {category: 'Defensive Rookie of the Year: ', title: 'Sheldon Richardson', link: ''},
     {category: 'Passing Leader: ', title: 'Peyton Manning', link: ''},
@@ -716,10 +716,10 @@ const TopNFL2013 = [
 ];
 
 const TopNFL2014 = [
-    {category: 'NFL Super Bowl Winner: ', title: 'New England Patriots', link: ''},
-    {category: 'NFL Super Bowl Runner-Up: ', title: 'Seattle Seahawks', link: ''},
-    {category: 'MVP: ', title: 'Aaron Rodgers', link: ''},
-    {category: 'Offensive Rookie of the Year: ', title: 'Odell Beckham', link: ''},
+    {category: 'NFL Super Bowl Winner: ', title: 'New England Patriots', link: '1'},
+    {category: 'NFL Super Bowl Runner-Up: ', title: 'Seattle Seahawks', link: '2'},
+    {category: 'MVP: ', title: 'Aaron Rodgers', link: '3'},
+    {category: 'Offensive Rookie of the Year: ', title: 'Odell Beckham', link: '4'},
     {category: 'Defensive Player of the Year: ', title: 'J.J. Watt', link: ''},
     {category: 'Defensive Rookie of the Year: ', title: 'Aaron Donald', link: ''},
     {category: 'Passing Leader: ', title: 'Drew Brees', link: ''},
@@ -728,10 +728,10 @@ const TopNFL2014 = [
 ];
 
 const TopNFL2015 = [
-    {category: 'NFL Super Bowl Winner: ', title: 'Denver Broncos', link: ''},
-    {category: 'NFL Super Bowl Runner-Up: ', title: 'Carolina Panthers', link: ''},
-    {category: 'MVP: ', title: 'Cam Newton', link: ''},
-    {category: 'Offensive Rookie of the Year: ', title: 'Todd Gurley', link: ''},
+    {category: 'NFL Super Bowl Winner: ', title: 'Denver Broncos', link: '1'},
+    {category: 'NFL Super Bowl Runner-Up: ', title: 'Carolina Panthers', link: '2'},
+    {category: 'MVP: ', title: 'Cam Newton', link: '3'},
+    {category: 'Offensive Rookie of the Year: ', title: 'Todd Gurley', link: '4'},
     {category: 'Defensive Player of the Year: ', title: 'J.J. Watt', link: ''},
     {category: 'Defensive Rookie of the Year: ', title: 'Marcus Peters', link: ''},
     {category: 'Passing Leader: ', title: 'Drew Brees', link: ''},
@@ -740,10 +740,10 @@ const TopNFL2015 = [
 ];
 
 const TopNFL2016 = [
-    {category: 'NFL Super Bowl Winner: ', title: 'New England Patriots', link: ''},
-    {category: 'NFL Super Bowl Runner-Up: ', title: 'Atlanta Falcons', link: ''},
-    {category: 'MVP: ', title: 'Matt Ryan', link: ''},
-    {category: 'Offensive Rookie of the Year: ', title: 'Dak Prescott', link: ''},
+    {category: 'NFL Super Bowl Winner: ', title: 'New England Patriots', link: '1'},
+    {category: 'NFL Super Bowl Runner-Up: ', title: 'Atlanta Falcons', link: '2'},
+    {category: 'MVP: ', title: 'Matt Ryan', link: '3'},
+    {category: 'Offensive Rookie of the Year: ', title: 'Dak Prescott', link: '4'},
     {category: 'Defensive Player of the Year: ', title: 'Khalil Mack', link: ''},
     {category: 'Defensive Rookie of the Year: ', title: 'Joey Bosa', link: ''},
     {category: 'Passing Leader: ', title: 'Drew Brees', link: ''},
@@ -752,10 +752,10 @@ const TopNFL2016 = [
 ];
 
 const TopNFL2017 = [
-    {category: 'NFL Super Bowl Winner: ', title: 'Philadelphia Eagles', link: ''},
-    {category: 'NFL Super Bowl Runner-Up: ', title: 'New England Patriots', link: ''},
-    {category: 'MVP: ', title: 'Tom Brady', link: ''},
-    {category: 'Offensive Rookie of the Year: ', title: 'Alvin Kamara', link: ''},
+    {category: 'NFL Super Bowl Winner: ', title: 'Philadelphia Eagles', link: '1'},
+    {category: 'NFL Super Bowl Runner-Up: ', title: 'New England Patriots', link: '2'},
+    {category: 'MVP: ', title: 'Tom Brady', link: '3'},
+    {category: 'Offensive Rookie of the Year: ', title: 'Alvin Kamara', link: '4'},
     {category: 'Defensive Player of the Year: ', title: 'Aaron Donald', link: ''},
     {category: 'Defensive Rookie of the Year: ', title: 'Marshon Lattimore', link: ''},
     {category: 'Passing Leader: ', title: 'Tom Brady', link: ''},
@@ -764,10 +764,10 @@ const TopNFL2017 = [
 ];
 
 const TopNFL2018 = [
-    {category: 'NFL Super Bowl Winner: ', title: 'New England Patriots', link: ''},
-    {category: 'NFL Super Bowl Runner-Up: ', title: 'Los Angeles Rams', link: ''},
-    {category: 'MVP: ', title: 'Patrick Mahomes', link: ''},
-    {category: 'Offensive Rookie of the Year: ', title: 'Saquon Barkley', link: ''},
+    {category: 'NFL Super Bowl Winner: ', title: 'New England Patriots', link: '1'},
+    {category: 'NFL Super Bowl Runner-Up: ', title: 'Los Angeles Rams', link: '2'},
+    {category: 'MVP: ', title: 'Patrick Mahomes', link: '3'},
+    {category: 'Offensive Rookie of the Year: ', title: 'Saquon Barkley', link: '4'},
     {category: 'Defensive Player of the Year: ', title: 'Aaron Donald', link: ''},
     {category: 'Defensive Rookie of the Year: ', title: 'Darius Leonard', link: ''},
     {category: 'Passing Leader: ', title: 'Ben Roethlisberger', link: ''},
@@ -776,10 +776,10 @@ const TopNFL2018 = [
 ];
 
 const TopNFL2019 = [
-    {category: 'NFL Super Bowl Winner: ', title: 'Kansas City Chiefs', link: ''},
-    {category: 'NFL Super Bowl Runner-Up: ', title: 'San Francisco 49ers', link: ''},
-    {category: 'MVP: ', title: 'Lamar Jackson', link: ''},
-    {category: 'Offensive Rookie of the Year: ', title: 'Kyler Murray', link: ''},
+    {category: 'NFL Super Bowl Winner: ', title: 'Kansas City Chiefs', link: '1'},
+    {category: 'NFL Super Bowl Runner-Up: ', title: 'San Francisco 49ers', link: '2'},
+    {category: 'MVP: ', title: 'Lamar Jackson', link: '3'},
+    {category: 'Offensive Rookie of the Year: ', title: 'Kyler Murray', link: '4'},
     {category: 'Defensive Player of the Year: ', title: 'Stephon Gilmore', link: ''},
     {category: 'Defensive Rookie of the Year: ', title: 'Nick Bosa', link: ''},
     {category: 'Passing Leader: ', title: 'Jameis Winston', link: ''},
