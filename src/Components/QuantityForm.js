@@ -180,41 +180,6 @@ export class QuantityForm extends React.Component {
                 );
                 break;
 
-            case "various":
-                return(
-                    <MuiThemeProvider>
-                    <>
-                      <Dialog
-                        open
-                        fullWidth
-                        maxWidth='sm'
-                      >
-                        <AppBar />
-        
-                        <InputLabel id="label">What would you like to view.</InputLabel>
-                        <Select labelId="label" id="select" 
-                        onChange={handleChange('quantity')} defaultValue={values.quantity}>
-                        <MenuItem value="1">Display Five Categories</MenuItem>
-        
-                        </Select>
-    
-                        <Button
-                        color="secondary"
-                        variant="contained"
-                        onClick={this.back}
-                        >Back</Button>
-        
-                        <Button
-                          color="primary"
-                          variant="contained"
-                          onClick={this.continue}
-                        >Continue</Button>
-                      </Dialog>
-                    </>
-                  </MuiThemeProvider>
-                );
-                break;
-
             case "shows":
                 return(
                     <MuiThemeProvider>

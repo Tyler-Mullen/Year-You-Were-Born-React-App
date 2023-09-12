@@ -10,18 +10,17 @@ import FormControl from '@material-ui/core/FormControl';
 import FormLabel from '@material-ui/core/FormLabel';
 import RadioGroup from '@material-ui/core/RadioGroup';
 
-import {TopMoviesArray} from '../Data/MoviesList';
-import {YearEndSongsArray} from "../Data/MusicList"; 
-import {TopThingsArray} from '../Data/TopList';  
-import {TopTvShowsArray} from '../Data/TvShowsList';
-import {VideoGamesArray} from '../Data/VideoGamesList';
+import {TopMoviesArray} from '../data/MoviesList';
+import {YearEndSongsArray} from "../data/MusicList";  
+import {TopTvShowsArray} from '../data/TvShowsList';
+import {VideoGamesArray} from '../data/VideoGamesList';
 
-import {TopMLBArray} from '../Data/MLBList';
-import {TopNBAArray} from '../Data/NBAList';
-import {TopNFLArray} from '../Data/NFLList';
-import {TopNHLArray} from '../Data/NHLList';
-import {TopCFBArray} from '../Data/CFBList';
-import {TopCBBArray} from '../Data/CBBList';
+import {TopMLBArray} from '../data/MLBList';
+import {TopNBAArray} from '../data/NBAList';
+import {TopNFLArray} from '../data/NFLList';
+import {TopNHLArray} from '../data/NHLList';
+import {TopCFBArray} from '../data/CFBList';
+import {TopCBBArray} from '../data/CBBList';
 import { Collapse } from '@material-ui/core';
 
 function findInitialList(year, genre, quantity){
@@ -96,14 +95,6 @@ function findInitialList(year, genre, quantity){
               break;
             }
 
-        case "various":
-            for(var i = 0; i < TopThingsArray.length; i++){
-                if(year == (1950 + i)){
-                    return TopThingsArray[i];
-                }
-            }
-            break;
-
         case "shows":
             for(var i = 0; i < TopTvShowsArray.length; i++){
                 if(year == (1951 + i)){
@@ -144,11 +135,6 @@ function findPrintedList(initialList, quantity, genre){
         case "sports":
             return initialList;
 
-            break;
-
-        case "various":
-             return initialList;
-            
             break;
 
         case "shows":
@@ -295,47 +281,6 @@ export class ListPrinter extends Component{
                   </RadioGroup>
                   </FormControl>
       
-                  <Button
-                    color="secondary"
-                    variant="contained"
-                    onClick={this.back}
-                  >Back</Button>
-
-              <Button
-                color="primary"
-                variant="contained"
-                onClick={this.continue}
-              >Continue</Button>
-      
-                </Dialog>
-              </>
-            </MuiThemeProvider>
-                );
-
-
-
-            case "various":
-                const variousList = printedList.map((thing) => 
-                <li><FormControlLabel value={thing.link} control={<Radio />} label={thing.category + ": " + thing.title} /> </li>
-                );
-
-                return(
-                    <MuiThemeProvider>
-              <>
-                <Dialog
-                  open
-                  fullWidth
-                  maxWidth='sm'
-                >
-                  <AppBar />
-                  
-                  <FormControl component="fieldset">
-                  <FormLabel component="legend">Which one would you like to view.</FormLabel>
-                  <RadioGroup aria-label="link" name="link1" onChange={handleChange('selectedLink')}>
-                  <ul>{variousList}</ul>
-                  </RadioGroup>
-                  </FormControl>
-
                   <Button
                     color="secondary"
                     variant="contained"
