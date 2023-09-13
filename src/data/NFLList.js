@@ -7,7 +7,7 @@ const TopNFL1950 = [
 ];
 
 const TopNFL1951 = [
-    { category: 'NFL Championship Game Winner: ', title: 'Los Angeles Rams', link: 'https://www.youtube.com/watch?v=mafG3kFJ56U&t=9s&ab_channel=jstube36'
+    { category: 'NFL Championship Game Winner: ', title: 'Los Angeles Rams', link: 'https://www.youtube.com/watch?v=mafG3kFJ56U&t=9s&ab_channel=jstube36' },
     {category: 'NFL Championship Game Runner-Up: ', title: 'Cleveland Browns', link: '2'},
     {category: 'Passing Leader: ', title: 'Bobby Layne', link: '3'},
     {category: 'Rushing Leader: ', title: 'Eddie Price', link: '4'},

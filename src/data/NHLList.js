@@ -1,5 +1,5 @@
 const TopNHL1950 = [
-    {category: 'Stanley Cup Winner: ', title: 'Detroit Red Wings', link: ''},
+    { category: 'Stanley Cup Winner: ', title: 'Detroit Red Wings', link: 'https://www.youtube.com/watch?v=ZiZyS4TWEPg&ab_channel=WeAllBleedRedd'},
     {category: 'Stanley Cup Runner-Up: ', title: 'New York Rangers', link: ''},
     {category: 'Hart Trophy Winner: ', title: 'Chuck Rayner', link: ''},
     {category: 'Calder Trophy Winner ', title: 'Jack Gelineau', link: ''},
@@ -8,7 +8,7 @@ const TopNHL1950 = [
 ];
 
 const TopNHL1951 = [
-    {category: 'Stanley Cup Winner: ', title: 'Toronto Maple Leafs', link: ''},
+    { category: 'Stanley Cup Winner: ', title: 'Toronto Maple Leafs', link: 'https://www.youtube.com/watch?v=pJZDXnFo_Pw&ab_channel=WorldBookOfficial'},
     {category: 'Stanley Cup Runner-Up: ', titSSle: 'Montreal Canadiens', link: ''},
     {category: 'Hart Trophy Winner: ', title: 'Milt Schmidt', link: ''},
     {category: 'Calder Trophy Winner ', title: 'Terry Sawchuk', link: ''},
@@ -17,7 +17,7 @@ const TopNHL1951 = [
 ];
 
 const TopNHL1952 = [
-    {category: 'Stanley Cup Winner: ', title: 'Detroit Red Wings', link: ''},
+    { category: 'Stanley Cup Winner: ', title: 'Detroit Red Wings', link: 'https://www.youtube.com/watch?v=9KJvKUycUUU&ab_channel=yourhockeyhero'},
     {category: 'Stanley Cup Runner-Up: ', title: 'Montreal Canadiens', link: ''},
     {category: 'Hart Trophy Winner: ', title: 'Gordie Howe', link: ''},
     {category: 'Calder Trophy Winner ', title: 'Bernie Geoffrion', link: ''},
@@ -26,7 +26,7 @@ const TopNHL1952 = [
 ];
 
 const TopNHL1953 = [
-    {category: 'Stanley Cup Winner: ', title: 'Montreal Canadiens', link: ''},
+    { category: 'Stanley Cup Winner: ', title: 'Montreal Canadiens', link: 'https://www.youtube.com/watch?v=IFnTUABkaHI&ab_channel=xtHabs789'},
     {category: 'Stanley Cup Runner-Up: ', title: 'Boston Bruins', link: ''},
     {category: 'Hart Trophy Winner: ', title: 'Gordie Howe', link: ''},
     {category: 'Calder Trophy Winner ', title: 'Gump Worsley', link: ''},
@@ -35,7 +35,7 @@ const TopNHL1953 = [
 ];
 
 const TopNHL1954 = [
-    {category: 'Stanley Cup Winner: ', title: 'Detroit Red Wings', link: ''},
+    { category: 'Stanley Cup Winner: ', title: 'Detroit Red Wings', link: 'https://www.youtube.com/watch?v=ExPF-hOzfg4&ab_channel=WillPitts'},
     {category: 'Stanley Cup Runner-Up: ', title: 'Montreal Canadiens', link: ''},
     {category: 'Hart Trophy Winner: ', title: 'Al Rollins', link: ''},
     {category: 'Calder Trophy Winner ', title: 'Camille Henry', link: ''},
@@ -44,7 +44,7 @@ const TopNHL1954 = [
 ];
 
 const TopNHL1955 = [
-    {category: 'Stanley Cup Winner: ', title: 'Detroit Red Wings', link: ''},
+    { category: 'Stanley Cup Winner: ', title: 'Detroit Red Wings', link: 'https://www.youtube.com/watch?v=nCsGUNgPbiA&ab_channel=videobutch1'},
     {category: 'Stanley Cup Runner-Up: ', title: 'Montreal Canadiens', link: ''},
     {category: 'Hart Trophy Winner: ', title: 'Ted Kennedy', link: ''},
     {category: 'Calder Trophy Winner ', title: 'Ed Litzenberger', link: ''},
@@ -53,7 +53,7 @@ const TopNHL1955 = [
 ];
 
 const TopNHL1956 = [
-    {category: 'Stanley Cup Winner: ', title: 'Montreal Canadeins', link: ''},
+    { category: 'Stanley Cup Winner: ', title: 'Montreal Canadiens', link: 'https://www.youtube.com/watch?v=KISzdZAa22g&ab_channel=videobutch1'},
     {category: 'Stanley Cup Runner-Up: ', title: 'Detroit Red Wings', link: ''},
     {category: 'Hart Trophy Winner: ', title: 'Jean Beliveau', link: ''},
     {category: 'Calder Trophy Winner ', title: 'Glenn Hall', link: ''},
@@ -62,7 +62,7 @@ const TopNHL1956 = [
 ];
 
 const TopNHL1957 = [
-    {category: 'Stanley Cup Winner: ', title: 'Montreal Canadiens', link: ''},
+    { category: 'Stanley Cup Winner: ', title: 'Montreal Canadiens', link: 'https://www.youtube.com/watch?v=FgqbX70GDrY&ab_channel=videobutch1'},
     {category: 'Stanley Cup Runner-Up: ', title: 'Boston Bruins', link: ''},
     {category: 'Hart Trophy Winner: ', title: 'Gordie Howe', link: ''},
     {category: 'Calder Trophy Winner ', title: 'Larry Regan', link: ''},
@@ -71,7 +71,7 @@ const TopNHL1957 = [
 ];
 
 const TopNHL1958 = [
-    {category: 'Stanley Cup Winner: ', title: 'Montreal Canadiens', link: ''},
+    { category: 'Stanley Cup Winner: ', title: 'Montreal Canadiens', link: 'https://www.youtube.com/watch?v=_ZaXczHzxPY&ab_channel=videobutch1'},
     {category: 'Stanley Cup Runner-Up: ', title: 'Boston Bruins', link: ''},
     {category: 'Hart Trophy Winner: ', title: 'Gordie Howe', link: ''},
     {category: 'Calder Trophy Winner ', title: 'Frank Mahovlich', link: ''},
@@ -81,7 +81,7 @@ const TopNHL1958 = [
 
 
 const TopNHL1959 = [
-    {category: 'Stanley Cup Winner: ', title: 'Montreal Canadiens', link: ''},
+    { category: 'Stanley Cup Winner: ', title: 'Montreal Canadiens', link: 'https://www.youtube.com/watch?v=9AXxwhZbOQc&ab_channel=videobutch1'},
     {category: 'Stanley Cup Runner-Up: ', title: 'Toronto Maple Leafs', link: ''},
     {category: 'Hart Trophy Winner: ', title: 'Andy Bathgate', link: ''},
     {category: 'Calder Trophy Winner ', title: 'Ralph Backstrom', link: ''},
@@ -90,7 +90,7 @@ const TopNHL1959 = [
 ];
 
 const TopNHL1960 = [
-    {category: 'Stanley Cup Winner: ', title: 'Montreal Canadiens', link: ''},
+    { category: 'Stanley Cup Winner: ', title: 'Montreal Canadiens', link: 'https://www.youtube.com/watch?v=thwnl4A6fOM&ab_channel=videobutch1'},
     {category: 'Stanley Cup Runner-Up: ', title: 'Toronto Maple Leafs', link: ''},
     {category: 'Hart Trophy Winner: ', title: 'Gordie Howe', link: ''},
     {category: 'Calder Trophy Winner ', title: 'Bill Hay', link: ''},
@@ -99,7 +99,7 @@ const TopNHL1960 = [
 ];
 
 const TopNHL1961 = [
-    {category: 'Stanley Cup Winner: ', title: 'Chicago Black Hawks', link: ''},
+    { category: 'Stanley Cup Winner: ', title: 'Chicago Black Hawks', link: 'https://www.youtube.com/watch?v=sB-csuX0GBk&ab_channel=werqa123'},
     {category: 'Stanley Cup Runner-Up: ', title: 'Detroit Red Wings', link: ''},
     {category: 'Hart Trophy Winner: ', title: 'Bernie Geoffrion', link: ''},
     {category: 'Calder Trophy Winner ', title: 'Dave Keon', link: ''},
@@ -108,7 +108,7 @@ const TopNHL1961 = [
 ];
 
 const TopNHL1962 = [
-    {category: 'Stanley Cup Winner: ', title: 'Toronto Maple Leafs', link: ''},
+    { category: 'Stanley Cup Winner: ', title: 'Toronto Maple Leafs', link: 'https://www.youtube.com/watch?v=CmAKYiRQ5AQ&ab_channel=NHLOLDGAMES'},
     {category: 'Stanley Cup Runner-Up: ', title: 'Chicago Black Hawks', link: ''},
     {category: 'Hart Trophy Winner: ', title: 'Jacques Plante', link: ''},
     {category: 'Calder Trophy Winner ', title: 'Bobby Rousseau', link: ''},
@@ -117,7 +117,7 @@ const TopNHL1962 = [
 ];
 
 const TopNHL1963 = [
-    {category: 'Stanley Cup Winner: ', title: 'Toronto Maple Leafs', link: ''},
+    { category: 'Stanley Cup Winner: ', title: 'Toronto Maple Leafs', link: 'https://www.youtube.com/watch?v=fCMRlkWxQ1Q&ab_channel=Serg72'},
     {category: 'Stanley Cup Runner-Up: ', title: 'Detroit Red Wings', link: ''},
     {category: 'Hart Trophy Winner: ', title: 'Gordie Howe', link: ''},
     {category: 'Calder Trophy Winner ', title: 'Kent Douglas', link: ''},
@@ -126,7 +126,7 @@ const TopNHL1963 = [
 ];
 
 const TopNHL1964 = [
-    {category: 'Stanley Cup Winner: ', title: 'Toronto Maple Leafs', link: ''},
+    { category: 'Stanley Cup Winner: ', title: 'Toronto Maple Leafs', link: 'https://www.youtube.com/watch?v=Boy6AWCpHt4&ab_channel=Serg72'},
     {category: 'Stanley Cup Runner-Up: ', title: 'Detroit Red Wings', link: ''},
     {category: 'Hart Trophy Winner: ', title: 'Jean Beliveau', link: ''},
     {category: 'Calder Trophy Winner ', title: 'Jacques Laperriere', link: ''},
@@ -135,7 +135,7 @@ const TopNHL1964 = [
 ];
 
 const TopNHL1965 = [
-    {category: 'Stanley Cup Winner: ', title: 'Montreal Canadiens', link: ''},
+    { category: 'Stanley Cup Winner: ', title: 'Montreal Canadiens', link: 'https://www.youtube.com/watch?v=_lsNZfVE5xM&ab_channel=hockeyfights.com'},
     {category: 'Stanley Cup Runner-Up: ', title: 'Chicago Black Hawks', link: ''},
     {category: 'Hart Trophy Winner: ', title: 'Bobby Hull', link: ''},
     {category: 'Calder Trophy Winner ', title: 'Roger Crozier', link: ''},
@@ -144,7 +144,7 @@ const TopNHL1965 = [
 ];
 
 const TopNHL1966 = [
-    {category: 'Stanley Cup Winner: ', title: 'Montreal Canadiens', link: ''},
+    { category: 'Stanley Cup Winner: ', title: 'Montreal Canadiens', link: 'https://www.youtube.com/watch?v=997-ME1lTsI&ab_channel=xtHabs789'},
     {category: 'Stanley Cup Runner-Up: ', title: 'Detroit Red Wings', link: ''},
     {category: 'Hart Trophy Winner: ', title: 'Bobby Hull', link: ''},
     {category: 'Calder Trophy Winner ', title: 'Brit Selby', link: ''},
@@ -153,7 +153,7 @@ const TopNHL1966 = [
 ];
 
 const TopNHL1967 = [
-    {category: 'Stanley Cup Winner: ', title: 'Toronto Maple Leafs', link: ''},
+    { category: 'Stanley Cup Winner: ', title: 'Toronto Maple Leafs', link: 'https://www.youtube.com/watch?v=1Pyap77uGSU&ab_channel=NHL'},
     {category: 'Stanley Cup Runner-Up: ', title: 'Montreal Canadiens', link: ''},
     {category: 'Hart Trophy Winner: ', title: 'Stan Mikita', link: ''},
     {category: 'Calder Trophy Winner ', title: 'Bobby Orr', link: ''},
@@ -162,7 +162,7 @@ const TopNHL1967 = [
 ];
 
 const TopNHL1968 = [
-    {category: 'Stanley Cup Winner: ', title: 'Montreal Canadiens', link: ''},
+    { category: 'Stanley Cup Winner: ', title: 'Montreal Canadiens', link: 'https://www.youtube.com/watch?v=_TwePuBQZ1o&ab_channel=LordStanleyTrophy'},
     {category: 'Stanley Cup Runner-Up: ', title: 'St. Louis Blues', link: ''},
     {category: 'Hart Trophy Winner: ', title: 'Stan Mikita', link: ''},
     {category: 'Calder Trophy Winner ', title: 'Derek Sanderson', link: ''},
@@ -171,7 +171,7 @@ const TopNHL1968 = [
 ];
 
 const TopNHL1969 = [
-    {category: 'Stanley Cup Winner: ', title: 'Montreal Canadiens', link: ''},
+    { category: 'Stanley Cup Winner: ', title: 'Montreal Canadiens', link: 'https://www.youtube.com/watch?v=eMf68pRWtLI&ab_channel=xtHabs789'},
     {category: 'Stanley Cup Runner-Up: ', title: 'St. Louis Blues', link: ''},
     {category: 'Hart Trophy Winner: ', title: 'Phil Esposito', link: ''},
     {category: 'Calder Trophy Winner ', title: 'Danny Grant', link: ''},
@@ -180,7 +180,7 @@ const TopNHL1969 = [
 ];
 
 const TopNHL1970 = [
-    {category: 'Stanley Cup Winner: ', title: 'Boston Bruins', link: ''},
+    { category: 'Stanley Cup Winner: ', title: 'Boston Bruins', link: 'https://www.youtube.com/watch?v=vbyQ8SHEQUg&ab_channel=Serg72'},
     {category: 'Stanley Cup Runner-Up: ', title: 'St. Louis Blues', link: ''},
     {category: 'Hart Trophy Winner: ', title: 'Bobby Orr', link: ''},
     {category: 'Calder Trophy Winner ', title: 'Tony Esposito', link: ''},
@@ -189,7 +189,7 @@ const TopNHL1970 = [
 ];
 
 const TopNHL1971 = [
-    {category: 'Stanley Cup Winner: ', title: 'Montreal Canadiens', link: ''},
+    { category: 'Stanley Cup Winner: ', title: 'Montreal Canadiens', link: 'https://www.youtube.com/watch?v=1l5xS6LtE8g&ab_channel=videobutch1'},
     {category: 'Stanley Cup Runner-Up: ', title: 'Chicago Black Hawks', link: ''},
     {category: 'Hart Trophy Winner: ', title: 'Bobby Orr', link: ''},
     {category: 'Calder Trophy Winner ', title: 'Gilbert Perreault', link: ''},
@@ -198,7 +198,7 @@ const TopNHL1971 = [
 ];
 
 const TopNHL1972 = [
-    {category: 'Stanley Cup Winner: ', title: 'Boston Bruins', link: ''},
+    { category: 'Stanley Cup Winner: ', title: 'Boston Bruins', link: 'https://www.youtube.com/watch?v=sIyKjauLodQ&ab_channel=NHL'},
     {category: 'Stanley Cup Runner-Up: ', title: 'New York Rangers', link: ''},
     {category: 'Hart Trophy Winner: ', title: 'Bobby Orr', link: ''},
     {category: 'Calder Trophy Winner ', title: 'Ken Dryden', link: ''},
@@ -207,7 +207,7 @@ const TopNHL1972 = [
 ];
 
 const TopNHL1973 = [
-    {category: 'Stanley Cup Winner: ', title: 'Montreal Canadiens', link: ''},
+    { category: 'Stanley Cup Winner: ', title: 'Montreal Canadiens', link: 'https://www.youtube.com/watch?v=m86avvAKnO0&ab_channel=xtHabs789'},
     {category: 'Stanley Cup Runner-Up: ', title: 'Chicago Black Hawks', link: ''},
     {category: 'Hart Trophy Winner: ', title: 'Bobby Clarke', link: ''},
     {category: 'Calder Trophy Winner ', title: 'Steve Vickers', link: ''},
@@ -216,7 +216,7 @@ const TopNHL1973 = [
 ];
 
 const TopNHL1974 = [
-    {category: 'Stanley Cup Winner: ', title: 'Philadelphia Flyers', link: ''},
+    { category: 'Stanley Cup Winner: ', title: 'Philadelphia Flyers', link: 'https://www.youtube.com/watch?v=nLY2hq5vlw0&ab_channel=NHLPlayoffsArchivedGames'},
     {category: 'Stanley Cup Runner-Up: ', title: 'Boston Bruins', link: ''},
     {category: 'Hart Trophy Winner: ', title: 'Phil Esposito', link: ''},
     {category: 'Calder Trophy Winner ', title: 'Denis Potvin', link: ''},
@@ -225,7 +225,7 @@ const TopNHL1974 = [
 ];
 
 const TopNHL1975 = [
-    {category: 'Stanley Cup Winner: ', title: 'Philadelphia Flyers', link: ''},
+    { category: 'Stanley Cup Winner: ', title: 'Philadelphia Flyers', link: 'https://www.youtube.com/watch?v=NYfvJWNFPLU&ab_channel=MikeMatthews'},
     {category: 'Stanley Cup Runner-Up: ', title: 'Buffalo Sabres', link: ''},
     {category: 'Hart Trophy Winner: ', title: 'Bobby Clarke', link: ''},
     {category: 'Calder Trophy Winner ', title: 'Eric Vail', link: ''},
@@ -234,7 +234,7 @@ const TopNHL1975 = [
 ];
 
 const TopNHL1976 = [
-    {category: 'Stanley Cup Winner: ', title: 'Montreal Canadiens', link: ''},
+    { category: 'Stanley Cup Winner: ', title: 'Montreal Canadiens', link: 'https://www.youtube.com/watch?v=7n5F3di1Mu4&ab_channel=NHL'},
     {category: 'Stanley Cup Runner-Up: ', title: 'Philadelphia Flyers', link: ''},
     {category: 'Hart Trophy Winner: ', title: 'Bobby Clarke', link: ''},
     {category: 'Calder Trophy Winner ', title: 'Bryan Trottier', link: ''},
@@ -243,7 +243,7 @@ const TopNHL1976 = [
 ];
 
 const TopNHL1977 = [
-    {category: 'Stanley Cup Winner: ', title: 'Montreal Canadiens', link: ''},
+    { category: 'Stanley Cup Winner: ', title: 'Montreal Canadiens', link: 'https://www.youtube.com/watch?v=ZK7VF2-gIwg&ab_channel=NHL'},
     {category: 'Stanley Cup Runner-Up: ', title: 'Boston Bruins', link: ''},
     {category: 'Hart Trophy Winner: ', title: 'Guy Lafleur', link: ''},
     {category: 'Calder Trophy Winner ', title: 'Willi Plett', link: ''},
@@ -252,7 +252,7 @@ const TopNHL1977 = [
 ];
 
 const TopNHL1978 = [
-    {category: 'Stanley Cup Winner: ', title: 'Montreal Canadiens', link: ''},
+    { category: 'Stanley Cup Winner: ', title: 'Montreal Canadiens', link: 'https://www.youtube.com/watch?v=3Sknjqt9zHQ&ab_channel=NHLPlayoffsArchivedGames'},
     {category: 'Stanley Cup Runner-Up: ', title: 'Boston Bruins', link: ''},
     {category: 'Hart Trophy Winner: ', title: 'Guy Lafleur', link: ''},
     {category: 'Calder Trophy Winner ', title: 'Mike Bossy', link: ''},
@@ -261,7 +261,7 @@ const TopNHL1978 = [
 ];
 
 const TopNHL1979 = [
-    {category: 'Stanley Cup Winner: ', title: 'Montreal Canadiens', link: ''},
+    { category: 'Stanley Cup Winner: ', title: 'Montreal Canadiens', link: 'https://www.youtube.com/watch?v=QMu4qRprENE&ab_channel=NHL'},
     {category: 'Stanley Cup Runner-Up: ', title: 'New York Rangers', link: ''},
     {category: 'Hart Trophy Winner: ', title: 'Bryan Trottier', link: ''},
     {category: 'Calder Trophy Winner ', title: 'Bobby Smith', link: ''},
@@ -270,7 +270,7 @@ const TopNHL1979 = [
 ];
 
 const TopNHL1980 = [
-    {category: 'Stanley Cup Winner: ', title: 'New York Islanders', link: ''},
+    { category: 'Stanley Cup Winner: ', title: 'New York Islanders', link: 'https://www.youtube.com/watch?v=4RqaCoGxvxU&ab_channel=IslandersPride'},
     {category: 'Stanley Cup Runner-Up: ', title: 'Philadelphia Flyers', link: ''},
     {category: 'Hart Trophy Winner: ', title: 'Wayne Gretzky', link: ''},
     {category: 'Calder Trophy Winner ', title: 'Ray Bourque', link: ''},
@@ -279,7 +279,7 @@ const TopNHL1980 = [
 ];
 
 const TopNHL1981 = [
-    {category: 'Stanley Cup Winner: ', title: 'New York Islanders', link: ''},
+    { category: 'Stanley Cup Winner: ', title: 'New York Islanders', link: 'https://www.youtube.com/watch?v=r43kFpX-ZGU&ab_channel=IslandersPride'},
     {category: 'Stanley Cup Runner-Up: ', title: 'Minnesota North Stars', link: ''},
     {category: 'Hart Trophy Winner: ', title: 'Wayne Gretzky', link: ''},
     {category: 'Calder Trophy Winner ', title: 'Peter Stastny', link: ''},
@@ -288,7 +288,7 @@ const TopNHL1981 = [
 ];
 
 const TopNHL1982 = [
-    {category: 'Stanley Cup Winner: ', title: 'New York Islanders', link: ''},
+    { category: 'Stanley Cup Winner: ', title: 'New York Islanders', link: 'https://www.youtube.com/watch?v=QHNiHhgVlNo&ab_channel=Sab'},
     {category: 'Stanley Cup Runner-Up: ', title: 'Vancouver Canucks', link: ''},
     {category: 'Hart Trophy Winner: ', title: 'Wayne Gretzky', link: ''},
     {category: 'Calder Trophy Winner ', title: 'Dale Hawerchuk', link: ''},
@@ -297,7 +297,7 @@ const TopNHL1982 = [
 ];
 
 const TopNHL1983 = [
-    {category: 'Stanley Cup Winner: ', title: 'New York Islanders', link: ''},
+    { category: 'Stanley Cup Winner: ', title: 'New York Islanders', link: 'https://www.youtube.com/watch?v=84zmaFoHSjE&ab_channel=RyanG'},
     {category: 'Stanley Cup Runner-Up: ', title: 'Edmonton Oilers', link: ''},
     {category: 'Hart Trophy Winner: ', title: 'Wayne Gretzky', link: ''},
     {category: 'Calder Trophy Winner ', title: 'Steve Larmer', link: ''},
@@ -306,7 +306,7 @@ const TopNHL1983 = [
 ];
 
 const TopNHL1984 = [
-    {category: 'Stanley Cup Winner: ', title: 'Edmonton Oilers', link: ''},
+    { category: 'Stanley Cup Winner: ', title: 'Edmonton Oilers', link: 'https://www.youtube.com/watch?v=Y8WsrejQ4qo&ab_channel=NHL'},
     {category: 'Stanley Cup Runner-Up: ', title: 'New York Islanders', link: ''},
     {category: 'Hart Trophy Winner: ', title: 'Wayne Gretzky', link: ''},
     {category: 'Calder Trophy Winner ', title: 'Tom Barrasso', link: ''},
@@ -315,7 +315,7 @@ const TopNHL1984 = [
 ];
 
 const TopNHL1985 = [
-    {category: 'Stanley Cup Winner: ', title: 'Edmonton Oilers', link: ''},
+    { category: 'Stanley Cup Winner: ', title: 'Edmonton Oilers', link: 'https://www.youtube.com/watch?v=8S94a4wFqS0&ab_channel=NHLPlayoffsArchivedGames'},
     {category: 'Stanley Cup Runner-Up: ', title: 'Philadelphia Flyers', link: ''},
     {category: 'Hart Trophy Winner: ', title: 'Wayne Gretzky', link: ''},
     {category: 'Calder Trophy Winner ', title: 'Mario Lemieux', link: ''},
@@ -324,7 +324,7 @@ const TopNHL1985 = [
 ];
 
 const TopNHL1986 = [
-    {category: 'Stanley Cup Winner: ', title: 'Montreal Canadiens', link: ''},
+    { category: 'Stanley Cup Winner: ', title: 'Montreal Canadiens', link: 'https://www.youtube.com/watch?v=ku0PsycBZtk&ab_channel=xtHabs789'},
     {category: 'Stanley Cup Runner-Up: ', title: 'Calgary Flames', link: ''},
     {category: 'Hart Trophy Winner: ', title: 'Wayne Gretzky', link: ''},
     {category: 'Calder Trophy Winner ', title: 'Gary Suter', link: ''},
@@ -333,7 +333,7 @@ const TopNHL1986 = [
 ];
 
 const TopNHL1987 = [
-    {category: 'Stanley Cup Winner: ', title: 'Edmonton Oilers', link: ''},
+    { category: 'Stanley Cup Winner: ', title: 'Edmonton Oilers', link: 'https://www.youtube.com/watch?v=nZSorsZvWjk&ab_channel=MG88'},
     {category: 'Stanley Cup Runner-Up: ', title: 'Philadelphia Flyers', link: ''},
     {category: 'Hart Trophy Winner: ', title: 'Wayne Gretzky', link: ''},
     {category: 'Calder Trophy Winner ', title: 'Luc Robitaille', link: ''},
@@ -342,7 +342,7 @@ const TopNHL1987 = [
 ];
 
 const TopNHL1988 = [
-    {category: 'Stanley Cup Winner: ', title: 'Edmonton Oilers', link: ''},
+    { category: 'Stanley Cup Winner: ', title: 'Edmonton Oilers', link: 'https://www.youtube.com/watch?v=7JUOhIp9yPo&ab_channel=RetroRookie'},
     {category: 'Stanley Cup Runner-Up: ', title: 'Boston Bruins', link: ''},
     {category: 'Hart Trophy Winner: ', title: 'Mario Lemieux', link: ''},
     {category: 'Calder Trophy Winner ', title: 'Joe Nieuwendyk', link: ''},
@@ -351,7 +351,7 @@ const TopNHL1988 = [
 ];
 
 const TopNHL1989 = [
-    {category: 'Stanley Cup Winner: ', title: 'Calgary Flames', link: ''},
+    { category: 'Stanley Cup Winner: ', title: 'Calgary Flames', link: 'https://www.youtube.com/watch?v=SLgk9luWG5w&ab_channel=Serg72'},
     {category: 'Stanley Cup Runner-Up: ', title: 'Montreal Canadiens', link: ''},
     {category: 'Hart Trophy Winner: ', title: 'Wayne Gretzky', link: ''},
     {category: 'Calder Trophy Winner ', title: 'Brian Leetch', link: ''},
@@ -360,7 +360,7 @@ const TopNHL1989 = [
 ];
 
 const TopNHL1990 = [
-    {category: 'Stanley Cup Winner: ', title: 'Edmonton Oilers', link: ''},
+    { category: 'Stanley Cup Winner: ', title: 'Edmonton Oilers', link: 'https://www.youtube.com/watch?v=sw0rPTf2iMQ&ab_channel=SPORTSNET'},
     {category: 'Stanley Cup Runner-Up: ', title: 'Boston Bruins', link: ''},
     {category: 'Hart Trophy Winner: ', title: 'Mark Messier', link: ''},
     {category: 'Calder Trophy Winner ', title: 'Sergei Makarov', link: ''},
@@ -369,7 +369,7 @@ const TopNHL1990 = [
 ];
 
 const TopNHL1991 = [
-    {category: 'Stanley Cup Winner: ', title: 'Pittsburgh Penguins', link: ''},
+    { category: 'Stanley Cup Winner: ', title: 'Pittsburgh Penguins', link: 'https://www.youtube.com/watch?v=t1d6UipX9aY&ab_channel=PittsburghPenguins'},
     {category: 'Stanley Cup Runner-Up: ', title: 'Minnesota North Stars', link: ''},
     {category: 'Hart Trophy Winner: ', title: 'Brett Hull', link: ''},
     {category: 'Calder Trophy Winner ', title: 'Ed Belfour', link: ''},
@@ -378,7 +378,7 @@ const TopNHL1991 = [
 ];
 
 const TopNHL1992 = [
-    {category: 'Stanley Cup Winner: ', title: 'Pittsburgh Penguins', link: ''},
+    { category: 'Stanley Cup Winner: ', title: 'Pittsburgh Penguins', link: 'https://www.youtube.com/watch?v=ONU4HUyFrT4&ab_channel=PittsburghPenguins'},
     {category: 'Stanley Cup Runner-Up: ', title: 'Chicago Blackhawks', link: ''},
     {category: 'Hart Trophy Winner: ', title: 'Mark Messier', link: ''},
     {category: 'Calder Trophy Winner ', title: 'Pavel Bure', link: ''},
@@ -387,7 +387,7 @@ const TopNHL1992 = [
 ];
 
 const TopNHL1993 = [
-    {category: 'Stanley Cup Winner: ', title: 'Montreal Canadiens', link: ''},
+    { category: 'Stanley Cup Winner: ', title: 'Montreal Canadiens', link: 'https://www.youtube.com/watch?v=h-Itg7Frnk0&ab_channel=SPORTSNET'},
     {category: 'Stanley Cup Runner-Up: ', title: 'Los Angeles Kings', link: ''},
     {category: 'Hart Trophy Winner: ', title: 'Mario Lemieux', link: ''},
     {category: 'Calder Trophy Winner ', title: 'Teemu Selanne', link: ''},
@@ -396,7 +396,7 @@ const TopNHL1993 = [
 ];
 
 const TopNHL1994 = [
-    {category: 'Stanley Cup Winner: ', title: 'New York Rangers', link: ''},
+    { category: 'Stanley Cup Winner: ', title: 'New York Rangers', link: 'https://www.youtube.com/watch?v=om4z2fpPO2g&ab_channel=GooglyEyedScorpion'},
     {category: 'Stanley Cup Runner-Up: ', title: 'Vancouver Canucks', link: ''},
     {category: 'Hart Trophy Winner: ', title: 'Sergei Fedorov', link: ''},
     {category: 'Calder Trophy Winner ', title: 'Martin Brodeur', link: ''},
@@ -405,7 +405,7 @@ const TopNHL1994 = [
 ];
 
 const TopNHL1995 = [
-    {category: 'Stanley Cup Winner: ', title: 'New Jersey Devils', link: ''},
+    { category: 'Stanley Cup Winner: ', title: 'New Jersey Devils', link: 'https://www.youtube.com/watch?v=bc35SP4I5Wg&ab_channel=JackoTV'},
     {category: 'Stanley Cup Runner-Up: ', title: 'Detroit Red Wings', link: ''},
     {category: 'Hart Trophy Winner: ', title: 'Eric Lindros', link: ''},
     {category: 'Calder Trophy Winner ', title: 'Peter Forsberg', link: ''},
@@ -414,7 +414,7 @@ const TopNHL1995 = [
 ];
 
 const TopNHL1996 = [
-    {category: 'Stanley Cup Winner: ', title: 'Colorado Avalanche', link: ''},
+    { category: 'Stanley Cup Winner: ', title: 'Colorado Avalanche', link: 'https://www.youtube.com/watch?v=W7X2ndQ-Jp4&ab_channel=Serg72'},
     {category: 'Stanley Cup Runner-Up: ', title: 'Florida Panthers', link: ''},
     {category: 'Hart Trophy Winner: ', title: 'Mario Lemieux', link: ''},
     {category: 'Calder Trophy Winner ', title: 'Daniel Alfredsson', link: ''},
@@ -423,7 +423,7 @@ const TopNHL1996 = [
 ];
 
 const TopNHL1997 = [
-    {category: 'Stanley Cup Winner: ', title: 'Detroit Red Wings', link: ''},
+    { category: 'Stanley Cup Winner: ', title: 'Detroit Red Wings', link: 'https://www.youtube.com/watch?v=GeP3MP85lcE&ab_channel=awood40'},
     {category: 'Stanley Cup Runner-Up: ', title: 'Philadelphia Flyers', link: ''},
     {category: 'Hart Trophy Winner: ', title: 'Dominik Hasek', link: ''},
     {category: 'Calder Trophy Winner ', title: 'Bryan Berard', link: ''},
@@ -432,7 +432,7 @@ const TopNHL1997 = [
 ];
 
 const TopNHL1998 = [
-    {category: 'Stanley Cup Winner: ', title: 'Detroit Red Wings', link: ''},
+    { category: 'Stanley Cup Winner: ', title: 'Detroit Red Wings', link: 'https://www.youtube.com/watch?v=Eei9akJBYCE&ab_channel=drbnzballa1'},
     {category: 'Stanley Cup Runner-Up: ', title: 'Washington Capitals', link: ''},
     {category: 'Hart Trophy Winner: ', title: 'Dominik Hasek', link: ''},
     {category: 'Calder Trophy Winner ', title: 'Sergei Samsonov', link: ''},
@@ -441,7 +441,7 @@ const TopNHL1998 = [
 ];
 
 const TopNHL1999 = [
-    {category: 'Stanley Cup Winner: ', title: 'Dallas Stars', link: ''},
+    { category: 'Stanley Cup Winner: ', title: 'Dallas Stars', link: 'https://www.youtube.com/watch?v=K-P6PHgFNBs&ab_channel=Metal_Horror_Gamer'},
     {category: 'Stanley Cup Runner-Up: ', title: 'Buffalo Sabres', link: ''},
     {category: 'Hart Trophy Winner: ', title: 'Jaromir Jagr', link: ''},
     {category: 'Calder Trophy Winner ', title: 'Chris Drury', link: ''},
@@ -450,7 +450,7 @@ const TopNHL1999 = [
 ];
 
 const TopNHL2000 = [
-    {category: 'Stanley Cup Winner: ', title: 'New Jersey Devils', link: ''},
+    { category: 'Stanley Cup Winner: ', title: 'New Jersey Devils', link: 'https://www.youtube.com/watch?v=1gz-lKWpSdo&ab_channel=McKay4429061'},
     {category: 'Stanley Cup Runner-Up: ', title: 'Dallas Stars', link: ''},
     {category: 'Hart Trophy Winner: ', title: 'Chris Pronger', link: ''},
     {category: 'Calder Trophy Winner ', title: 'Scott Gomez', link: ''},
@@ -459,7 +459,7 @@ const TopNHL2000 = [
 ];
 
 const TopNHL2001 = [
-    {category: 'Stanley Cup Winner: ', title: 'Colorado Avalanche', link: ''},
+    { category: 'Stanley Cup Winner: ', title: 'Colorado Avalanche', link: 'https://www.youtube.com/watch?v=u1UOx58VbzA&ab_channel=Serg72'},
     {category: 'Stanley Cup Runner-Up: ', title: 'New Jersey Devils', link: ''},
     {category: 'Hart Trophy Winner: ', title: 'Joe Sakic', link: ''},
     {category: 'Calder Trophy Winner ', title: 'Evgeni Nabokov', link: ''},
@@ -468,7 +468,7 @@ const TopNHL2001 = [
 ];
 
 const TopNHL2002 = [
-    {category: 'Stanley Cup Winner: ', title: 'Detroit Red Wings', link: ''},
+    { category: 'Stanley Cup Winner: ', title: 'Detroit Red Wings', link: 'https://www.youtube.com/watch?v=sWUjjtY_V_8&ab_channel=drbnzballa1'},
     {category: 'Stanley Cup Runner-Up: ', title: 'Carolina Hurricanes', link: ''},
     {category: 'Hart Trophy Winner: ', title: 'Jose Theodore', link: ''},
     {category: 'Calder Trophy Winner ', title: 'Dany Heatley', link: ''},
@@ -477,7 +477,7 @@ const TopNHL2002 = [
 ];
 
 const TopNHL2003 = [
-    {category: 'Stanley Cup Winner: ', title: 'New Jersey Devils', link: ''},
+    { category: 'Stanley Cup Winner: ', title: 'New Jersey Devils', link: 'https://www.youtube.com/watch?v=NWp2QYBX-D4&ab_channel=Serg72'},
     {category: 'Stanley Cup Runner-Up: ', title: 'Mighty Ducks of Anaheim', link: ''},
     {category: 'Hart Trophy Winner: ', title: 'Peter Forsberg', link: ''},
     {category: 'Calder Trophy Winner ', title: 'Barret Jackman', link: ''},
@@ -486,7 +486,7 @@ const TopNHL2003 = [
 ];
 
 const TopNHL2004 = [
-    {category: 'Stanley Cup Winner: ', title: 'Tampa Bay Lightning', link: ''},
+    { category: 'Stanley Cup Winner: ', title: 'Tampa Bay Lightning', link: 'https://www.youtube.com/watch?v=3aoWXVZIK3U&ab_channel=NHLOLDGAMES'},
     {category: 'Stanley Cup Runner-Up: ', title: 'Calgary Flames', link: ''},
     {category: 'Hart Trophy Winner: ', title: 'Martin St. Louis', link: ''},
     {category: 'Calder Trophy Winner ', title: 'Andrew Raycroft', link: ''},
@@ -495,16 +495,16 @@ const TopNHL2004 = [
 ];
 
 const TopNHL2005 = [
-    {category: 'Stanley Cup Winner: ', title: 'N/A', link: ''},
-    {category: 'Stanley Cup Runner-Up: ', title: 'N/A', link: ''},
-    {category: 'Hart Trophy Winner: ', title: 'N/A', link: ''},
-    {category: 'Calder Trophy Winner ', title: 'N/A', link: ''},
-    {category: 'Vezina Trophy Winner ', title: 'N/A', link: ''},
-    {category: 'Points Leader ', title: 'N/A', link: ''},
+    { category: 'Stanley Cup Winner: ', title: 'N/A', link: 'https://www.youtube.com/watch?v=TskctJti9JI&ab_channel=DouglasDerda'},
+    { category: 'Stanley Cup Runner-Up: ', title: 'N/A', link: 'https://www.youtube.com/watch?v=TskctJti9JI&ab_channel=DouglasDerda'},
+    { category: 'Hart Trophy Winner: ', title: 'N/A', link: 'https://www.youtube.com/watch?v=TskctJti9JI&ab_channel=DouglasDerda'},
+    { category: 'Calder Trophy Winner ', title: 'N/A', link: 'https://www.youtube.com/watch?v=TskctJti9JI&ab_channel=DouglasDerda'},
+    { category: 'Vezina Trophy Winner ', title: 'N/A', link: 'https://www.youtube.com/watch?v=TskctJti9JI&ab_channel=DouglasDerda'},
+    { category: 'Points Leader ', title: 'N/A', link: 'https://www.youtube.com/watch?v=TskctJti9JI&ab_channel=DouglasDerda'},
 ];
 
 const TopNHL2006 = [
-    {category: 'Stanley Cup Winner: ', title: 'Carolina Hurricanes', link: ''},
+    { category: 'Stanley Cup Winner: ', title: 'Carolina Hurricanes', link: 'https://www.youtube.com/watch?v=Md14b7TgG2M&ab_channel=JackoTV'},
     {category: 'Stanley Cup Runner-Up: ', title: 'Edmonton Oilers', link: ''},
     {category: 'Hart Trophy Winner: ', title: 'Joe Thornton', link: ''},
     {category: 'Calder Trophy Winner ', title: 'Alex Ovechkin', link: ''},
@@ -513,7 +513,7 @@ const TopNHL2006 = [
 ];
 
 const TopNHL2007 = [
-    {category: 'Stanley Cup Winner: ', title: 'Anaheim Ducks', link: ''},
+    { category: 'Stanley Cup Winner: ', title: 'Anaheim Ducks', link: 'https://www.youtube.com/watch?v=WYWh12jkFiQ&ab_channel=TvetovNato'},
     {category: 'Stanley Cup Runner-Up: ', title: 'Ottawa Senators', link: ''},
     {category: 'Hart Trophy Winner: ', title: 'Sidney Crosby', link: ''},
     {category: 'Calder Trophy Winner ', title: 'Evgeni Malkin', link: ''},
@@ -522,7 +522,7 @@ const TopNHL2007 = [
 ];
 
 const TopNHL2008 = [
-    {category: 'Stanley Cup Winner: ', title: 'Detroit Red Wings', link: ''},
+    { category: 'Stanley Cup Winner: ', title: 'Detroit Red Wings', link: 'https://www.youtube.com/watch?v=HjYU0gsRYic&ab_channel=DetroitRedWings'},
     {category: 'Stanley Cup Runner-Up: ', title: 'Pittsburgh Penguins', link: ''},
     {category: 'Hart Trophy Winner: ', title: 'Alex Ovechkin', link: ''},
     {category: 'Calder Trophy Winner ', title: 'PAtrick Kane', link: ''},
@@ -531,7 +531,7 @@ const TopNHL2008 = [
 ];
 
 const TopNHL2009 = [
-    {category: 'Stanley Cup Winner: ', title: 'Pittsburgh Penguins', link: ''},
+    { category: 'Stanley Cup Winner: ', title: 'Pittsburgh Penguins', link: 'https://www.youtube.com/watch?v=yJPRIauL2YI&ab_channel=PittsburghPenguins'},
     {category: 'Stanley Cup Runner-Up: ', title: 'Detroit Red Wings', link: ''},
     {category: 'Hart Trophy Winner: ', title: 'Alex Ovechkin', link: ''},
     {category: 'Calder Trophy Winner ', title: 'Steve Mason', link: ''},
@@ -540,7 +540,7 @@ const TopNHL2009 = [
 ];
 
 const TopNHL2010 = [
-    {category: 'Stanley Cup Winner: ', title: 'Chicago Blackhawks', link: ''},
+    { category: 'Stanley Cup Winner: ', title: 'Chicago Blackhawks', link: 'https://www.youtube.com/watch?v=sFnngtbsLkc&ab_channel=SanjayIyer'},
     {category: 'Stanley Cup Runner-Up: ', title: 'Philadelphia Flyers', link: ''},
     {category: 'Hart Trophy Winner: ', title: 'Henrik Sedin', link: ''},
     {category: 'Calder Trophy Winner ', title: 'Tyler Myers', link: ''},
@@ -549,7 +549,7 @@ const TopNHL2010 = [
 ];
 
 const TopNHL2011 = [
-    {category: 'Stanley Cup Winner: ', title: 'Boston Bruins', link: ''},
+    { category: 'Stanley Cup Winner: ', title: 'Boston Bruins', link: 'https://www.youtube.com/watch?v=t7wy1YFHqUA&ab_channel=BruinsBrasil'},
     {category: 'Stanley Cup Runner-Up: ', title: 'Vancouver Canucks', link: ''},
     {category: 'Hart Trophy Winner: ', title: 'Corey Perry', link: ''},
     {category: 'Calder Trophy Winner ', title: 'Jeff Skinner', link: ''},
@@ -558,7 +558,7 @@ const TopNHL2011 = [
 ];
 
 const TopNHL2012 = [
-    {category: 'Stanley Cup Winner: ', title: 'Los Angeles Kings', link: ''},
+    { category: 'Stanley Cup Winner: ', title: 'Los Angeles Kings', link: 'https://www.youtube.com/watch?v=h0ZwK6ufqjw&ab_channel=Serg72'},
     {category: 'Stanley Cup Runner-Up: ', title: 'New Jersey Devils', link: ''},
     {category: 'Hart Trophy Winner: ', title: 'Evgeni Malkin', link: ''},
     {category: 'Calder Trophy Winner ', title: 'Gabriel Landeskog', link: ''},
@@ -567,7 +567,7 @@ const TopNHL2012 = [
 ];
 
 const TopNHL2013 = [
-    {category: 'Stanley Cup Winner: ', title: 'Chicago Blackhawks', link: ''},
+    { category: 'Stanley Cup Winner: ', title: 'Chicago Blackhawks', link: 'https://www.youtube.com/watch?v=R_pqN7Xf2_Q&ab_channel=Sundowning29'},
     {category: 'Stanley Cup Runner-Up: ', title: 'Boston Bruins', link: ''},
     {category: 'Hart Trophy Winner: ', title: 'Alex Ovechkin', link: ''},
     {category: 'Calder Trophy Winner ', title: 'Jonathan Huberdeau', link: ''},
@@ -576,7 +576,7 @@ const TopNHL2013 = [
 ];
 
 const TopNHL2014 = [
-    {category: 'Stanley Cup Winner: ', title: 'Los Angeles Kings', link: ''},
+    { category: 'Stanley Cup Winner: ', title: 'Los Angeles Kings', link: 'https://www.youtube.com/watch?v=hM1TknOGkAc&ab_channel=LAKings'},
     {category: 'Stanley Cup Runner-Up: ', title: 'New York Rangers', link: ''},
     {category: 'Hart Trophy Winner: ', title: 'Sidney Crosby', link: ''},
     {category: 'Calder Trophy Winner ', title: 'Nathan MacKinnon', link: ''},
@@ -585,7 +585,7 @@ const TopNHL2014 = [
 ];
 
 const TopNHL2015 = [
-    {category: 'Stanley Cup Winner: ', title: 'Chicago Blackhawks', link: ''},
+    { category: 'Stanley Cup Winner: ', title: 'Chicago Blackhawks', link: 'https://www.youtube.com/watch?v=Dd8YF8Bt1QY&ab_channel=StanleyCupDocs'},
     {category: 'Stanley Cup Runner-Up: ', title: 'Tampa Bay Lightning', link: ''},
     {category: 'Hart Trophy Winner: ', title: 'Carey Price', link: ''},
     {category: 'Calder Trophy Winner ', title: 'Aaron Ekblad', link: ''},
@@ -594,7 +594,7 @@ const TopNHL2015 = [
 ];
 
 const TopNHL2016 = [
-    {category: 'Stanley Cup Winner: ', title: 'Pittsburgh Penguins', link: ''},
+    { category: 'Stanley Cup Winner: ', title: 'Pittsburgh Penguins', link: 'https://www.youtube.com/watch?v=yJxX6j0Lis8&ab_channel=PittsburghPenguins'},
     {category: 'Stanley Cup Runner-Up: ', title: 'San Jose Sharks', link: ''},
     {category: 'Hart Trophy Winner: ', title: 'Patrick Kane', link: ''},
     {category: 'Calder Trophy Winner ', title: 'Artemi Panarin', link: ''},
@@ -603,7 +603,7 @@ const TopNHL2016 = [
 ];
 
 const TopNHL2017 = [
-    {category: 'Stanley Cup Winner: ', title: 'Pittsburgh Penguins', link: ''},
+    { category: 'Stanley Cup Winner: ', title: 'Pittsburgh Penguins', link: 'https://www.youtube.com/watch?v=wPVkrMbmNaM&ab_channel=PittsburghPenguins'},
     {category: 'Stanley Cup Runner-Up: ', title: 'Nashville Predators', link: ''},
     {category: 'Hart Trophy Winner: ', title: 'Connor McDavid', link: ''},
     {category: 'Calder Trophy Winner ', title: 'Auston Matthews', link: ''},
@@ -612,7 +612,7 @@ const TopNHL2017 = [
 ];
 
 const TopNHL2018 = [
-    {category: 'Stanley Cup Winner: ', title: 'Washington Capitals', link: ''},
+    { category: 'Stanley Cup Winner: ', title: 'Washington Capitals', link: 'https://www.youtube.com/watch?v=aAL93j4ri5E&ab_channel=CactusHockey'},
     {category: 'Stanley Cup Runner-Up: ', title: 'Vegas Golden Knights', link: ''},
     {category: 'Hart Trophy Winner: ', title: 'Taylor Hall', link: ''},
     {category: 'Calder Trophy Winner ', title: 'Mathew Barzal', link: ''},
@@ -621,7 +621,7 @@ const TopNHL2018 = [
 ];
 
 const TopNHL2019 = [
-    {category: 'Stanley Cup Winner: ', title: 'St. Louis Blues', link: ''},
+    { category: 'Stanley Cup Winner: ', title: 'St. Louis Blues', link: 'https://www.youtube.com/watch?v=S_87T7yw18s&ab_channel=CactusHockey'},
     {category: 'Stanley Cup Runner-Up: ', title: 'Boston Bruins', link: ''},
     {category: 'Hart Trophy Winner: ', title: 'Nikita Kucherov', link: ''},
     {category: 'Calder Trophy Winner ', title: 'Elias Pettersson', link: ''},
