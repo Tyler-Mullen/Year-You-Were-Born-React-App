@@ -1,5 +1,5 @@
 const TopNBA1950 = [
-    {category: 'NBA Championship Series Winner: ', title: 'Minneapolis Lakers', link: '1'},
+    { category: 'NBA Championship Series Winner: ', title: 'Minneapolis Lakers', link: 'https://www.youtube.com/watch?v=iC0RXUlwMGw&ab_channel=82and0'},
     {category: 'NBA Championship Series Runner-Up: ', title: 'Syracuse Nationals', link: '2'},
     {category: 'Rookie of the Year: ', title: 'Alex Groza', link: '3'},
     {category: 'Points-Per-Game Leader ', title: 'George Mikan', link: '4'},
@@ -7,7 +7,7 @@ const TopNBA1950 = [
 ];
 
 const TopNBA1951 = [
-    {category: 'NBA Championship Series Winner: ', title: 'Rochester Royals', link: '1'},
+    { category: 'NBA Championship Series Winner: ', title: 'Rochester Royals', link: 'https://www.youtube.com/watch?v=iTYmgeBgobI&ab_channel=WXXI'},
     {category: 'NBA Championship Series Runner-Up: ', title: 'New York Knicks', link: '2'},
     {category: 'Rookie of the Year: ', title: 'Paul Arizin', link: '3'},
     {category: 'Points-Per-Game Leader ', title: 'George Mikan', link: '4'},
@@ -16,7 +16,7 @@ const TopNBA1951 = [
 ];
 
 const TopNBA1952 = [
-    {category: 'NBA Championship Series Winner: ', title: 'Minneapolis Lakers', link: '1'},
+    { category: 'NBA Championship Series Winner: ', title: 'Minneapolis Lakers', link: 'https://www.youtube.com/watch?v=z-taV3aso6E&ab_channel=SportsRevisited'},
     {category: 'NBA Championship Series Runner-Up: ', title: 'New York Knicks', link: '2'},
     {category: 'Rookie of the Year: ', title: 'Mel Hutchins & Bill Tosheff', link: '3'},
     {category: 'Points-Per-Game Leader ', title: 'Paul Arizin', link: '4'},
@@ -25,7 +25,7 @@ const TopNBA1952 = [
 ];
 
 const TopNBA1953 = [
-    {category: 'NBA Championship Series Winner: ', title: 'Minneapolis Lakers', link: '1'},
+    { category: 'NBA Championship Series Winner: ', title: 'Minneapolis Lakers', link: 'https://www.youtube.com/watch?v=xhWSir_hxz4&ab_channel=fred'},
     {category: 'NBA Championship Series Runner-Up: ', title: 'New York Knicks', link: '2'},
     {category: 'Rookie of the Year: ', title: 'Monk Meineke', link: '3'},
     {category: 'Points-Per-Game Leader ', title: 'Neil Johnston', link: '4'},
@@ -34,7 +34,7 @@ const TopNBA1953 = [
 ];
 
 const TopNBA1954 = [
-    {category: 'NBA Championship Series Winner: ', title: 'Minneapolis Lakers', link: '1'},
+    { category: 'NBA Championship Series Winner: ', title: 'Minneapolis Lakers', link: 'https://www.youtube.com/watch?v=IiU6GgOr1Q0&ab_channel=TheNBAHistorian'},
     {category: 'NBA Championship Series Runner-Up: ', title: 'Syracuse Nationals', link: '2'},
     {category: 'Rookie of the Year: ', title: 'Ray Felix', link: '3'},
     {category: 'Points-Per-Game Leader ', title: 'Neil Johnston', link: '4'},
@@ -43,7 +43,7 @@ const TopNBA1954 = [
 ];
 
 const TopNBA1955 = [
-    {category: 'NBA Championship Series Winner: ', title: 'Syracuse Nationals', link: '1'},
+    { category: 'NBA Championship Series Winner: ', title: 'Syracuse Nationals', link: 'https://www.youtube.com/watch?v=V-omyxu3kfQ&ab_channel=syracuse.com'},
     {category: 'NBA Championship Series Runner-Up: ', title: 'Fort Wayne Pistons', link: '2'},
     {category: 'Rookie of the Year: ', title: 'Bob Petit', link: '3'},
     {category: 'Points-Per-Game Leader ', title: 'Neil Johnston', link: '4'},
@@ -52,7 +52,7 @@ const TopNBA1955 = [
 ];
 
 const TopNBA1956 = [
-    {category: 'NBA Championship Series Winner: ', title: 'Philadelphia Warriors', link: '1'},
+    { category: 'NBA Championship Series Winner: ', title: 'Philadelphia Warriors', link: 'https://www.youtube.com/watch?v=Fw6-m7-OcNU&ab_channel=OnlyTheBallWasBrown'},
     {category: 'NBA Championship Series Runner-Up: ', title: 'Fort Wayne Pistons', link: '2'},
     {category: 'MVP ', title: 'Bob Petit', link: '3'},
     {category: 'Rookie of the Year: ', title: 'Maurice Stokes', link: '4'},
@@ -62,7 +62,7 @@ const TopNBA1956 = [
 ];
 
 const TopNBA1957 = [
-    {category: 'NBA Championship Series Winner: ', title: 'Boston Celtics', link: '1'},
+    { category: 'NBA Championship Series Winner: ', title: 'Boston Celtics', link: 'https://www.youtube.com/watch?v=waDLzWgge7I&ab_channel=NBA'},
     {category: 'NBA Championship Series Runner-Up: ', title: 'St. Louis Hawks', link: '2'},
     {category: 'MVP ', title: 'Bob Cousy', link: '3'},
     {category: 'Rookie of the Year: ', title: 'Tom Heinsohn', link: '4'},
@@ -72,7 +72,7 @@ const TopNBA1957 = [
 ];
 
 const TopNBA1958 = [
-    {category: 'NBA Championship Series Winner: ', title: 'St. Louis Hawks', link: '1'},
+    { category: 'NBA Championship Series Winner: ', title: 'St. Louis Hawks', link: 'https://www.youtube.com/watch?v=pQH6Z5oWugM&ab_channel=fred'},
     {category: 'NBA Championship Series Runner-Up: ', title: 'Boston Celtics', link: '2'},
     {category: 'MVP ', title: 'Bill Russell', link: '3'},
     {category: 'Rookie of the Year: ', title: 'Woody Sauldsberry', link: '4'},
@@ -83,7 +83,7 @@ const TopNBA1958 = [
 
 
 const TopNBA1959 = [
-    {category: 'NBA Championship Series Winner: ', title: 'Boston Celtics', link: '1'},
+    { category: 'NBA Championship Series Winner: ', title: 'Boston Celtics', link: 'https://www.youtube.com/watch?v=bT-ywtsfCSA&ab_channel=FoggyMelsonSports'},
     {category: 'NBA Championship Series Runner-Up: ', title: 'Minneapolis Lakers', link: '2'},
     {category: 'MVP ', title: 'Bob Petit', link: '3'},
     {category: 'Rookie of the Year: ', title: 'Elgin Baylor', link: '4'},
@@ -93,7 +93,7 @@ const TopNBA1959 = [
 ];
 
 const TopNBA1960 = [
-    {category: 'NBA Championship Series Winner: ', title: 'Boston Celtics', link: '1'},
+    { category: 'NBA Championship Series Winner: ', title: 'Boston Celtics', link: 'https://www.youtube.com/watch?v=GvrCl12-kKo&ab_channel=fred'},
     {category: 'NBA Championship Series Runner-Up: ', title: 'St. Louis Hawks', link: '2'},
     {category: 'MVP ', title: 'Wilt Chamberlain', link: '3'},
     {category: 'Rookie of the Year: ', title: 'Wilt Chamberlain', link: '4'},
@@ -103,7 +103,7 @@ const TopNBA1960 = [
 ];
 
 const TopNBA1961 = [
-    {category: 'NBA Championship Series Winner: ', title: 'Boston Celtics', link: '1'},
+    { category: 'NBA Championship Series Winner: ', title: 'Boston Celtics', link: 'https://www.youtube.com/watch?v=JsXAeDsCkSo&ab_channel=NBAHistory%26StorytellersonCLNS'},
     {category: 'NBA Championship Series Runner-Up: ', title: 'St. Louis Hawks', link: '2'},
     {category: 'MVP ', title: 'Bill Russell', link: '3'},
     {category: 'Rookie of the Year: ', title: 'Oscar Robertson', link: '4'},
@@ -113,7 +113,7 @@ const TopNBA1961 = [
 ];
 
 const TopNBA1962 = [
-    {category: 'NBA Championship Series Winner: ', title: 'Boston Celtics', link: '1'},
+    { category: 'NBA Championship Series Winner: ', title: 'Boston Celtics', link: 'https://www.youtube.com/watch?v=L78v25cinYI&ab_channel=Hal15Greer'},
     {category: 'NBA Championship Series Runner-Up: ', title: 'Los Angeles Lakers', link: '2'},
     {category: 'MVP ', title: 'Bill Russell', link: '3'},
     {category: 'Rookie of the Year: ', title: 'Walt Bellamy', link: '4'},
@@ -123,7 +123,7 @@ const TopNBA1962 = [
 ];
 
 const TopNBA1963 = [
-    {category: 'NBA Championship Series Winner: ', title: 'Boston Celtics', link: '1'},
+    { category: 'NBA Championship Series Winner: ', title: 'Boston Celtics', link: 'https://www.youtube.com/watch?v=aA8l1Jr7jwc&ab_channel=TOBIEDE-GWAPO'},
     {category: 'NBA Championship Series Runner-Up: ', title: 'Los Angeles Lakers', link: '2'},
     {category: 'MVP ', title: 'Bill Russell', link: '3'},
     {category: 'Rookie of the Year: ', title: 'Terry Dischinger', link: '4'},
@@ -133,7 +133,7 @@ const TopNBA1963 = [
 ];
 
 const TopNBA1964 = [
-    {category: 'NBA Championship Series Winner: ', title: 'Boston Celtics', link: '1'},
+    { category: 'NBA Championship Series Winner: ', title: 'Boston Celtics', link: 'https://www.youtube.com/watch?v=m188YsgQCXQ&ab_channel=TOBIEDE-GWAPO'},
     {category: 'NBA Championship Series Runner-Up: ', title: 'San Francisco Warriors', link: '2'},
     {category: 'MVP ', title: 'Oscar Robertson', link: '3'},
     {category: 'Rookie of the Year: ', title: 'Jerry Lucas', link: '4'},
@@ -143,7 +143,7 @@ const TopNBA1964 = [
 ];
 
 const TopNBA1965 = [
-    {category: 'NBA Championship Series Winner: ', title: 'Boston Celtics', link: '1'},
+    { category: 'NBA Championship Series Winner: ', title: 'Boston Celtics', link: 'https://www.youtube.com/watch?v=J4fTjcJwImw&ab_channel=NBA'},
     {category: 'NBA Championship Series Runner-Up: ', title: 'Los Angeles Lakers', link: '2'},
     {category: 'MVP ', title: 'Bill Russell', link: '3'},
     {category: 'Rookie of the Year: ', title: 'Willis Reed', link: '4'},
@@ -153,7 +153,7 @@ const TopNBA1965 = [
 ];
 
 const TopNBA1966 = [
-    {category: 'NBA Championship Series Winner: ', title: 'Boston Celtics', link: '1'},
+    { category: 'NBA Championship Series Winner: ', title: 'Boston Celtics', link: 'https://www.youtube.com/watch?v=Jo6ASW45tRg&ab_channel=NBA'},
     {category: 'NBA Championship Series Runner-Up: ', title: 'Los Angeles Lakers', link: '2'},
     {category: 'MVP ', title: 'Wilt Chamberlain', link: '3'},
     {category: 'Rookie of the Year: ', title: 'Rick Barry', link: '4'},
@@ -163,7 +163,7 @@ const TopNBA1966 = [
 ];
 
 const TopNBA1967 = [
-    {category: 'NBA Championship Series Winner: ', title: 'Philadelphia 76ers', link: '1'},
+    { category: 'NBA Championship Series Winner: ', title: 'Philadelphia 76ers', link: 'https://www.youtube.com/watch?v=M0faQ-6RJyA&ab_channel=TelRaSports'},
     {category: 'NBA Championship Series Runner-Up: ', title: 'San Francisco Warriors', link: '2'},
     {category: 'MVP ', title: 'Wilt Chamberlain', link: '3'},
     {category: 'Rookie of the Year: ', title: 'Dave Bing', link: '4'},
@@ -173,7 +173,7 @@ const TopNBA1967 = [
 ];
 
 const TopNBA1968 = [
-    {category: 'NBA Championship Series Winner: ', title: 'Boston Celtics', link: '1'},
+    { category: 'NBA Championship Series Winner: ', title: 'Boston Celtics', link: 'https://www.youtube.com/watch?v=kqjsHwEpwf0&ab_channel=Hal15Greer'},
     {category: 'NBA Championship Series Runner-Up: ', title: 'Los Angeles Lakers', link: '2'},
     {category: 'MVP ', title: 'Wilt Chamberlain', link: '3'},
     {category: 'Rookie of the Year: ', title: 'Earl Monroe', link: '4'},
@@ -183,7 +183,7 @@ const TopNBA1968 = [
 ];
 
 const TopNBA1969 = [
-    {category: 'NBA Championship Series Winner: ', title: 'Boston Celtics', link: '1'},
+    { category: 'NBA Championship Series Winner: ', title: 'Boston Celtics', link: 'https://www.youtube.com/watch?v=H2AGB7SrvK8&ab_channel=NBA'},
     {category: 'NBA Championship Series Runner-Up: ', title: 'Los Angeles Lakers', link: '2'},
     {category: 'MVP ', title: 'Wes Unseld', link: '3'},
     {category: 'Rookie of the Year: ', title: 'Wes Unseld', link: '4'},
@@ -193,7 +193,7 @@ const TopNBA1969 = [
 ];
 
 const TopNBA1970 = [
-    {category: 'NBA Championship Series Winner: ', title: 'New York Knicks', link: '1'},
+    { category: 'NBA Championship Series Winner: ', title: 'New York Knicks', link: 'https://www.youtube.com/watch?v=bHzxM69qm50&ab_channel=MSGNetworks'},
     {category: 'NBA Championship Series Runner-Up: ', title: 'Los Angeles Lakers', link: '2'},
     {category: 'MVP ', title: 'Willis Reed', link: '3'},
     {category: 'Rookie of the Year: ', title: 'Kareem Abdul-Jabbar', link: '4'},
@@ -203,7 +203,7 @@ const TopNBA1970 = [
 ];
 
 const TopNBA1971 = [
-    {category: 'NBA Championship Series Winner: ', title: 'Milwaukee Bucks', link: '1'},
+    { category: 'NBA Championship Series Winner: ', title: 'Milwaukee Bucks', link: 'https://www.youtube.com/watch?v=wtocsxx_i0A&ab_channel=ClaytonCrowley'},
     {category: 'NBA Championship Series Runner-Up: ', title: 'Baltimore Bullets', link: '2'},
     {category: 'MVP ', title: 'Kareem Abdul-Jabbar', link: '3'},
     {category: 'Rookie of the Year: ', title: 'Dave Cowens & Geoff Petrie', link: '4'},
@@ -213,7 +213,7 @@ const TopNBA1971 = [
 ];
 
 const TopNBA1972 = [
-    {category: 'NBA Championship Series Winner: ', title: 'Los Angeles Lakers', link: '1'},
+    { category: 'NBA Championship Series Winner: ', title: 'Los Angeles Lakers', link: 'https://www.youtube.com/watch?v=F0wMKSGbidE&ab_channel=GeeLee'},
     {category: 'NBA Championship Series Runner-Up: ', title: 'New York Knicks', link: '2'},
     {category: 'MVP ', title: 'Kareem Abdul-Jabbar', link: '3'},
     {category: 'Rookie of the Year: ', title: 'Sidney Wicks', link: '4'},
@@ -223,7 +223,7 @@ const TopNBA1972 = [
 ];
 
 const TopNBA1973 = [
-    {category: 'NBA Championship Series Winner: ', title: 'New York Knicks', link: '1'},
+    { category: 'NBA Championship Series Winner: ', title: 'New York Knicks', link: 'https://www.youtube.com/watch?v=vd3_yjQSKGo&ab_channel=ginoongkamote'},
     {category: 'NBA Championship Series Runner-Up: ', title: 'Los Angeles Lakers', link: '2'},
     {category: 'MVP ', title: 'Dave Cowens', link: '3'},
     {category: 'Rookie of the Year: ', title: 'Bob McAdoo', link: '4'},
@@ -233,7 +233,7 @@ const TopNBA1973 = [
 ];
 
 const TopNBA1974 = [
-    {category: 'NBA Championship Series Winner: ', title: 'Boston Celtics', link: '1'},
+    { category: 'NBA Championship Series Winner: ', title: 'Boston Celtics', link: 'https://www.youtube.com/watch?v=SrMvaQPdFgo&ab_channel=Santiago73'},
     {category: 'NBA Championship Series Runner-Up: ', title: 'Milwaukee Bucks', link: '2'},
     {category: 'MVP ', title: 'Kareem Abdul-Jabbar', link: '3'},
     {category: 'Rookie of the Year: ', title: 'Ernie DiGregorio', link: '4'},
@@ -243,7 +243,7 @@ const TopNBA1974 = [
 ];
 
 const TopNBA1975 = [
-    {category: 'NBA Championship Series Winner: ', title: 'Golden State Warriors', link: '1'},
+    { category: 'NBA Championship Series Winner: ', title: 'Golden State Warriors', link: 'https://www.youtube.com/watch?v=1kE7tjVtWk4&ab_channel=UncleHays'},
     {category: 'NBA Championship Series Runner-Up: ', title: 'Washington Bullets', link: '2'},
     {category: 'MVP ', title: 'Bob McAdoo', link: '3'},
     {category: 'Rookie of the Year: ', title: 'Jamaal Wilkes', link: '4'},
@@ -253,7 +253,7 @@ const TopNBA1975 = [
 ];
 
 const TopNBA1976 = [
-    {category: 'NBA Championship Series Winner: ', title: 'Boston Celtics', link: '1'},
+    { category: 'NBA Championship Series Winner: ', title: 'Boston Celtics', link: 'https://www.youtube.com/watch?v=KVHy3ZcxeaU&ab_channel=BallCana'},
     {category: 'NBA Championship Series Runner-Up: ', title: 'Phoenix Suns', link: '2'},
     {category: 'MVP ', title: 'Kareem Abdul-Jabbar', link: '3'},
     {category: 'Rookie of the Year: ', title: 'Alvan Adams', link: '4'},
@@ -263,7 +263,7 @@ const TopNBA1976 = [
 ];
 
 const TopNBA1977 = [
-    {category: 'NBA Championship Series Winner: ', title: 'Portland Trail Blazers', link: '1'},
+    { category: 'NBA Championship Series Winner: ', title: 'Portland Trail Blazers', link: 'https://www.youtube.com/watch?v=W785m6afU4g&ab_channel=NBA'},
     {category: 'NBA Championship Series Runner-Up: ', title: 'Philadelphia 76ers', link: '2'},
     {category: 'MVP ', title: 'Kareem Abdul-Jabbar', link: '3'},
     {category: 'Rookie of the Year: ', title: 'Adrian Dantley', link: '4'},
@@ -273,7 +273,7 @@ const TopNBA1977 = [
 ];
 
 const TopNBA1978 = [
-    {category: 'NBA Championship Series Winner: ', title: 'Washington Bullets', link: '1'},
+    { category: 'NBA Championship Series Winner: ', title: 'Washington Bullets', link: 'https://www.youtube.com/watch?v=m9qqmk7r2Ig&ab_channel=ginoongkamote'},
     {category: 'NBA Championship Series Runner-Up: ', title: 'Seattle SuperSonics', link: '2'},
     {category: 'MVP ', title: 'Bill Walton', link: '3'},
     {category: 'Rookie of the Year: ', title: 'Walter Davis', link: '4'},
@@ -283,7 +283,7 @@ const TopNBA1978 = [
 ];
 
 const TopNBA1979 = [
-    {category: 'NBA Championship Series Winner: ', title: 'Seattle SuperSonics', link: '1'},
+    { category: 'NBA Championship Series Winner: ', title: 'Seattle SuperSonics', link: 'https://www.youtube.com/watch?v=_rokuqlf-b4&ab_channel=PaulNickson'},
     {category: 'NBA Championship Series Runner-Up: ', title: 'Washington Bullets', link: '2'},
     {category: 'MVP ', title: 'Moses Malone', link: '3'},
     {category: 'Rookie of the Year: ', title: 'Phil Ford', link: '4'},
@@ -293,7 +293,7 @@ const TopNBA1979 = [
 ];
 
 const TopNBA1980 = [
-    {category: 'NBA Championship Series Winner: ', title: 'Los Angeles Lakers', link: '1'},
+    { category: 'NBA Championship Series Winner: ', title: 'Los Angeles Lakers', link: 'https://www.youtube.com/watch?v=IOMDi8dMjwI&ab_channel=SQUADawkins'},
     {category: 'NBA Championship Series Runner-Up: ', title: 'Philadelphia 76ers', link: '2'},
     {category: 'MVP ', title: 'Kareem Abdul-Jabbar', link: '3'},
     {category: 'Rookie of the Year: ', title: 'Larry Bird', link: '4'},
@@ -303,7 +303,7 @@ const TopNBA1980 = [
 ];
 
 const TopNBA1981 = [
-    {category: 'NBA Championship Series Winner: ', title: 'Boston Celtics', link: '1'},
+    { category: 'NBA Championship Series Winner: ', title: 'Boston Celtics', link: 'https://www.youtube.com/watch?v=4cY1GHIwcs8&ab_channel=SQUADawkins1'},
     {category: 'NBA Championship Series Runner-Up: ', title: 'Houston Rockets', link: '2'},
     {category: 'MVP ', title: 'Julius Erving', link: '3'},
     {category: 'Rookie of the Year: ', title: 'Darrell Griffith', link: '4'},
@@ -313,7 +313,7 @@ const TopNBA1981 = [
 ];
 
 const TopNBA1982 = [
-    {category: 'NBA Championship Series Winner: ', title: 'Los Angeles Lakers', link: '1'},
+    { category: 'NBA Championship Series Winner: ', title: 'Los Angeles Lakers', link: 'https://www.youtube.com/watch?v=W-zRD0JqoH8&ab_channel=SQUADawkins'},
     {category: 'NBA Championship Series Runner-Up: ', title: 'Philadelphia 76ers', link: '2'},
     {category: 'MVP ', title: 'Moses Malone', link: '3'},
     {category: 'Rookie of the Year: ', title: 'Buck Williams', link: '4'},
@@ -323,7 +323,7 @@ const TopNBA1982 = [
 ];
 
 const TopNBA1983 = [
-    {category: 'NBA Championship Series Winner: ', title: 'Philadelphia 76ers', link: '1'},
+    { category: 'NBA Championship Series Winner: ', title: 'Philadelphia 76ers', link: 'https://www.youtube.com/watch?v=31S1amo2Y4g&ab_channel=SQUADawkins'},
     {category: 'NBA Championship Series Runner-Up: ', title: 'Los Angeles Lakers', link: '2'},
     {category: 'MVP ', title: 'Moses Malone', link: '3'},
     {category: 'Rookie of the Year: ', title: 'Terry Cummings', link: '4'},
@@ -333,7 +333,7 @@ const TopNBA1983 = [
 ];
 
 const TopNBA1984 = [
-    {category: 'NBA Championship Series Winner: ', title: 'Boston Celtics', link: '1'},
+    { category: 'NBA Championship Series Winner: ', title: 'Boston Celtics', link: 'https://www.youtube.com/watch?v=8BxoVGxH9xs&ab_channel=Santiago73'},
     {category: 'NBA Championship Series Runner-Up: ', title: 'Los Angeles Lakers', link: '2'},
     {category: 'MVP ', title: 'Larry Bird', link: '3'},
     {category: 'Rookie of the Year: ', title: 'Ralph Sampson', link: '4'},
@@ -343,7 +343,7 @@ const TopNBA1984 = [
 ];
 
 const TopNBA1985 = [
-    {category: 'NBA Championship Series Winner: ', title: 'Los Angeles Lakers', link: '1'},
+    { category: 'NBA Championship Series Winner: ', title: 'Los Angeles Lakers', link: 'https://www.youtube.com/watch?v=yQI8j8Fb0pU&ab_channel=Santiago73'},
     {category: 'NBA Championship Series Runner-Up: ', title: 'Boston Celtics', link: '2'},
     {category: 'MVP ', title: 'Larry Bird', link: '3'},
     {category: 'Rookie of the Year: ', title: 'Michael Jordan', link: '4'},
@@ -353,7 +353,7 @@ const TopNBA1985 = [
 ];
 
 const TopNBA1986 = [
-    {category: 'NBA Championship Series Winner: ', title: 'Boston Celtics', link: '1'},
+    { category: 'NBA Championship Series Winner: ', title: 'Boston Celtics', link: 'https://www.youtube.com/watch?v=dlhTJ2L4W0w&ab_channel=liamleahy'},
     {category: 'NBA Championship Series Runner-Up: ', title: 'Houston Rockets', link: '2'},
     {category: 'MVP ', title: 'Larry Bird', link: '3'},
     {category: 'Rookie of the Year: ', title: 'Patrick Ewing', link: '4'},
@@ -363,7 +363,7 @@ const TopNBA1986 = [
 ];
 
 const TopNBA1987 = [
-    {category: 'NBA Championship Series Winner: ', title: 'Los Angeles Lakers', link: '1'},
+    { category: 'NBA Championship Series Winner: ', title: 'Los Angeles Lakers', link: 'https://www.youtube.com/watch?v=IolcobXzthI&ab_channel=Santiago73'},
     {category: 'NBA Championship Series Runner-Up: ', title: 'Boston Celtics', link: '2'},
     {category: 'MVP ', title: 'Magic Johnson', link: '3'},
     {category: 'Rookie of the Year: ', title: 'Chuck Person', link: '4'},
@@ -373,7 +373,7 @@ const TopNBA1987 = [
 ];
 
 const TopNBA1988 = [
-    {category: 'NBA Championship Series Winner: ', title: 'Los Angeles Lakers', link: '1'},
+    { category: 'NBA Championship Series Winner: ', title: 'Los Angeles Lakers', link: 'https://www.youtube.com/watch?v=fyUCCzDtO8M&ab_channel=IgorTalyuli'},
     {category: 'NBA Championship Series Runner-Up: ', title: 'Detroit Pistons', link: '2'},
     {category: 'MVP ', title: 'Michael Jordan', link: '3'},
     {category: 'Rookie of the Year: ', title: 'Mark Jackson', link: '4'},
@@ -383,7 +383,7 @@ const TopNBA1988 = [
 ];
 
 const TopNBA1989 = [
-    {category: 'NBA Championship Series Winner: ', title: 'Detroit Pistons', link: '1'},
+    { category: 'NBA Championship Series Winner: ', title: 'Detroit Pistons', link: 'https://www.youtube.com/watch?v=TFmL37oJdXk&ab_channel=off-hand'},
     {category: 'NBA Championship Series Runner-Up: ', title: 'Los Angeles Lakers', link: '2'},
     {category: 'MVP ', title: 'Magic Johnson', link: '3'},
     {category: 'Rookie of the Year: ', title: 'Mitch Richmond', link: '4'},
@@ -393,7 +393,7 @@ const TopNBA1989 = [
 ];
 
 const TopNBA1990 = [
-    {category: 'NBA Championship Series Winner: ', title: 'Detroit Pistons', link: '1'},
+    { category: 'NBA Championship Series Winner: ', title: 'Detroit Pistons', link: 'https://www.youtube.com/watch?v=5Ge-pcsVqTU&ab_channel=Santiago73'},
     {category: 'NBA Championship Series Runner-Up: ', title: 'Portland Trail Blazers', link: '2'},
     {category: 'MVP ', title: 'Magic Johnson', link: '3'},
     {category: 'Rookie of the Year: ', title: 'David Robinson', link: '4'},
@@ -403,7 +403,7 @@ const TopNBA1990 = [
 ];
 
 const TopNBA1991 = [
-    {category: 'NBA Championship Series Winner: ', title: 'Chicago Bulls', link: '1'},
+    { category: 'NBA Championship Series Winner: ', title: 'Chicago Bulls', link: 'https://www.youtube.com/watch?v=T-Y-B2yFL_g&ab_channel=GreenMosaik'},
     {category: 'NBA Championship Series Runner-Up: ', title: 'Los Angeles Lakers', link: '2'},
     {category: 'MVP ', title: 'Michael Jordan', link: '3'},
     {category: 'Rookie of the Year: ', title: 'Derrick Coleman', link: '4'},
@@ -413,7 +413,7 @@ const TopNBA1991 = [
 ];
 
 const TopNBA1992 = [
-    {category: 'NBA Championship Series Winner: ', title: 'Chicago Bulls', link: '1'},
+    { category: 'NBA Championship Series Winner: ', title: 'Chicago Bulls', link: 'https://www.youtube.com/watch?v=o9BPcbZit_M&ab_channel=IgorTalyuli'},
     {category: 'NBA Championship Series Runner-Up: ', title: 'Portland Trail Blazers', link: '2'},
     {category: 'MVP ', title: 'Michael Jordan', link: '3'},
     {category: 'Rookie of the Year: ', title: 'Larry Johnson', link: '4'},
@@ -423,7 +423,7 @@ const TopNBA1992 = [
 ];
 
 const TopNBA1993 = [
-    {category: 'NBA Championship Series Winner: ', title: 'Chicago Bulls', link: '1'},
+    { category: 'NBA Championship Series Winner: ', title: 'Chicago Bulls', link: 'https://www.youtube.com/watch?v=Cy_Pjg1zFjc&ab_channel=TheNBAHistory'},
     {category: 'NBA Championship Series Runner-Up: ', title: 'Phoenix Suns', link: '2'},
     {category: 'MVP ', title: 'Charles Barkley', link: '3'},
     {category: 'Rookie of the Year: ', title: 'Shaquille ONeal', link: '4'},
@@ -433,7 +433,7 @@ const TopNBA1993 = [
 ];
 
 const TopNBA1994 = [
-    {category: 'NBA Championship Series Winner: ', title: 'Houston Rockets', link: '1'},
+    { category: 'NBA Championship Series Winner: ', title: 'Houston Rockets', link: 'https://www.youtube.com/watch?v=MN1_jnyRmi4&ab_channel=TheNBAHistory'},
     {category: 'NBA Championship Series Runner-Up: ', title: 'New York Knicks', link: '2'},
     {category: 'MVP ', title: 'Hakeem Olajuwon', link: '3'},
     {category: 'Rookie of the Year: ', title: 'Chris Webber', link: '4'},
@@ -443,7 +443,7 @@ const TopNBA1994 = [
 ];
 
 const TopNBA1995 = [
-    {category: 'NBA Championship Series Winner: ', title: 'Houston Rockets', link: '1'},
+    { category: 'NBA Championship Series Winner: ', title: 'Houston Rockets', link: 'https://www.youtube.com/watch?v=eywwdbDB1hE&ab_channel=Santiago73'},
     {category: 'NBA Championship Series Runner-Up: ', title: 'Orlando Magic', link: '2'},
     {category: 'MVP ', title: 'David Robinson', link: '3'},
     {category: 'Rookie of the Year: ', title: 'Grant Hill & Jason Kidd', link: '4'},
@@ -453,7 +453,7 @@ const TopNBA1995 = [
 ];
 
 const TopNBA1996 = [
-    {category: 'NBA Championship Series Winner: ', title: 'Chicago Bulls', link: '1'},
+    { category: 'NBA Championship Series Winner: ', title: 'Chicago Bulls', link: 'https://www.youtube.com/watch?v=rfAoaAb3Nc0&ab_channel=JakeyG51'},
     {category: 'NBA Championship Series Runner-Up: ', title: 'Seattle SuperSonics', link: '2'},
     {category: 'MVP ', title: 'Michael Jordan', link: '3'},
     {category: 'Rookie of the Year: ', title: 'Damon Stoudamire', link: '4'},
@@ -463,7 +463,7 @@ const TopNBA1996 = [
 ];
 
 const TopNBA1997 = [
-    {category: 'NBA Championship Series Winner: ', title: 'Chicago Bulls', link: '1'},
+    { category: 'NBA Championship Series Winner: ', title: 'Chicago Bulls', link: 'https://www.youtube.com/watch?v=5Zb4VudkIKM&ab_channel=Santiago73'},
     {category: 'NBA Championship Series Runner-Up: ', title: 'Utah Jazz', link: '2'},
     {category: 'MVP ', title: 'Karl Malone', link: '3'},
     {category: 'Rookie of the Year: ', title: 'Allen Iverson', link: '4'},
@@ -473,7 +473,7 @@ const TopNBA1997 = [
 ];
 
 const TopNBA1998 = [
-    {category: 'NBA Championship Series Winner: ', title: 'Chicago Bulls', link: '1'},
+    { category: 'NBA Championship Series Winner: ', title: 'Chicago Bulls', link: 'https://www.youtube.com/watch?v=ss1PbqwZm9E&ab_channel=uAlrdyKnoWaItIz'},
     {category: 'NBA Championship Series Runner-Up: ', title: 'Utah Jazz', link: '2'},
     {category: 'MVP ', title: 'Michael Jordan', link: '3'},
     {category: 'Rookie of the Year: ', title: 'Tim Duncan', link: '4'},
@@ -483,7 +483,7 @@ const TopNBA1998 = [
 ];
 
 const TopNBA1999 = [
-    {category: 'NBA Championship Series Winner: ', title: 'San Antonio Spurs', link: '1'},
+    { category: 'NBA Championship Series Winner: ', title: 'San Antonio Spurs', link: 'https://www.youtube.com/watch?v=Zz2TOxKc0HI&ab_channel=RobertGonzales'},
     {category: 'NBA Championship Series Runner-Up: ', title: 'New York Knicks', link: '2'},
     {category: 'MVP ', title: 'Karl Malone', link: '3'},
     {category: 'Rookie of the Year: ', title: 'Vince Carter', link: '4'},
@@ -493,7 +493,7 @@ const TopNBA1999 = [
 ];
 
 const TopNBA2000 = [
-    {category: 'NBA Championship Series Winner: ', title: 'Los Angeles Lakers', link: '1'},
+    { category: 'NBA Championship Series Winner: ', title: 'Los Angeles Lakers', link: 'https://www.youtube.com/watch?v=FcSaIpM-wVE&ab_channel=KrzysztofKuczy%C5%84ski'},
     {category: 'NBA Championship Series Runner-Up: ', title: 'Indiana Pacers', link: '2'},
     {category: 'MVP ', title: 'Shaquille ONeal', link: '3'},
     {category: 'Rookie of the Year: ', title: 'Elton Brand & Steve Francis', link: '4'},
@@ -503,7 +503,7 @@ const TopNBA2000 = [
 ];
 
 const TopNBA2001 = [
-    {category: 'NBA Championship Series Winner: ', title: 'Los Angeles Lakers', link: '1'},
+    { category: 'NBA Championship Series Winner: ', title: 'Los Angeles Lakers', link: 'https://www.youtube.com/watch?v=4Q8v0TwPCi4&ab_channel=KrzysztofKuczy%C5%84ski'},
     {category: 'NBA Championship Series Runner-Up: ', title: 'Philadelphia 76ers', link: '2'},
     {category: 'MVP ', title: 'Allen Iverson', link: '3'},
     {category: 'Rookie of the Year: ', title: 'Mike Miller', link: '4'},
@@ -513,7 +513,7 @@ const TopNBA2001 = [
 ];
 
 const TopNBA2002 = [
-    {category: 'NBA Championship Series Winner: ', title: 'Los Angeles Lakers', link: '1'},
+    { category: 'NBA Championship Series Winner: ', title: 'Los Angeles Lakers', link: 'https://www.youtube.com/watch?v=xC3zXa2_gBY&ab_channel=KrzysztofKuczy%C5%84ski'},
     {category: 'NBA Championship Series Runner-Up: ', title: 'New Jersey Nets', link: '2'},
     {category: 'MVP ', title: 'Tim Duncan', link: '3'},
     {category: 'Rookie of the Year: ', title: 'Pau Gasol', link: '4'},
@@ -523,7 +523,7 @@ const TopNBA2002 = [
 ];
 
 const TopNBA2003 = [
-    {category: 'NBA Championship Series Winner: ', title: 'San Antonio Spurs', link: '1'},
+    { category: 'NBA Championship Series Winner: ', title: 'San Antonio Spurs', link: 'https://www.youtube.com/watch?v=44jYPMTufho&ab_channel=IgorTalyuli'},
     {category: 'NBA Championship Series Runner-Up: ', title: 'New Jersey Nets', link: '2'},
     {category: 'MVP ', title: 'Tim Duncan', link: '3'},
     {category: 'Rookie of the Year: ', title: 'Amare Stoudemire', link: '4'},
@@ -533,7 +533,7 @@ const TopNBA2003 = [
 ];
 
 const TopNBA2004 = [
-    {category: 'NBA Championship Series Winner: ', title: 'Detroit Pistons', link: '1'},
+    { category: 'NBA Championship Series Winner: ', title: 'Detroit Pistons', link: 'https://www.youtube.com/watch?v=6acdJB13lew&ab_channel=DetroitJaxn'},
     {category: 'NBA Championship Series Runner-Up: ', title: 'Los Angeles Lakers', link: '2'},
     {category: 'MVP ', title: 'Kevin Garnett', link: '3'},
     {category: 'Rookie of the Year: ', title: 'LeBron James', link: '4'},
@@ -543,7 +543,7 @@ const TopNBA2004 = [
 ];
 
 const TopNBA2005 = [
-    {category: 'NBA Championship Series Winner: ', title: 'San Antonio Spurs', link: '1'},
+    { category: 'NBA Championship Series Winner: ', title: 'San Antonio Spurs', link: 'https://www.youtube.com/watch?v=hr-OF9TdFQ4&ab_channel=IgorTalyuli'},
     {category: 'NBA Championship Series Runner-Up: ', title: 'Detroit Pistons', link: '2'},
     {category: 'MVP ', title: 'Steve Nash', link: '3'},
     {category: 'Rookie of the Year: ', title: 'Emeka Okafor', link: '4'},
@@ -553,7 +553,7 @@ const TopNBA2005 = [
 ];
 
 const TopNBA2006 = [
-    {category: 'NBA Championship Series Winner: ', title: 'Miami Heat', link: '1'},
+    { category: 'NBA Championship Series Winner: ', title: 'Miami Heat', link: 'https://www.youtube.com/watch?v=N3YrywduME4&ab_channel=IgorTalyuli'},
     {category: 'NBA Championship Series Runner-Up: ', title: 'Dallas Mavericks', link: '2'},
     {category: 'MVP ', title: 'Steve Nash', link: '3'},
     {category: 'Rookie of the Year: ', title: 'Chris Paul', link: '4'},
@@ -563,7 +563,7 @@ const TopNBA2006 = [
 ];
 
 const TopNBA2007 = [
-    {category: 'NBA Championship Series Winner: ', title: 'San Antonio Spurs', link: '1'},
+    { category: 'NBA Championship Series Winner: ', title: 'San Antonio Spurs', link: 'https://www.youtube.com/watch?v=dFqEU6R5RRo&ab_channel=IgorTalyuli'},
     {category: 'NBA Championship Series Runner-Up: ', title: 'Cleveland Cavaliers', link: '2'},
     {category: 'MVP ', title: 'Dirk Nowitzki', link: '3'},
     {category: 'Rookie of the Year: ', title: 'Brandon Roy', link: '4'},
@@ -573,7 +573,7 @@ const TopNBA2007 = [
 ];
 
 const TopNBA2008 = [
-    {category: 'NBA Championship Series Winner: ', title: 'Boston Celtics', link: '1'},
+    { category: 'NBA Championship Series Winner: ', title: 'Boston Celtics', link: 'https://www.youtube.com/watch?v=dLmaYaPFajc&ab_channel=IgorTalyuli'},
     {category: 'NBA Championship Series Runner-Up: ', title: 'Los Angeles Lakers', link: '2'},
     {category: 'MVP ', title: 'Kobe Bryant', link: '3'},
     {category: 'Rookie of the Year: ', title: 'Kevin Durant', link: '4'},
@@ -583,7 +583,7 @@ const TopNBA2008 = [
 ];
 
 const TopNBA2009 = [
-    {category: 'NBA Championship Series Winner: ', title: 'Los Angeles Lakers', link: '1'},
+    { category: 'NBA Championship Series Winner: ', title: 'Los Angeles Lakers', link: 'https://www.youtube.com/watch?v=DZ2Lnr3iBeg&ab_channel=sloopcards'},
     {category: 'NBA Championship Series Runner-Up: ', title: 'Orlando Magic', link: '2'},
     {category: 'MVP ', title: 'LeBron James', link: '3'},
     {category: 'Rookie of the Year: ', title: 'Derrick Rose', link: '4'},
@@ -593,7 +593,7 @@ const TopNBA2009 = [
 ];
 
 const TopNBA2010 = [
-    {category: 'NBA Championship Series Winner: ', title: 'Los Angeles Lakers', link: '1'},
+    { category: 'NBA Championship Series Winner: ', title: 'Los Angeles Lakers', link: 'https://www.youtube.com/watch?v=TEat9bfStbY&ab_channel=KrzysztofKuczy%C5%84ski'},
     {category: 'NBA Championship Series Runner-Up: ', title: 'Boston Celtics', link: '2'},
     {category: 'MVP ', title: 'LeBron James', link: '3'},
     {category: 'Rookie of the Year: ', title: 'Tyreke Evans', link: '4'},
@@ -603,7 +603,7 @@ const TopNBA2010 = [
 ];
 
 const TopNBA2011 = [
-    {category: 'NBA Championship Series Winner: ', title: 'Dallas Mavericks', link: '1'},
+    { category: 'NBA Championship Series Winner: ', title: 'Dallas Mavericks', link: 'https://www.youtube.com/watch?v=bwPMuDkCxcM&ab_channel=DavidTran'},
     {category: 'NBA Championship Series Runner-Up: ', title: 'Miami Heat', link: '2'},
     {category: 'MVP ', title: 'Derrick Rose', link: '3'},
     {category: 'Rookie of the Year: ', title: 'Blake Griffin', link: '4'},
@@ -613,7 +613,7 @@ const TopNBA2011 = [
 ];
 
 const TopNBA2012 = [
-    {category: 'NBA Championship Series Winner: ', title: 'Miami Heat', link: '1'},
+    { category: 'NBA Championship Series Winner: ', title: 'Miami Heat', link: 'https://www.youtube.com/watch?v=MoTFKyd9pT0&ab_channel=Santiago73'},
     {category: 'NBA Championship Series Runner-Up: ', title: 'Oklahoma City Thunder', link: '2'},
     {category: 'MVP ', title: 'LeBron James', link: '3'},
     {category: 'Rookie of the Year: ', title: 'Kyrie Irving', link: '4'},
@@ -623,7 +623,7 @@ const TopNBA2012 = [
 ];
 
 const TopNBA2013 = [
-    {category: 'NBA Championship Series Winner: ', title: 'Miami Heat', link: '1'},
+    { category: 'NBA Championship Series Winner: ', title: 'Miami Heat', link: 'https://www.youtube.com/watch?v=oOb1xM7W4xY&ab_channel=Santiago73'},
     {category: 'NBA Championship Series Runner-Up: ', title: 'San Antonio Spurs', link: '2'},
     {category: 'MVP ', title: 'LeBron James', link: '3'},
     {category: 'Rookie of the Year: ', title: 'Damian Lillard', link: '4'},
@@ -633,7 +633,7 @@ const TopNBA2013 = [
 ];
 
 const TopNBA2014 = [
-    {category: 'NBA Championship Series Winner: ', title: 'San Antonio Spurs', link: '1'},
+    { category: 'NBA Championship Series Winner: ', title: 'San Antonio Spurs', link: 'https://www.youtube.com/watch?v=VxZrKBs2KkU&ab_channel=NBA'},
     {category: 'NBA Championship Series Runner-Up: ', title: 'Miami Heat', link: '2'},
     {category: 'MVP ', title: 'Kevin Durant', link: '3'},
     {category: 'Rookie of the Year: ', title: 'Michael Carter-Williams', link: '4'},
@@ -643,7 +643,7 @@ const TopNBA2014 = [
 ];
 
 const TopNBA2015 = [
-    {category: 'NBA Championship Series Winner: ', title: 'Golden State Warriors', link: '1'},
+    { category: 'NBA Championship Series Winner: ', title: 'Golden State Warriors', link: 'https://www.youtube.com/watch?v=KgLP6xcOJuQ&ab_channel=NBA'},
     {category: 'NBA Championship Series Runner-Up: ', title: 'Cleveland Cavaliers', link: '2'},
     {category: 'MVP ', title: 'Stephen Curry', link: '3'},
     {category: 'Rookie of the Year: ', title: 'Andrew Wiggins', link: '4'},
@@ -653,7 +653,7 @@ const TopNBA2015 = [
 ];
 
 const TopNBA2016 = [
-    {category: 'NBA Championship Series Winner: ', title: 'Cleveland Cavaliers', link: '1'},
+    { category: 'NBA Championship Series Winner: ', title: 'Cleveland Cavaliers', link: 'https://www.youtube.com/watch?v=iDCegwpnlbM&ab_channel=NBA'},
     {category: 'NBA Championship Series Runner-Up: ', title: 'Golden State Warriors', link: '2'},
     {category: 'MVP ', title: 'Stephen Curry', link: '3'},
     {category: 'Rookie of the Year: ', title: 'Karl-Anthony Towns', link: '4'},
@@ -663,7 +663,7 @@ const TopNBA2016 = [
 ];
 
 const TopNBA2017 = [
-    {category: 'NBA Championship Series Winner: ', title: 'Golden State Warriors', link: '1'},
+    { category: 'NBA Championship Series Winner: ', title: 'Golden State Warriors', link: 'https://www.youtube.com/watch?v=S1k2McCI-v0&ab_channel=NBA'},
     {category: 'NBA Championship Series Runner-Up: ', title: 'Cleveland Cavaliers', link: '2'},
     {category: 'MVP ', title: 'Russell Westbrook', link: '3'},
     {category: 'Rookie of the Year: ', title: 'Malcolm Brogdon', link: '4'},
@@ -673,7 +673,7 @@ const TopNBA2017 = [
 ];
 
 const TopNBA2018 = [
-    {category: 'NBA Championship Series Winner: ', title: 'Golden State Warriors', link: '1'},
+    { category: 'NBA Championship Series Winner: ', title: 'Golden State Warriors', link: 'https://www.youtube.com/watch?v=l-Hu9GlDao8&ab_channel=NBA'},
     {category: 'NBA Championship Series Runner-Up: ', title: 'Cleveland Cavaliers', link: '2'},
     {category: 'MVP ', title: 'James Harden', link: '3'},
     {category: 'Rookie of the Year: ', title: 'Ben Simmons', link: '4'},
@@ -683,7 +683,7 @@ const TopNBA2018 = [
 ];
 
 const TopNBA2019 = [
-    {category: 'NBA Championship Series Winner: ', title: 'Toronto Raptors', link: '1'},
+    { category: 'NBA Championship Series Winner: ', title: 'Toronto Raptors', link: 'https://www.youtube.com/watch?v=UI7ZSgwPcHk&ab_channel=NBA'},
     {category: 'NBA Championship Series Runner-Up: ', title: 'Golden State Warriors', link: '2'},
     {category: 'MVP ', title: 'Giannis Antetokounmpo', link: '3'},
     {category: 'Rookie of the Year: ', title: 'Luka Doncic', link: '4'},
